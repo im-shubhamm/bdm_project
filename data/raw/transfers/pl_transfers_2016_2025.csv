@@ -1,0 +1,243 @@
+Season,Player,Club,Role,Nationality,FeeGBP_m,AskingGBP_m
+2022,Erling Haaland,MCI,Forward,Overseas,60.0,35.4
+2017,Mohamed Salah,LIV,Forward,Overseas,39.0,33.9
+2023,Declan Rice,ARS,Midfielder,English,105.0,66.1
+2023,Cole Palmer,CHE,Midfielder,English,42.5,30.5
+2016,Kevin De Bruyne,MCI,Midfielder,Overseas,55.0,44.5
+2018,Virgil van Dijk,LIV,Defender,Overseas,75.0,49.5
+2016,Son Heung-Min,TOT,Forward,Overseas,22.0,16.8
+2020,Bruno Fernandes,MUN,Midfielder,Overseas,55.0,40.8
+2022,Alexander Isak,NEW,Forward,Overseas,63.0,48.0
+2020,Ollie Watkins,AVL,Forward,English,28.0,16.5
+2023,Kai Havertz,ARS,Defender,Overseas,65.0,38.0
+2023,Enzo Fernandez,CHE,Midfielder,Overseas,106.8,78.2
+2023,Moises Caicedo,CHE,Midfielder,Overseas,115.0,92.8
+2023,Anthony Gordon,NEW,Midfielder,Overseas,45.0,26.5
+2020,Jarrod Bowen,WHU,Midfielder,Overseas,22.0,14.1
+2022,Morgan Gibbs-White,NFO,Defender,English,25.0,19.0
+2020,Eberechi Eze,CRY,Midfielder,English,17.0,11.3
+2024,Dominic Solanke,TOT,Defender,English,65.0,47.0
+2021,Martin Odegaard,ARS,Midfielder,Overseas,30.0,20.3
+2019,Rodri Hernandez,MCI,Midfielder,Overseas,62.8,36.3
+2019,William Saliba,ARS,Defender,Overseas,27.0,18.4
+2020,Gabriel Magalhaes,ARS,Goalkeeper,Overseas,26.0,17.6
+2019,Bryan Mbeumo,BRE,Defender,English,5.8,4.1
+2021,Yoane Wissa,BRE,Midfielder,Overseas,8.5,6.9
+2023,Matheus Cunha,WOL,Goalkeeper,English,43.0,27.5
+2021,Jean-Philippe Mateta,CRY,Forward,Overseas,12.0,10.9
+2023,Illia Zabarnyi,BOU,Forward,English,25.0,17.6
+2019,Aaron J. Almiron,CRY,Defender,English,8.6,7.3
+2021,Adam T. Dias,NFO,Midfielder,English,55.9,34.7
+2023,Ben L. Casemiro,MCI,Forward,Overseas,15.3,11.1
+2021,Cole C. Botman,MCI,Forward,Overseas,36.0,21.9
+2021,Declan T. Mitoma,ARS,Forward,Overseas,20.2,11.7
+2021,Diogo A. Sanchez,MCI,Midfielder,English,34.2,22.1
+2020,Edouard R. Ederson,LIV,Forward,Overseas,2.8,2.4
+2019,Gabriel D. Zinchenko,AVL,Forward,Overseas,12.6,10.3
+2019,Ilkay J. Pedro,BHA,Midfielder,English,28.2,20.3
+2022,Jack A. Caicedo,ARS,Forward,Overseas,14.5,8.7
+2020,James M. Guimaraes,NFO,Defender,Overseas,13.0,11.1
+2018,Joel L. Sterling,BHA,Defender,Overseas,39.8,25.1
+2024,Kieran J. Alvarez,LIV,Midfielder,English,31.4,27.2
+2024,Leandro T. Dunk,AVL,Defender,English,12.7,10.1
+2023,Marcus R. Wood,WHU,Forward,Overseas,26.1,19.2
+2018,Martin L. Cucurella,LIV,Midfielder,English,9.2,6.2
+2024,Mason S. Isak,NFO,Defender,Overseas,8.0,6.6
+2018,Matheus D. Palmer,BOU,Midfielder,English,24.9,19.9
+2017,Morgan C. Bowen,NFO,Goalkeeper,Overseas,10.2,8.3
+2021,Nicolas J. Gakpo,NEW,Midfielder,Overseas,10.6,9.3
+2020,Ollie T. Mudryk,MCI,Midfielder,Overseas,31.1,18.4
+2018,Pedro M. Bailey,CRY,Forward,Overseas,10.0,7.5
+2024,Phil R. Eze,MCI,Forward,Overseas,28.9,21.8
+2020,Raheem L. Maddison,EVE,Forward,Overseas,17.3,11.0
+2019,Rúben C. Kane,WOL,Forward,English,48.6,39.2
+2023,Scott J. Rashford,EVE,Defender,Overseas,10.1,9.0
+2024,Thiago A. Casemiro,WOL,Midfielder,Overseas,11.0,7.0
+2022,Virgil R. Odegaard,BRE,Defender,Overseas,12.2,10.2
+2022,Wilfried L. Trossard,WHU,Defender,English,14.5,11.1
+2022,Yves N. Mitoma,AVL,Midfielder,English,16.1,9.7
+2022,Zinchenko C. Sanchez,ARS,Defender,Overseas,15.4,9.5
+2021,Adam T. Ederson,TOT,Midfielder,Overseas,11.9,9.1
+2021,Andre M. Saka,NFO,Defender,Overseas,10.3,7.6
+2025,Ben L. Darwin,FUL,Forward,English,27.4,23.5
+2018,Bukayo D. Pedro,FUL,Defender,Overseas,8.8,5.5
+2019,Cole C. Caicedo,WHU,Forward,Overseas,6.4,4.7
+2021,Declan T. Nunez,AVL,Forward,English,19.4,12.4
+2020,Dominic M. Bellingham,TOT,Goalkeeper,Overseas,42.8,36.5
+2021,Edouard R. Fernandes,BHA,Midfielder,English,9.3,5.6
+2025,Ilkay J. Rice,BOU,Forward,Overseas,15.8,13.6
+2022,Jack A. Cucurella,BRE,Forward,Overseas,6.3,3.5
+2019,James M. Isak,BOU,Defender,Overseas,25.4,23.2
+2021,Jarrod R. Palmer,NFO,Midfielder,English,21.1,12.4
+2025,Joel L. Van Dijk,ARS,Midfielder,English,22.0,12.2
+2019,Jordan S. Bowen,BOU,Midfielder,Overseas,37.3,24.2
+2021,Kai N. Mudryk,MUN,Forward,English,45.7,38.5
+2021,Kevin C. Solanke,NFO,Defender,English,9.6,7.0
+2022,Kieran J. Bailey,WOL,Midfielder,English,17.6,13.3
+2023,Marcus R. Almiron,NEW,Midfielder,English,15.0,10.9
+2020,Mason S. Kane,CHE,Goalkeeper,Overseas,5.3,4.6
+2021,Mohamed N. Wissa,WOL,Forward,English,10.3,7.6
+2019,Morgan C. Casemiro,CHE,Forward,Overseas,40.0,22.8
+2022,Nicolas J. Haaland,EVE,Goalkeeper,English,17.4,10.3
+2021,Pedro M. Botman,NEW,Forward,English,26.6,18.2
+2019,Romelu N. Ederson,NFO,Forward,English,5.0,2.8
+2021,Scott J. Saka,BHA,Midfielder,Overseas,2.6,1.8
+2021,Son T. Zinchenko,BRE,Midfielder,English,10.5,6.5
+2019,Thiago A. Darwin,EVE,Forward,English,19.0,12.9
+2019,Wilfried L. Watkins,MCI,Defender,English,19.7,12.5
+2019,William S. Caicedo,BRE,Midfielder,Overseas,35.6,26.8
+2025,Zinchenko C. Sterling,FUL,Midfielder,Overseas,7.7,4.8
+2019,Aaron J. Bellingham,MUN,Midfielder,Overseas,15.7,9.3
+2023,Alex A. Martinelli,AVL,Forward,Overseas,33.7,28.6
+2024,Anthony R. Alvarez,EVE,Forward,English,27.2,20.2
+2020,Bukayo D. Rice,WHU,Goalkeeper,English,15.9,10.6
+2022,Cole C. Cucurella,FUL,Defender,Overseas,15.0,9.4
+2024,Conor J. Isak,BOU,Midfielder,Overseas,22.1,17.3
+2022,Diogo A. Van Dijk,MCI,Midfielder,Overseas,11.4,7.1
+2020,Enzo L. Mudryk,MUN,Forward,English,14.5,9.5
+2024,Harvey N. Eze,ARS,Defender,Overseas,91.2,62.5
+2021,Heung-Min C. Maddison,ARS,Forward,Overseas,12.9,10.8
+2022,Ivan T. Almiron,BRE,Midfielder,Overseas,27.6,18.7
+2023,Jack A. Dias,WHU,Midfielder,English,22.6,14.8
+2019,Jarrod R. Rashford,CRY,Forward,English,19.4,13.8
+2020,Joel L. Wissa,MUN,Goalkeeper,English,8.2,5.4
+2024,Jordan S. Casemiro,AVL,Defender,Overseas,8.9,4.9
+2021,Kai N. Odegaard,CRY,Goalkeeper,Overseas,7.1,4.4
+2024,Kieran J. Botman,CRY,Defender,Overseas,8.2,5.9
+2018,Lucas A. Mitoma,NFO,Forward,English,27.6,20.8
+2022,Mason S. Mac Allister,NEW,Goalkeeper,Overseas,5.8,4.3
+2017,Matheus D. Saka,TOT,Midfielder,English,20.7,16.7
+2021,Mohamed N. Zinchenko,BOU,Midfielder,Overseas,46.0,27.5
+2017,Morgan C. Darwin,WOL,Goalkeeper,Overseas,9.7,8.5
+2020,Nicolas J. Jesus,EVE,Goalkeeper,English,14.8,10.4
+2024,Pascal A. Watkins,FUL,Midfielder,Overseas,11.5,10.3
+2023,Phil R. Guimaraes,BRE,Midfielder,English,22.1,13.3
+2021,Raheem L. Nunez,TOT,Midfielder,Overseas,26.2,24.0
+2025,Richarlison S. Sterling,BHA,Forward,Overseas,84.7,65.0
+2022,Rodri D. Bellingham,WHU,Forward,Overseas,9.2,7.1
+2022,Rúben C. Martinelli,CHE,Defender,English,43.4,36.9
+2018,Trent M. Kulusevski,MUN,Midfielder,Overseas,40.4,29.3
+2023,Wilfried L. Wood,NEW,Midfielder,Overseas,29.6,20.3
+2019,William S. Cucurella,BHA,Goalkeeper,English,17.8,14.2
+2019,Youri D. Isak,NEW,Midfielder,Overseas,34.7,28.5
+2024,Yves N. Palmer,ARS,Defender,Overseas,4.8,3.9
+2022,Zinchenko C. Van Dijk,FUL,Defender,Overseas,31.5,22.6
+2023,Aaron J. Bowen,MUN,Midfielder,Overseas,8.6,7.5
+2019,Alex A. Mudryk,BRE,Defender,Overseas,20.8,17.2
+2023,Bukayo D. Saliba,WOL,Midfielder,English,14.3,8.5
+2018,Callum N. Almiron,ARS,Midfielder,English,9.8,8.2
+2022,Declan T. Rashford,WHU,Midfielder,Overseas,7.7,5.5
+2021,Dominic M. Casemiro,BHA,Goalkeeper,Overseas,7.8,6.7
+2021,Edouard R. Haaland,BHA,Forward,Overseas,48.3,38.8
+2022,Harvey N. Foden,NEW,Midfielder,Overseas,2.3,1.4
+2017,Heung-Min C. Mitoma,LIV,Defender,Overseas,11.5,8.9
+2022,Ilkay J. Sanchez,WOL,Midfielder,English,15.0,13.3
+2019,James M. Mac Allister,EVE,Midfielder,Overseas,8.8,6.1
+2021,Jarrod R. Saka,ARS,Defender,English,14.1,9.4
+2022,Joel L. Zinchenko,MUN,Midfielder,English,57.8,44.0
+2017,Josh D. Jesus,WOL,Midfielder,Overseas,8.1,6.1
+2020,Kevin C. Watkins,LIV,Forward,Overseas,15.6,14.0
+2021,Leandro T. Guimaraes,CRY,Defender,Overseas,2.8,1.9
+2025,Lucas A. Nunez,LIV,Defender,English,57.0,41.2
+2023,Luis M. Sterling,FUL,Midfielder,Overseas,44.1,34.4
+2019,Marcus R. Bellingham,CRY,Midfielder,English,37.4,34.0
+2021,Martin L. Fernandes,NEW,Midfielder,Overseas,14.8,12.5
+2016,Mason S. Martinelli,NFO,Midfielder,Overseas,19.8,12.9
+2021,Nicolas J. Kulusevski,CHE,Forward,Overseas,21.9,17.7
+2017,Pascal A. Wood,EVE,Defender,English,7.7,6.9
+2020,Richarlison S. Van Dijk,WOL,Midfielder,Overseas,16.5,11.3
+2024,Rodri D. Bowen,CHE,Midfielder,English,4.8,3.5
+2021,Son T. Bailey,CRY,Forward,English,21.8,13.5
+2016,Trent M. Maddison,AVL,Defender,Overseas,26.1,19.5
+2021,Virgil R. Saliba,TOT,Defender,English,9.3,6.4
+2021,Youri D. Kane,LIV,Forward,Overseas,10.4,6.9
+2024,Yves N. Rashford,WOL,Midfielder,Overseas,12.2,9.7
+2022,Zinchenko C. Wissa,CHE,Midfielder,Overseas,17.6,15.7
+2021,Adam T. Haaland,BRE,Forward,English,8.6,7.8
+2019,Bruno S. Mitoma,BOU,Defender,Overseas,40.0,29.4
+2022,Bukayo D. Sanchez,BRE,Defender,English,12.7,10.2
+2022,Cole C. Ederson,WHU,Midfielder,Overseas,16.4,11.0
+2020,Declan T. Saka,BHA,Forward,English,81.5,45.2
+2021,Dominic M. Darwin,TOT,Goalkeeper,Overseas,42.9,33.2
+2020,Enzo L. Pedro,CRY,Goalkeeper,English,10.5,8.4
+2023,Erling S. Watkins,CRY,Goalkeeper,Overseas,13.5,10.9
+2020,Gabriel D. Caicedo,ARS,Forward,Overseas,59.0,40.7
+2022,James M. Martinelli,CHE,Forward,Overseas,10.2,8.7
+2020,Jarrod R. Salah,EVE,Forward,Overseas,24.0,15.6
+2021,Joel L. Alvarez,FUL,Forward,Overseas,43.5,36.4
+2022,Josh D. Kulusevski,MCI,Forward,Overseas,30.7,25.4
+2023,Kai N. Rice,WHU,Forward,Overseas,28.5,19.7
+2021,Leandro T. Isak,WHU,Forward,Overseas,6.8,4.9
+2022,Lucas A. Palmer,CHE,Midfielder,English,28.6,23.8
+2022,Luis M. Van Dijk,TOT,Forward,Overseas,24.4,13.5
+2020,Marcus R. Bowen,LIV,Defender,Overseas,13.5,11.2
+2019,Martin L. Gakpo,EVE,Forward,Overseas,14.3,8.3
+2021,Mason S. Mudryk,NEW,Forward,Overseas,18.5,13.1
+2023,Matheus D. Solanke,NEW,Defender,Overseas,78.9,71.2
+2016,Nicolas J. Maddison,BOU,Forward,Overseas,16.6,10.3
+2020,Ollie T. Saliba,AVL,Defender,English,16.0,13.8
+2018,Pascal A. Almiron,BOU,Midfielder,Overseas,25.3,16.9
+2023,Pedro M. Dias,BOU,Midfielder,English,22.0,13.0
+2020,Raheem L. Rashford,BHA,Goalkeeper,Overseas,24.2,18.0
+2018,Richarlison S. Wissa,LIV,Goalkeeper,Overseas,4.7,3.4
+2018,Rodri D. Casemiro,CHE,Forward,English,7.7,5.7
+2020,Romelu N. Haaland,MCI,Defender,Overseas,12.3,8.6
+2017,Rúben C. Odegaard,BHA,Forward,Overseas,6.0,3.4
+2021,Scott J. Trossard,FUL,Forward,English,20.6,12.1
+2020,Son T. Botman,EVE,Defender,English,13.1,11.0
+2022,Thiago A. Foden,MUN,Midfielder,Overseas,6.4,3.9
+2021,William S. Ederson,BRE,Midfielder,Overseas,31.6,28.0
+2021,Youri D. Mac Allister,BOU,Midfielder,English,8.3,7.2
+2021,Yves N. Saka,CRY,Forward,Overseas,38.1,33.2
+2019,Zinchenko C. Zinchenko,WOL,Goalkeeper,English,21.4,12.0
+2023,Aaron J. Darwin,NEW,Forward,Overseas,28.8,23.5
+2022,Adam T. Jesus,NEW,Defender,English,14.1,9.8
+2023,Alex A. Pedro,NFO,Forward,English,13.4,11.6
+2024,Andre M. Watkins,MUN,Forward,English,7.0,4.3
+2021,Ben L. Guimaraes,LIV,Midfielder,Overseas,19.3,13.6
+2019,Bukayo D. Sterling,EVE,Midfielder,English,55.4,47.3
+2020,Conor J. Martinelli,NEW,Defender,Overseas,7.0,5.7
+2021,Declan T. Salah,CRY,Defender,English,11.4,9.7
+2021,Diogo A. Alvarez,BOU,Forward,English,21.1,13.5
+2020,Dominic M. Dunk,NEW,Midfielder,Overseas,30.1,23.2
+2023,Erling S. Wood,BRE,Midfielder,English,34.9,25.6
+2023,Harvey N. Isak,NEW,Midfielder,English,22.5,14.0
+2018,Ivan T. Bowen,WOL,Forward,English,15.1,12.2
+2021,Jarrod R. Solanke,AVL,Midfielder,Overseas,9.3,7.8
+2021,Jordan S. Eze,FUL,Midfielder,Overseas,10.3,8.2
+2017,Kevin C. Almiron,CRY,Defender,English,30.4,22.5
+2023,Kieran J. Dias,NFO,Defender,English,3.3,2.1
+2022,Luis M. Wissa,FUL,Forward,Overseas,26.4,21.3
+2019,Martin L. Haaland,EVE,Midfielder,Overseas,14.0,8.3
+2022,Mason S. Odegaard,NFO,Midfielder,Overseas,11.2,6.8
+2020,Mohamed N. Botman,MUN,Forward,English,9.5,8.1
+2021,Morgan C. Foden,LIV,Defender,English,37.1,28.6
+2020,Ollie T. Sanchez,TOT,Forward,English,11.8,9.7
+2021,Pedro M. Ederson,EVE,Midfielder,Overseas,17.1,13.1
+2022,Phil R. Mac Allister,EVE,Defender,Overseas,7.8,5.2
+2022,Raheem L. Saka,BRE,Forward,English,12.2,9.1
+2019,Richarlison S. Zinchenko,ARS,Midfielder,English,16.7,10.1
+2018,Romelu N. Jesus,EVE,Defender,Overseas,13.8,11.8
+2023,Rúben C. Pedro,NEW,Goalkeeper,English,8.7,7.5
+2023,Scott J. Watkins,CHE,Midfielder,Overseas,35.4,25.3
+2021,Thiago A. Guimaraes,NFO,Defender,English,37.6,21.4
+2020,Virgil R. Sterling,BOU,Forward,English,21.5,13.4
+2022,Wilfried L. Bellingham,BRE,Midfielder,Overseas,11.0,7.1
+2023,William S. Fernandes,BOU,Defender,Overseas,13.2,11.6
+2022,Youri D. Martinelli,AVL,Forward,Overseas,33.3,25.6
+2022,Yves N. Salah,WHU,Forward,Overseas,29.7,17.7
+2018,Zinchenko C. Alvarez,EVE,Midfielder,Overseas,8.2,5.3
+2020,Adam T. Kulusevski,ARS,Midfielder,Overseas,8.3,5.1
+2021,Andre M. Wood,CRY,Defender,English,28.3,15.6
+2022,Bruno S. Palmer,BOU,Midfielder,Overseas,35.6,26.0
+2021,Cole C. Gakpo,WOL,Forward,Overseas,7.2,5.7
+2021,Conor J. Mudryk,EVE,Defender,English,4.2,3.5
+2024,Diogo A. Bailey,MCI,Goalkeeper,Overseas,10.7,9.3
+2023,Dominic M. Eze,LIV,Defender,English,19.1,14.7
+2023,Enzo L. Saliba,BOU,Midfielder,English,12.8,9.1
+2020,Ilkay J. Wissa,CRY,Forward,English,39.6,25.3
+2023,Ivan T. Casemiro,WHU,Defender,Overseas,29.3,20.8
+2018,James M. Odegaard,CHE,Midfielder,Overseas,12.5,7.6
+2022,Jarrod R. Trossard,CHE,Defender,English,10.9,9.4
+2022,Jordan S. Foden,MCI,Forward,Overseas,49.6,36.7
+2021,Kai N. Sanchez,CHE,Goalkeeper,Overseas,4.0,3.0
