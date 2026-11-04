@@ -1,12 +1,28 @@
-# Power BI
+# Power BI — Superstore Profitability (BDM)
 
-This BDM submission centres on the **MERN web dashboard** (`web/`), which implements the same pages and Value Index rules a Power BI report would show.
+## Open in Power BI Desktop (Windows / your laptop)
 
-To rebuild a Power BI desktop file for viva:
+1. Open **Power BI Desktop**.
+2. **Get data → Text** → select every CSV in `powerbi/data/`:
+   - `FactSales.csv` (fact)
+   - `DimCustomer.csv`
+   - `DimProduct.csv`
+   - `DimLocation.csv`
+   - `DimCalendar.csv`
+3. In **Model view**, create relationships:
 
-1. Load each CSV in `data/processed/` as a table.
-2. Relate on `PlayerID`, `TeamKey`, `Season`, `TeamSeasonKey`.
-3. Recreate measures from `docs/PRD_WebApp.md` / `HANDOFF.md` (Value Index must use seasonal shares, never an average of VI).
-4. Pages: Home, Market, Clubs, Value Map, Steals, Roles, Brackets, Players, Methodology.
+| From | To |
+| --- | --- |
+| FactSales[CustomerID] | DimCustomer[CustomerID] |
+| FactSales[ProductID] | DimProduct[ProductID] |
+| FactSales[OrderDate] | DimCalendar[Date] (mark DimCalendar as date table) |
 
-Optional: export a PDF of the web pages into `powerbi/deliverables/` for the report appendix.
+City/State/Region can be used from the fact table or DimLocation.
+
+4. Paste measures from `powerbi/measures/DAX.md` into a `_Measures` table.
+5. Build pages listed in `powerbi/pages/PAGES.md`.
+6. Export PDF to `powerbi/deliverables/` for the report appendix.
+
+## Why this is the Power BI half
+
+MongoDB powers the live web demo. Power BI is the **classroom / viva** visual layer on the same cleaned star schema (`powerbi/data` = export of `data/processed`).

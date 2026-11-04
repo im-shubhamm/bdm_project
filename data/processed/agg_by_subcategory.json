@@ -1,0 +1,155 @@
+[
+ {
+  "Category": "Furniture",
+  "SubCategory": "Tables",
+  "Sales": 206965.532,
+  "Profit": -17725.4811,
+  "Qty": 1241,
+  "AvgDiscount": 0.2612852664576803,
+  "ProfitMargin": -0.08564460433923848
+ },
+ {
+  "Category": "Furniture",
+  "SubCategory": "Bookcases",
+  "Sales": 114879.9963,
+  "Profit": -3472.556,
+  "Qty": 868,
+  "AvgDiscount": 0.211140350877193,
+  "ProfitMargin": -0.030227682032054524
+ },
+ {
+  "Category": "Office Supplies",
+  "SubCategory": "Supplies",
+  "Sales": 46673.538,
+  "Profit": -1189.0995,
+  "Qty": 647,
+  "AvgDiscount": 0.0768421052631579,
+  "ProfitMargin": -0.025476952272184723
+ },
+ {
+  "Category": "Office Supplies",
+  "SubCategory": "Fasteners",
+  "Sales": 3024.28,
+  "Profit": 949.5182,
+  "Qty": 914,
+  "AvgDiscount": 0.08202764976958525,
+  "ProfitMargin": 0.3139650429193064
+ },
+ {
+  "Category": "Technology",
+  "SubCategory": "Machines",
+  "Sales": 189238.631,
+  "Profit": 3384.7569,
+  "Qty": 440,
+  "AvgDiscount": 0.3060869565217391,
+  "ProfitMargin": 0.01788618360909618
+ },
+ {
+  "Category": "Office Supplies",
+  "SubCategory": "Labels",
+  "Sales": 12486.312,
+  "Profit": 5546.254,
+  "Qty": 1400,
+  "AvgDiscount": 0.06868131868131869,
+  "ProfitMargin": 0.4441867222283089
+ },
+ {
+  "Category": "Office Supplies",
+  "SubCategory": "Art",
+  "Sales": 27118.792,
+  "Profit": 6527.787,
+  "Qty": 3000,
+  "AvgDiscount": 0.07487437185929649,
+  "ProfitMargin": 0.24071083254740847
+ },
+ {
+  "Category": "Office Supplies",
+  "SubCategory": "Envelopes",
+  "Sales": 16476.402,
+  "Profit": 6964.1767,
+  "Qty": 906,
+  "AvgDiscount": 0.08031496062992127,
+  "ProfitMargin": 0.42267581842200747
+ },
+ {
+  "Category": "Furniture",
+  "SubCategory": "Furnishings",
+  "Sales": 91705.164,
+  "Profit": 13059.1436,
+  "Qty": 3563,
+  "AvgDiscount": 0.13834900731452457,
+  "ProfitMargin": 0.14240357936658832
+ },
+ {
+  "Category": "Office Supplies",
+  "SubCategory": "Appliances",
+  "Sales": 107532.16100000001,
+  "Profit": 18138.005400000002,
+  "Qty": 1729,
+  "AvgDiscount": 0.1665236051502146,
+  "ProfitMargin": 0.16867516872463859
+ },
+ {
+  "Category": "Office Supplies",
+  "SubCategory": "Storage",
+  "Sales": 223843.608,
+  "Profit": 21278.8264,
+  "Qty": 3158,
+  "AvgDiscount": 0.07470449172576832,
+  "ProfitMargin": 0.09506113035847778
+ },
+ {
+  "Category": "Furniture",
+  "SubCategory": "Chairs",
+  "Sales": 328449.103,
+  "Profit": 26590.1663,
+  "Qty": 2356,
+  "AvgDiscount": 0.17017828200972449,
+  "ProfitMargin": 0.08095673289142763
+ },
+ {
+  "Category": "Office Supplies",
+  "SubCategory": "Binders",
+  "Sales": 203412.733,
+  "Profit": 30221.7633,
+  "Qty": 5974,
+  "AvgDiscount": 0.3722915298752462,
+  "ProfitMargin": 0.1485736062550224
+ },
+ {
+  "Category": "Office Supplies",
+  "SubCategory": "Paper",
+  "Sales": 78479.206,
+  "Profit": 34053.5693,
+  "Qty": 5178,
+  "AvgDiscount": 0.07489051094890511,
+  "ProfitMargin": 0.43391837195702515
+ },
+ {
+  "Category": "Technology",
+  "SubCategory": "Accessories",
+  "Sales": 167380.318,
+  "Profit": 41936.6357,
+  "Qty": 2976,
+  "AvgDiscount": 0.07845161290322582,
+  "ProfitMargin": 0.2505469950176579
+ },
+ {
+  "Category": "Technology",
+  "SubCategory": "Phones",
+  "Sales": 330007.054,
+  "Profit": 44515.7306,
+  "Qty": 3289,
+  "AvgDiscount": 0.15455568053993252,
+  "ProfitMargin": 0.1348932698874976
+ },
+ {
+  "Category": "Technology",
+  "SubCategory": "Copiers",
+  "Sales": 149528.03,
+  "Profit": 55617.8249,
+  "Qty": 234,
+  "AvgDiscount": 0.16176470588235295,
+  "ProfitMargin": 0.3719558460042575
+ }
+]

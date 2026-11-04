@@ -1,14 +1,16 @@
-# 8-minute demo script — PL Transfer Value
+# 8-minute presentation script
 
 **Team:** Shubham (2023IMG048), Arkadip Siddha (2023IMG009), Advitya Ranjan (2023IMG004), Chayan Das (2023IMG017)
 
-1. **Home (1 min)** — One question: which Premier League transfer fees earned their price? Show KPI strip and explore prompt.
-2. **Market (1 min)** — Fee inflation across 2016–2025 windows; open windows highlighted.
-3. **Clubs (1 min)** — Value Index by club; spend vs win % correlation vs Value Index vs win %.
-4. **Value Map (1 min)** — Quadrants: Star / Steal / Overpaid / Passenger for a season.
-5. **Steals (1.5 min)** — Top steals vs largest £m overpays (e.g. 2023: Caicedo / Enzo). Failed targets list.
-6. **Roles & Brackets (1 min)** — English vs Overseas; fee bands and diminishing returns.
-7. **Players / Squad Builder (1 min)** — Search Salah or Palmer; draft under £100m budget.
-8. **Methodology (30s)** — Impact formula, Value Index shares, limitations, team credits.
+1. **Hook (30s)** — “Sales can look healthy while profit quietly dies. We prove it on a real Superstore dataset.”
+2. **Data & stack (1 min)** — Internet CSV → ETL → MongoDB + Power BI + web demo. Show Methodology page / report slide.
+3. **Overview (1 min)** — $2.3M sales, $286k profit, 19% loss lines. Year trend.
+4. **Categories (2 min)** — Furniture trap: Tables & Bookcases negative profit. Technology pays the bills. *(Best Power BI slide.)*
+5. **Discounts (1.5 min)** — High discount bands turn red on profit. Recommendation: cap &gt;20% on bad subcategories.
+6. **Customers (1 min)** — RFM Champions vs At Risk.
+7. **Close (1 min)** — Three actions: reprice Tables, protect Copiers/Phones, target At Risk whales. Q&A.
 
-Likely examiner questions: Why not average Value Index? Why attach fee only to arrival season? How is Impact Points weighted?
+### Likely questions
+- Why MongoDB *and* Power BI? → Mongo for app/API; Power BI for interactive viva visuals on the same star schema.
+- Is the data real? → Yes, public Sample Superstore; URL in README/report.
+- What would you do next? → Live POS feed, A/B discount tests, store-level stockout data.

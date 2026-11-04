@@ -1,0 +1,6322 @@
+[
+ {
+  "City": "Aberdeen",
+  "State": "South Dakota",
+  "Region": "Central",
+  "PostalCode": "57401",
+  "Sales": 25.5,
+  "Profit": 6.63,
+  "Orders": 1,
+  "LocationKey": "Aberdeen|South Dakota|57401"
+ },
+ {
+  "City": "Abilene",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "79605",
+  "Sales": 1.392,
+  "Profit": -3.7584,
+  "Orders": 1,
+  "LocationKey": "Abilene|Texas|79605"
+ },
+ {
+  "City": "Akron",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44312",
+  "Sales": 2729.986,
+  "Profit": -186.6356,
+  "Orders": 10,
+  "LocationKey": "Akron|Ohio|44312"
+ },
+ {
+  "City": "Albuquerque",
+  "State": "New Mexico",
+  "Region": "West",
+  "PostalCode": "87105",
+  "Sales": 2220.16,
+  "Profit": 634.0880999999999,
+  "Orders": 7,
+  "LocationKey": "Albuquerque|New Mexico|87105"
+ },
+ {
+  "City": "Alexandria",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "22304",
+  "Sales": 5519.57,
+  "Profit": 318.61830000000003,
+  "Orders": 6,
+  "LocationKey": "Alexandria|Virginia|22304"
+ },
+ {
+  "City": "Allen",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75002",
+  "Sales": 290.206,
+  "Profit": -39.8775,
+  "Orders": 2,
+  "LocationKey": "Allen|Texas|75002"
+ },
+ {
+  "City": "Allentown",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "18103",
+  "Sales": 853.252,
+  "Profit": -226.4504,
+  "Orders": 2,
+  "LocationKey": "Allentown|Pennsylvania|18103"
+ },
+ {
+  "City": "Altoona",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "16602",
+  "Sales": 20.451,
+  "Profit": -1.1835,
+  "Orders": 1,
+  "LocationKey": "Altoona|Pennsylvania|16602"
+ },
+ {
+  "City": "Amarillo",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "79109",
+  "Sales": 3773.0628,
+  "Profit": -387.9683,
+  "Orders": 7,
+  "LocationKey": "Amarillo|Texas|79109"
+ },
+ {
+  "City": "Anaheim",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92804",
+  "Sales": 7986.87,
+  "Profit": 1234.0036,
+  "Orders": 9,
+  "LocationKey": "Anaheim|California|92804"
+ },
+ {
+  "City": "Andover",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "1810",
+  "Sales": 435.84999999999997,
+  "Profit": 124.1886,
+  "Orders": 1,
+  "LocationKey": "Andover|Massachusetts|1810"
+ },
+ {
+  "City": "Ann Arbor",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48104",
+  "Sales": 889.273,
+  "Profit": 228.9158,
+  "Orders": 2,
+  "LocationKey": "Ann Arbor|Michigan|48104"
+ },
+ {
+  "City": "Antioch",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94509",
+  "Sales": 19.44,
+  "Profit": 9.3312,
+  "Orders": 1,
+  "LocationKey": "Antioch|California|94509"
+ },
+ {
+  "City": "Apopka",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32712",
+  "Sales": 904.554,
+  "Profit": 54.3634,
+  "Orders": 3,
+  "LocationKey": "Apopka|Florida|32712"
+ },
+ {
+  "City": "Apple Valley",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92307",
+  "Sales": 1915.0810000000001,
+  "Profit": 283.6184,
+  "Orders": 3,
+  "LocationKey": "Apple Valley|California|92307"
+ },
+ {
+  "City": "Apple Valley",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55124",
+  "Sales": 137.94,
+  "Profit": 8.9706,
+  "Orders": 2,
+  "LocationKey": "Apple Valley|Minnesota|55124"
+ },
+ {
+  "City": "Appleton",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "54915",
+  "Sales": 1671.31,
+  "Profit": 554.7663,
+  "Orders": 2,
+  "LocationKey": "Appleton|Wisconsin|54915"
+ },
+ {
+  "City": "Arlington",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "76017",
+  "Sales": 5847.772,
+  "Profit": -254.38859999999997,
+  "Orders": 10,
+  "LocationKey": "Arlington|Texas|76017"
+ },
+ {
+  "City": "Arlington",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "22204",
+  "Sales": 14366.76,
+  "Profit": 4424.0855,
+  "Orders": 21,
+  "LocationKey": "Arlington|Virginia|22204"
+ },
+ {
+  "City": "Arlington Heights",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60004",
+  "Sales": 14.112,
+  "Profit": 1.2348,
+  "Orders": 1,
+  "LocationKey": "Arlington Heights|Illinois|60004"
+ },
+ {
+  "City": "Arvada",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80004",
+  "Sales": 503.4,
+  "Profit": 59.8556,
+  "Orders": 1,
+  "LocationKey": "Arvada|Colorado|80004"
+ },
+ {
+  "City": "Asheville",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "28806",
+  "Sales": 1475.376,
+  "Profit": 77.5074,
+  "Orders": 6,
+  "LocationKey": "Asheville|North Carolina|28806"
+ },
+ {
+  "City": "Athens",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "30605",
+  "Sales": 1720.81,
+  "Profit": 479.3221,
+  "Orders": 5,
+  "LocationKey": "Athens|Georgia|30605"
+ },
+ {
+  "City": "Atlanta",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "30318",
+  "Sales": 17197.84,
+  "Profit": 6993.6629,
+  "Orders": 17,
+  "LocationKey": "Atlanta|Georgia|30318"
+ },
+ {
+  "City": "Atlantic City",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "8401",
+  "Sales": 23.36,
+  "Profit": 11.68,
+  "Orders": 1,
+  "LocationKey": "Atlantic City|New Jersey|8401"
+ },
+ {
+  "City": "Auburn",
+  "State": "Alabama",
+  "Region": "South",
+  "PostalCode": "36830",
+  "Sales": 1766.83,
+  "Profit": 452.6071,
+  "Orders": 3,
+  "LocationKey": "Auburn|Alabama|36830"
+ },
+ {
+  "City": "Auburn",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "13021",
+  "Sales": 1384.158,
+  "Profit": 280.8048,
+  "Orders": 6,
+  "LocationKey": "Auburn|New York|13021"
+ },
+ {
+  "City": "Auburn",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98002",
+  "Sales": 4.18,
+  "Profit": 1.5048,
+  "Orders": 1,
+  "LocationKey": "Auburn|Washington|98002"
+ },
+ {
+  "City": "Aurora",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80013",
+  "Sales": 4083.5099999999998,
+  "Profit": -797.019,
+  "Orders": 15,
+  "LocationKey": "Aurora|Colorado|80013"
+ },
+ {
+  "City": "Aurora",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60505",
+  "Sales": 7572.968,
+  "Profit": -1894.7196000000001,
+  "Orders": 20,
+  "LocationKey": "Aurora|Illinois|60505"
+ },
+ {
+  "City": "Austin",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78745",
+  "Sales": 6057.982,
+  "Profit": -20.393799999999967,
+  "Orders": 18,
+  "LocationKey": "Austin|Texas|78745"
+ },
+ {
+  "City": "Avondale",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85323",
+  "Sales": 946.808,
+  "Profit": 76.169,
+  "Orders": 3,
+  "LocationKey": "Avondale|Arizona|85323"
+ },
+ {
+  "City": "Bakersfield",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93309",
+  "Sales": 1377.29,
+  "Profit": 187.9247,
+  "Orders": 8,
+  "LocationKey": "Bakersfield|California|93309"
+ },
+ {
+  "City": "Baltimore",
+  "State": "Maryland",
+  "Region": "East",
+  "PostalCode": "21215",
+  "Sales": 6156.842000000001,
+  "Profit": 1676.198,
+  "Orders": 21,
+  "LocationKey": "Baltimore|Maryland|21215"
+ },
+ {
+  "City": "Bangor",
+  "State": "Maine",
+  "Region": "East",
+  "PostalCode": "4401",
+  "Sales": 1164.45,
+  "Profit": 422.2204,
+  "Orders": 2,
+  "LocationKey": "Bangor|Maine|4401"
+ },
+ {
+  "City": "Bartlett",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "38134",
+  "Sales": 88.96,
+  "Profit": 10.008,
+  "Orders": 1,
+  "LocationKey": "Bartlett|Tennessee|38134"
+ },
+ {
+  "City": "Bayonne",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7002",
+  "Sales": 183.4,
+  "Profit": 79.403,
+  "Orders": 1,
+  "LocationKey": "Bayonne|New Jersey|7002"
+ },
+ {
+  "City": "Baytown",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77520",
+  "Sales": 10.368,
+  "Profit": 3.6288,
+  "Orders": 1,
+  "LocationKey": "Baytown|Texas|77520"
+ },
+ {
+  "City": "Beaumont",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77705",
+  "Sales": 472.11600000000004,
+  "Profit": 59.11639999999999,
+  "Orders": 3,
+  "LocationKey": "Beaumont|Texas|77705"
+ },
+ {
+  "City": "Bedford",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "76021",
+  "Sales": 226.25600000000003,
+  "Profit": 10.6202,
+  "Orders": 2,
+  "LocationKey": "Bedford|Texas|76021"
+ },
+ {
+  "City": "Belleville",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7109",
+  "Sales": 1891.6000000000001,
+  "Profit": 283.6492,
+  "Orders": 4,
+  "LocationKey": "Belleville|New Jersey|7109"
+ },
+ {
+  "City": "Bellevue",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98006",
+  "Sales": 103.622,
+  "Profit": 37.0548,
+  "Orders": 5,
+  "LocationKey": "Bellevue|Washington|98006"
+ },
+ {
+  "City": "Bellingham",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98226",
+  "Sales": 3790.24,
+  "Profit": 610.5908,
+  "Orders": 2,
+  "LocationKey": "Bellingham|Washington|98226"
+ },
+ {
+  "City": "Bethlehem",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "18018",
+  "Sales": 1689.6339999999998,
+  "Profit": -1003.0958,
+  "Orders": 2,
+  "LocationKey": "Bethlehem|Pennsylvania|18018"
+ },
+ {
+  "City": "Beverly",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "1915",
+  "Sales": 2583.19,
+  "Profit": 654.9194,
+  "Orders": 1,
+  "LocationKey": "Beverly|Massachusetts|1915"
+ },
+ {
+  "City": "Billings",
+  "State": "Montana",
+  "Region": "West",
+  "PostalCode": "59102",
+  "Sales": 8.288,
+  "Profit": 2.6936,
+  "Orders": 1,
+  "LocationKey": "Billings|Montana|59102"
+ },
+ {
+  "City": "Bloomington",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "61701",
+  "Sales": 963.94,
+  "Profit": -432.1283,
+  "Orders": 6,
+  "LocationKey": "Bloomington|Illinois|61701"
+ },
+ {
+  "City": "Bloomington",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "47401",
+  "Sales": 603.8,
+  "Profit": 182.7733,
+  "Orders": 4,
+  "LocationKey": "Bloomington|Indiana|47401"
+ },
+ {
+  "City": "Boca Raton",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33433",
+  "Sales": 63.007999999999996,
+  "Profit": -22.645599999999998,
+  "Orders": 2,
+  "LocationKey": "Boca Raton|Florida|33433"
+ },
+ {
+  "City": "Boise",
+  "State": "Idaho",
+  "Region": "West",
+  "PostalCode": "83704",
+  "Sales": 1094.47,
+  "Profit": 221.9373,
+  "Orders": 3,
+  "LocationKey": "Boise|Idaho|83704"
+ },
+ {
+  "City": "Bolingbrook",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60440",
+  "Sales": 218.308,
+  "Profit": -4.660999999999998,
+  "Orders": 3,
+  "LocationKey": "Bolingbrook|Illinois|60440"
+ },
+ {
+  "City": "Bossier City",
+  "State": "Louisiana",
+  "Region": "South",
+  "PostalCode": "71111",
+  "Sales": 1417.18,
+  "Profit": 336.9608,
+  "Orders": 2,
+  "LocationKey": "Bossier City|Louisiana|71111"
+ },
+ {
+  "City": "Bowling Green",
+  "State": "Kentucky",
+  "Region": "South",
+  "PostalCode": "42104",
+  "Sales": 211.81,
+  "Profit": 67.1168,
+  "Orders": 2,
+  "LocationKey": "Bowling Green|Kentucky|42104"
+ },
+ {
+  "City": "Bowling Green",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "43402",
+  "Sales": 1865.565,
+  "Profit": 149.94490000000002,
+  "Orders": 4,
+  "LocationKey": "Bowling Green|Ohio|43402"
+ },
+ {
+  "City": "Boynton Beach",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33437",
+  "Sales": 469.585,
+  "Profit": 50.661500000000004,
+  "Orders": 4,
+  "LocationKey": "Boynton Beach|Florida|33437"
+ },
+ {
+  "City": "Bozeman",
+  "State": "Montana",
+  "Region": "West",
+  "PostalCode": "59715",
+  "Sales": 43.66,
+  "Profit": 20.8106,
+  "Orders": 1,
+  "LocationKey": "Bozeman|Montana|59715"
+ },
+ {
+  "City": "Brentwood",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94513",
+  "Sales": 5090.114,
+  "Profit": 1216.8104,
+  "Orders": 6,
+  "LocationKey": "Brentwood|California|94513"
+ },
+ {
+  "City": "Bridgeton",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "8302",
+  "Sales": 52.410000000000004,
+  "Profit": 3.4415999999999998,
+  "Orders": 1,
+  "LocationKey": "Bridgeton|New Jersey|8302"
+ },
+ {
+  "City": "Bristol",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6010",
+  "Sales": 814.58,
+  "Profit": 208.1567,
+  "Orders": 3,
+  "LocationKey": "Bristol|Connecticut|6010"
+ },
+ {
+  "City": "Bristol",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37620",
+  "Sales": 436.60200000000003,
+  "Profit": -126.5204,
+  "Orders": 4,
+  "LocationKey": "Bristol|Tennessee|37620"
+ },
+ {
+  "City": "Broken Arrow",
+  "State": "Oklahoma",
+  "Region": "Central",
+  "PostalCode": "74012",
+  "Sales": 2439.53,
+  "Profit": 575.5226,
+  "Orders": 3,
+  "LocationKey": "Broken Arrow|Oklahoma|74012"
+ },
+ {
+  "City": "Broomfield",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80020",
+  "Sales": 793.504,
+  "Profit": 62.445,
+  "Orders": 2,
+  "LocationKey": "Broomfield|Colorado|80020"
+ },
+ {
+  "City": "Brownsville",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78521",
+  "Sales": 1292.2268000000001,
+  "Profit": 202.072,
+  "Orders": 4,
+  "LocationKey": "Brownsville|Texas|78521"
+ },
+ {
+  "City": "Bryan",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77803",
+  "Sales": 616.656,
+  "Profit": -213.7116,
+  "Orders": 2,
+  "LocationKey": "Bryan|Texas|77803"
+ },
+ {
+  "City": "Buffalo",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "14215",
+  "Sales": 9063.496,
+  "Profit": 992.8791000000001,
+  "Orders": 7,
+  "LocationKey": "Buffalo|New York|14215"
+ },
+ {
+  "City": "Buffalo Grove",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60089",
+  "Sales": 831.399,
+  "Profit": -89.6478,
+  "Orders": 2,
+  "LocationKey": "Buffalo Grove|Illinois|60089"
+ },
+ {
+  "City": "Bullhead City",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "86442",
+  "Sales": 22.288,
+  "Profit": 6.7232,
+  "Orders": 1,
+  "LocationKey": "Bullhead City|Arizona|86442"
+ },
+ {
+  "City": "Burbank",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "91505",
+  "Sales": 3247.1580000000004,
+  "Profit": 764.5337999999999,
+  "Orders": 1,
+  "LocationKey": "Burbank|California|91505"
+ },
+ {
+  "City": "Burlington",
+  "State": "Iowa",
+  "Region": "Central",
+  "PostalCode": "52601",
+  "Sales": 57.43,
+  "Profit": 26.671400000000002,
+  "Orders": 2,
+  "LocationKey": "Burlington|Iowa|52601"
+ },
+ {
+  "City": "Burlington",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27217",
+  "Sales": 12681.282,
+  "Profit": -5894.5269,
+  "Orders": 7,
+  "LocationKey": "Burlington|North Carolina|27217"
+ },
+ {
+  "City": "Burlington",
+  "State": "Vermont",
+  "Region": "East",
+  "PostalCode": "0",
+  "Sales": 8929.369999999999,
+  "Profit": 2244.9782999999998,
+  "Orders": 6,
+  "LocationKey": "Burlington|Vermont|0"
+ },
+ {
+  "City": "Caldwell",
+  "State": "Idaho",
+  "Region": "West",
+  "PostalCode": "83605",
+  "Sales": 455.63199999999995,
+  "Profit": 58.6966,
+  "Orders": 1,
+  "LocationKey": "Caldwell|Idaho|83605"
+ },
+ {
+  "City": "Camarillo",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93010",
+  "Sales": 1467.5175,
+  "Profit": 158.79559999999998,
+  "Orders": 2,
+  "LocationKey": "Camarillo|California|93010"
+ },
+ {
+  "City": "Cambridge",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "2138",
+  "Sales": 502.09000000000003,
+  "Profit": 173.7276,
+  "Orders": 3,
+  "LocationKey": "Cambridge|Massachusetts|2138"
+ },
+ {
+  "City": "Canton",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48187",
+  "Sales": 818.13,
+  "Profit": 149.2776,
+  "Orders": 2,
+  "LocationKey": "Canton|Michigan|48187"
+ },
+ {
+  "City": "Carlsbad",
+  "State": "New Mexico",
+  "Region": "West",
+  "PostalCode": "88220",
+  "Sales": 419.34,
+  "Profit": 157.7661,
+  "Orders": 5,
+  "LocationKey": "Carlsbad|New Mexico|88220"
+ },
+ {
+  "City": "Carol Stream",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60188",
+  "Sales": 1305.81,
+  "Profit": -39.8683,
+  "Orders": 1,
+  "LocationKey": "Carol Stream|Illinois|60188"
+ },
+ {
+  "City": "Carrollton",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75007",
+  "Sales": 2200.6459999999997,
+  "Profit": -470.21389999999997,
+  "Orders": 8,
+  "LocationKey": "Carrollton|Texas|75007"
+ },
+ {
+  "City": "Cary",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27511",
+  "Sales": 505.20799999999997,
+  "Profit": 54.0386,
+  "Orders": 3,
+  "LocationKey": "Cary|North Carolina|27511"
+ },
+ {
+  "City": "Cedar Hill",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75104",
+  "Sales": 122.376,
+  "Profit": 42.8316,
+  "Orders": 2,
+  "LocationKey": "Cedar Hill|Texas|75104"
+ },
+ {
+  "City": "Cedar Rapids",
+  "State": "Iowa",
+  "Region": "Central",
+  "PostalCode": "52402",
+  "Sales": 278.4,
+  "Profit": 80.736,
+  "Orders": 1,
+  "LocationKey": "Cedar Rapids|Iowa|52402"
+ },
+ {
+  "City": "Champaign",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "61821",
+  "Sales": 151.96,
+  "Profit": -182.352,
+  "Orders": 1,
+  "LocationKey": "Champaign|Illinois|61821"
+ },
+ {
+  "City": "Chandler",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85224",
+  "Sales": 1076.747,
+  "Profit": 81.46049999999998,
+  "Orders": 6,
+  "LocationKey": "Chandler|Arizona|85224"
+ },
+ {
+  "City": "Chapel Hill",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27514",
+  "Sales": 14.016,
+  "Profit": 4.7304,
+  "Orders": 1,
+  "LocationKey": "Chapel Hill|North Carolina|27514"
+ },
+ {
+  "City": "Charlotte",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "28205",
+  "Sales": 13693.339,
+  "Profit": -429.7824,
+  "Orders": 24,
+  "LocationKey": "Charlotte|North Carolina|28205"
+ },
+ {
+  "City": "Charlottesville",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "22901",
+  "Sales": 102.60999999999999,
+  "Profit": 22.6278,
+  "Orders": 2,
+  "LocationKey": "Charlottesville|Virginia|22901"
+ },
+ {
+  "City": "Chattanooga",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37421",
+  "Sales": 988.803,
+  "Profit": 27.191799999999994,
+  "Orders": 6,
+  "LocationKey": "Chattanooga|Tennessee|37421"
+ },
+ {
+  "City": "Chesapeake",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "23320",
+  "Sales": 5996.72,
+  "Profit": 1262.787,
+  "Orders": 10,
+  "LocationKey": "Chesapeake|Virginia|23320"
+ },
+ {
+  "City": "Chester",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "19013",
+  "Sales": 1968.4789999999998,
+  "Profit": 48.357800000000005,
+  "Orders": 4,
+  "LocationKey": "Chester|Pennsylvania|19013"
+ },
+ {
+  "City": "Cheyenne",
+  "State": "Wyoming",
+  "Region": "West",
+  "PostalCode": "82001",
+  "Sales": 1603.136,
+  "Profit": 100.196,
+  "Orders": 1,
+  "LocationKey": "Cheyenne|Wyoming|82001"
+ },
+ {
+  "City": "Chicago",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60610",
+  "Sales": 13627.124,
+  "Profit": -1106.3366999999998,
+  "Orders": 56,
+  "LocationKey": "Chicago|Illinois|60610"
+ },
+ {
+  "City": "Chicago",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60623",
+  "Sales": 18899.911,
+  "Profit": 130.56609999999992,
+  "Orders": 62,
+  "LocationKey": "Chicago|Illinois|60623"
+ },
+ {
+  "City": "Chicago",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60653",
+  "Sales": 16012.506,
+  "Profit": -5678.7982,
+  "Orders": 53,
+  "LocationKey": "Chicago|Illinois|60653"
+ },
+ {
+  "City": "Chico",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95928",
+  "Sales": 2050.178,
+  "Profit": 205.12539999999998,
+  "Orders": 3,
+  "LocationKey": "Chico|California|95928"
+ },
+ {
+  "City": "Chula Vista",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "91911",
+  "Sales": 1041.62,
+  "Profit": 248.43460000000002,
+  "Orders": 3,
+  "LocationKey": "Chula Vista|California|91911"
+ },
+ {
+  "City": "Cincinnati",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "45231",
+  "Sales": 1611.976,
+  "Profit": 175.3371,
+  "Orders": 12,
+  "LocationKey": "Cincinnati|Ohio|45231"
+ },
+ {
+  "City": "Citrus Heights",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95610",
+  "Sales": 129.39,
+  "Profit": 54.3438,
+  "Orders": 1,
+  "LocationKey": "Citrus Heights|California|95610"
+ },
+ {
+  "City": "Clarksville",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37042",
+  "Sales": 2217.73,
+  "Profit": -1055.3532000000002,
+  "Orders": 3,
+  "LocationKey": "Clarksville|Tennessee|37042"
+ },
+ {
+  "City": "Cleveland",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44105",
+  "Sales": 6346.185,
+  "Profit": -848.0079000000001,
+  "Orders": 21,
+  "LocationKey": "Cleveland|Ohio|44105"
+ },
+ {
+  "City": "Clifton",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7011",
+  "Sales": 336.82,
+  "Profit": 98.58840000000001,
+  "Orders": 1,
+  "LocationKey": "Clifton|New Jersey|7011"
+ },
+ {
+  "City": "Clinton",
+  "State": "Maryland",
+  "Region": "East",
+  "PostalCode": "20735",
+  "Sales": 5514.251,
+  "Profit": 1274.2421,
+  "Orders": 10,
+  "LocationKey": "Clinton|Maryland|20735"
+ },
+ {
+  "City": "Clovis",
+  "State": "New Mexico",
+  "Region": "West",
+  "PostalCode": "88101",
+  "Sales": 111.42,
+  "Profit": 11.635200000000001,
+  "Orders": 1,
+  "LocationKey": "Clovis|New Mexico|88101"
+ },
+ {
+  "City": "Coachella",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92236",
+  "Sales": 163.55,
+  "Profit": 47.1736,
+  "Orders": 1,
+  "LocationKey": "Coachella|California|92236"
+ },
+ {
+  "City": "College Station",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77840",
+  "Sales": 291.042,
+  "Profit": -117.6224,
+  "Orders": 2,
+  "LocationKey": "College Station|Texas|77840"
+ },
+ {
+  "City": "Colorado Springs",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80906",
+  "Sales": 3694.009,
+  "Profit": -956.6841000000001,
+  "Orders": 9,
+  "LocationKey": "Colorado Springs|Colorado|80906"
+ },
+ {
+  "City": "Columbia",
+  "State": "Maryland",
+  "Region": "East",
+  "PostalCode": "21044",
+  "Sales": 10962.35,
+  "Profit": 3775.2237,
+  "Orders": 9,
+  "LocationKey": "Columbia|Maryland|21044"
+ },
+ {
+  "City": "Columbia",
+  "State": "Missouri",
+  "Region": "Central",
+  "PostalCode": "65203",
+  "Sales": 2990.04,
+  "Profit": 1106.7719,
+  "Orders": 3,
+  "LocationKey": "Columbia|Missouri|65203"
+ },
+ {
+  "City": "Columbia",
+  "State": "South Carolina",
+  "Region": "South",
+  "PostalCode": "29203",
+  "Sales": 6168.16,
+  "Profit": 1388.3777,
+  "Orders": 11,
+  "LocationKey": "Columbia|South Carolina|29203"
+ },
+ {
+  "City": "Columbia",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "38401",
+  "Sales": 5162.774,
+  "Profit": -664.2565999999999,
+  "Orders": 10,
+  "LocationKey": "Columbia|Tennessee|38401"
+ },
+ {
+  "City": "Columbus",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "31907",
+  "Sales": 14845.05,
+  "Profit": 4104.1219,
+  "Orders": 40,
+  "LocationKey": "Columbus|Georgia|31907"
+ },
+ {
+  "City": "Columbus",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "47201",
+  "Sales": 7960.4,
+  "Profit": 2522.4846000000002,
+  "Orders": 16,
+  "LocationKey": "Columbus|Indiana|47201"
+ },
+ {
+  "City": "Columbus",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "43229",
+  "Sales": 15900.793,
+  "Profit": -729.5052,
+  "Orders": 55,
+  "LocationKey": "Columbus|Ohio|43229"
+ },
+ {
+  "City": "Commerce City",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80022",
+  "Sales": 146.352,
+  "Profit": -32.9292,
+  "Orders": 1,
+  "LocationKey": "Commerce City|Colorado|80022"
+ },
+ {
+  "City": "Concord",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94521",
+  "Sales": 2602.928,
+  "Profit": 282.4208,
+  "Orders": 6,
+  "LocationKey": "Concord|California|94521"
+ },
+ {
+  "City": "Concord",
+  "State": "New Hampshire",
+  "Region": "East",
+  "PostalCode": "3301",
+  "Sales": 2827.63,
+  "Profit": 787.6271,
+  "Orders": 10,
+  "LocationKey": "Concord|New Hampshire|3301"
+ },
+ {
+  "City": "Concord",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "28027",
+  "Sales": 5111.844,
+  "Profit": -1788.6868,
+  "Orders": 5,
+  "LocationKey": "Concord|North Carolina|28027"
+ },
+ {
+  "City": "Conroe",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77301",
+  "Sales": 111.672,
+  "Profit": 6.9795,
+  "Orders": 1,
+  "LocationKey": "Conroe|Texas|77301"
+ },
+ {
+  "City": "Conway",
+  "State": "Arkansas",
+  "Region": "South",
+  "PostalCode": "72032",
+  "Sales": 301.96,
+  "Profit": 45.294,
+  "Orders": 1,
+  "LocationKey": "Conway|Arkansas|72032"
+ },
+ {
+  "City": "Coon Rapids",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55433",
+  "Sales": 503.13,
+  "Profit": 136.4532,
+  "Orders": 1,
+  "LocationKey": "Coon Rapids|Minnesota|55433"
+ },
+ {
+  "City": "Coppell",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75019",
+  "Sales": 135.936,
+  "Profit": 41.4892,
+  "Orders": 2,
+  "LocationKey": "Coppell|Texas|75019"
+ },
+ {
+  "City": "Coral Gables",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33134",
+  "Sales": 64.248,
+  "Profit": 22.357799999999997,
+  "Orders": 1,
+  "LocationKey": "Coral Gables|Florida|33134"
+ },
+ {
+  "City": "Coral Springs",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33065",
+  "Sales": 824.992,
+  "Profit": 18.556800000000003,
+  "Orders": 4,
+  "LocationKey": "Coral Springs|Florida|33065"
+ },
+ {
+  "City": "Corpus Christi",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78415",
+  "Sales": 220.54399999999998,
+  "Profit": -43.7304,
+  "Orders": 3,
+  "LocationKey": "Corpus Christi|Texas|78415"
+ },
+ {
+  "City": "Costa Mesa",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92627",
+  "Sales": 1497.67,
+  "Profit": 297.20889999999997,
+  "Orders": 5,
+  "LocationKey": "Costa Mesa|California|92627"
+ },
+ {
+  "City": "Cottage Grove",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55016",
+  "Sales": 144.35999999999999,
+  "Profit": 54.796800000000005,
+  "Orders": 1,
+  "LocationKey": "Cottage Grove|Minnesota|55016"
+ },
+ {
+  "City": "Covington",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98042",
+  "Sales": 413.68,
+  "Profit": 115.10940000000001,
+  "Orders": 2,
+  "LocationKey": "Covington|Washington|98042"
+ },
+ {
+  "City": "Cranston",
+  "State": "Rhode Island",
+  "Region": "East",
+  "PostalCode": "2920",
+  "Sales": 4024.916,
+  "Profit": 637.4977,
+  "Orders": 5,
+  "LocationKey": "Cranston|Rhode Island|2920"
+ },
+ {
+  "City": "Cuyahoga Falls",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44221",
+  "Sales": 29.093999999999998,
+  "Profit": -12.575199999999999,
+  "Orders": 3,
+  "LocationKey": "Cuyahoga Falls|Ohio|44221"
+ },
+ {
+  "City": "Dallas",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75081",
+  "Sales": 6341.1428,
+  "Profit": -93.3945,
+  "Orders": 24,
+  "LocationKey": "Dallas|Texas|75081"
+ },
+ {
+  "City": "Dallas",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75217",
+  "Sales": 9720.652,
+  "Profit": -1864.8163000000002,
+  "Orders": 28,
+  "LocationKey": "Dallas|Texas|75217"
+ },
+ {
+  "City": "Dallas",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75220",
+  "Sales": 4070.1374,
+  "Profit": -888.3149,
+  "Orders": 28,
+  "LocationKey": "Dallas|Texas|75220"
+ },
+ {
+  "City": "Danbury",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6810",
+  "Sales": 27.46,
+  "Profit": 9.8856,
+  "Orders": 1,
+  "LocationKey": "Danbury|Connecticut|6810"
+ },
+ {
+  "City": "Danville",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94526",
+  "Sales": 1158.882,
+  "Profit": 282.4405,
+  "Orders": 1,
+  "LocationKey": "Danville|California|94526"
+ },
+ {
+  "City": "Danville",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "61832",
+  "Sales": 43.372,
+  "Profit": -69.3952,
+  "Orders": 1,
+  "LocationKey": "Danville|Illinois|61832"
+ },
+ {
+  "City": "Davis",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95616",
+  "Sales": 32.4,
+  "Profit": 15.552,
+  "Orders": 1,
+  "LocationKey": "Davis|California|95616"
+ },
+ {
+  "City": "Daytona Beach",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32114",
+  "Sales": 272.3315,
+  "Profit": -52.334,
+  "Orders": 2,
+  "LocationKey": "Daytona Beach|Florida|32114"
+ },
+ {
+  "City": "Dearborn",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48126",
+  "Sales": 1603.3100000000002,
+  "Profit": 467.3864,
+  "Orders": 2,
+  "LocationKey": "Dearborn|Michigan|48126"
+ },
+ {
+  "City": "Dearborn Heights",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48127",
+  "Sales": 1051.5700000000002,
+  "Profit": 140.8905,
+  "Orders": 2,
+  "LocationKey": "Dearborn Heights|Michigan|48127"
+ },
+ {
+  "City": "Decatur",
+  "State": "Alabama",
+  "Region": "South",
+  "PostalCode": "35601",
+  "Sales": 3374.82,
+  "Profit": 1000.0881,
+  "Orders": 7,
+  "LocationKey": "Decatur|Alabama|35601"
+ },
+ {
+  "City": "Decatur",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "62521",
+  "Sales": 3169.473,
+  "Profit": -311.0325,
+  "Orders": 9,
+  "LocationKey": "Decatur|Illinois|62521"
+ },
+ {
+  "City": "Deer Park",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77536",
+  "Sales": 6.924,
+  "Profit": -10.386,
+  "Orders": 1,
+  "LocationKey": "Deer Park|Texas|77536"
+ },
+ {
+  "City": "Delray Beach",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33445",
+  "Sales": 242.536,
+  "Profit": 29.0542,
+  "Orders": 2,
+  "LocationKey": "Delray Beach|Florida|33445"
+ },
+ {
+  "City": "Deltona",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32725",
+  "Sales": 893.24,
+  "Profit": 122.1344,
+  "Orders": 4,
+  "LocationKey": "Deltona|Florida|32725"
+ },
+ {
+  "City": "Denver",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80219",
+  "Sales": 12198.793,
+  "Profit": -244.92000000000002,
+  "Orders": 17,
+  "LocationKey": "Denver|Colorado|80219"
+ },
+ {
+  "City": "Des Moines",
+  "State": "Iowa",
+  "Region": "Central",
+  "PostalCode": "50315",
+  "Sales": 2008.8400000000001,
+  "Profit": 360.4009,
+  "Orders": 5,
+  "LocationKey": "Des Moines|Iowa|50315"
+ },
+ {
+  "City": "Des Moines",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98198",
+  "Sales": 3454.438,
+  "Profit": 1250.3434,
+  "Orders": 5,
+  "LocationKey": "Des Moines|Washington|98198"
+ },
+ {
+  "City": "Des Plaines",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60016",
+  "Sales": 1493.212,
+  "Profit": -236.7674,
+  "Orders": 2,
+  "LocationKey": "Des Plaines|Illinois|60016"
+ },
+ {
+  "City": "Detroit",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48205",
+  "Sales": 23018.732,
+  "Profit": 7994.5262999999995,
+  "Orders": 14,
+  "LocationKey": "Detroit|Michigan|48205"
+ },
+ {
+  "City": "Detroit",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48227",
+  "Sales": 11262.78,
+  "Profit": 2790.2336999999998,
+  "Orders": 21,
+  "LocationKey": "Detroit|Michigan|48227"
+ },
+ {
+  "City": "Detroit",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48234",
+  "Sales": 8165.432,
+  "Profit": 2397.0308,
+  "Orders": 18,
+  "LocationKey": "Detroit|Michigan|48234"
+ },
+ {
+  "City": "Dover",
+  "State": "Delaware",
+  "Region": "East",
+  "PostalCode": "19901",
+  "Sales": 449.12,
+  "Profit": 116.131,
+  "Orders": 6,
+  "LocationKey": "Dover|Delaware|19901"
+ },
+ {
+  "City": "Dover",
+  "State": "New Hampshire",
+  "Region": "East",
+  "PostalCode": "3820",
+  "Sales": 4428.954,
+  "Profit": 905.3631,
+  "Orders": 5,
+  "LocationKey": "Dover|New Hampshire|3820"
+ },
+ {
+  "City": "Draper",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84020",
+  "Sales": 263.65,
+  "Profit": 92.72550000000001,
+  "Orders": 2,
+  "LocationKey": "Draper|Utah|84020"
+ },
+ {
+  "City": "Dublin",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94568",
+  "Sales": 22.0,
+  "Profit": 1.375,
+  "Orders": 1,
+  "LocationKey": "Dublin|California|94568"
+ },
+ {
+  "City": "Dublin",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "43017",
+  "Sales": 2379.16,
+  "Profit": -351.3045,
+  "Orders": 5,
+  "LocationKey": "Dublin|Ohio|43017"
+ },
+ {
+  "City": "Dubuque",
+  "State": "Iowa",
+  "Region": "Central",
+  "PostalCode": "52001",
+  "Sales": 1687.3,
+  "Profit": 477.6744,
+  "Orders": 2,
+  "LocationKey": "Dubuque|Iowa|52001"
+ },
+ {
+  "City": "Durham",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27707",
+  "Sales": 879.96,
+  "Profit": 116.8699,
+  "Orders": 5,
+  "LocationKey": "Durham|North Carolina|27707"
+ },
+ {
+  "City": "Eagan",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55122",
+  "Sales": 214.28,
+  "Profit": 87.0338,
+  "Orders": 3,
+  "LocationKey": "Eagan|Minnesota|55122"
+ },
+ {
+  "City": "East Orange",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7017",
+  "Sales": 377.27,
+  "Profit": 174.6191,
+  "Orders": 2,
+  "LocationKey": "East Orange|New Jersey|7017"
+ },
+ {
+  "City": "East Point",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "30344",
+  "Sales": 268.4,
+  "Profit": 102.0138,
+  "Orders": 1,
+  "LocationKey": "East Point|Georgia|30344"
+ },
+ {
+  "City": "Eau Claire",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "54703",
+  "Sales": 1645.65,
+  "Profit": 427.49780000000004,
+  "Orders": 4,
+  "LocationKey": "Eau Claire|Wisconsin|54703"
+ },
+ {
+  "City": "Edinburg",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78539",
+  "Sales": 88.27600000000001,
+  "Profit": 27.8086,
+  "Orders": 2,
+  "LocationKey": "Edinburg|Texas|78539"
+ },
+ {
+  "City": "Edmond",
+  "State": "Oklahoma",
+  "Region": "Central",
+  "PostalCode": "73034",
+  "Sales": 959.55,
+  "Profit": 243.10389999999998,
+  "Orders": 1,
+  "LocationKey": "Edmond|Oklahoma|73034"
+ },
+ {
+  "City": "Edmonds",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98026",
+  "Sales": 2523.692,
+  "Profit": 634.2478,
+  "Orders": 5,
+  "LocationKey": "Edmonds|Washington|98026"
+ },
+ {
+  "City": "El Cajon",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92020",
+  "Sales": 865.616,
+  "Profit": 52.6872,
+  "Orders": 2,
+  "LocationKey": "El Cajon|California|92020"
+ },
+ {
+  "City": "El Paso",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "79907",
+  "Sales": 3546.064,
+  "Profit": -179.9007,
+  "Orders": 10,
+  "LocationKey": "El Paso|Texas|79907"
+ },
+ {
+  "City": "Elkhart",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "46514",
+  "Sales": 171.43,
+  "Profit": 16.6721,
+  "Orders": 1,
+  "LocationKey": "Elkhart|Indiana|46514"
+ },
+ {
+  "City": "Elmhurst",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60126",
+  "Sales": 891.6279999999999,
+  "Profit": -212.13209999999998,
+  "Orders": 2,
+  "LocationKey": "Elmhurst|Illinois|60126"
+ },
+ {
+  "City": "Elyria",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44035",
+  "Sales": 1.824,
+  "Profit": -1.3984,
+  "Orders": 1,
+  "LocationKey": "Elyria|Ohio|44035"
+ },
+ {
+  "City": "Encinitas",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92024",
+  "Sales": 591.981,
+  "Profit": 71.0588,
+  "Orders": 2,
+  "LocationKey": "Encinitas|California|92024"
+ },
+ {
+  "City": "Englewood",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80112",
+  "Sales": 124.056,
+  "Profit": 13.7547,
+  "Orders": 1,
+  "LocationKey": "Englewood|Colorado|80112"
+ },
+ {
+  "City": "Escondido",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92025",
+  "Sales": 94.548,
+  "Profit": 27.753,
+  "Orders": 3,
+  "LocationKey": "Escondido|California|92025"
+ },
+ {
+  "City": "Eugene",
+  "State": "Oregon",
+  "Region": "West",
+  "PostalCode": "97405",
+  "Sales": 1465.032,
+  "Profit": 134.03719999999998,
+  "Orders": 1,
+  "LocationKey": "Eugene|Oregon|97405"
+ },
+ {
+  "City": "Evanston",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60201",
+  "Sales": 1753.799,
+  "Profit": 411.88379999999995,
+  "Orders": 3,
+  "LocationKey": "Evanston|Illinois|60201"
+ },
+ {
+  "City": "Everett",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "2149",
+  "Sales": 5661.878,
+  "Profit": 1360.0809,
+  "Orders": 8,
+  "LocationKey": "Everett|Massachusetts|2149"
+ },
+ {
+  "City": "Everett",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98208",
+  "Sales": 3.856,
+  "Profit": 1.3978,
+  "Orders": 1,
+  "LocationKey": "Everett|Washington|98208"
+ },
+ {
+  "City": "Fairfield",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94533",
+  "Sales": 1470.584,
+  "Profit": 117.97739999999999,
+  "Orders": 2,
+  "LocationKey": "Fairfield|California|94533"
+ },
+ {
+  "City": "Fairfield",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6824",
+  "Sales": 4935.577,
+  "Profit": 1221.6226,
+  "Orders": 12,
+  "LocationKey": "Fairfield|Connecticut|6824"
+ },
+ {
+  "City": "Fairfield",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "45014",
+  "Sales": 3077.697,
+  "Profit": -129.2881,
+  "Orders": 10,
+  "LocationKey": "Fairfield|Ohio|45014"
+ },
+ {
+  "City": "Fargo",
+  "State": "North Dakota",
+  "Region": "Central",
+  "PostalCode": "58103",
+  "Sales": 919.91,
+  "Profit": 230.1497,
+  "Orders": 2,
+  "LocationKey": "Fargo|North Dakota|58103"
+ },
+ {
+  "City": "Farmington",
+  "State": "New Mexico",
+  "Region": "West",
+  "PostalCode": "87401",
+  "Sales": 718.72,
+  "Profit": 169.4115,
+  "Orders": 3,
+  "LocationKey": "Farmington|New Mexico|87401"
+ },
+ {
+  "City": "Fayetteville",
+  "State": "Arkansas",
+  "Region": "South",
+  "PostalCode": "72701",
+  "Sales": 3742.8100000000004,
+  "Profit": 1691.9419,
+  "Orders": 8,
+  "LocationKey": "Fayetteville|Arkansas|72701"
+ },
+ {
+  "City": "Fayetteville",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "28314",
+  "Sales": 3183.116,
+  "Profit": 126.7273,
+  "Orders": 12,
+  "LocationKey": "Fayetteville|North Carolina|28314"
+ },
+ {
+  "City": "Florence",
+  "State": "Alabama",
+  "Region": "South",
+  "PostalCode": "35630",
+  "Sales": 1997.35,
+  "Profit": 248.65890000000002,
+  "Orders": 3,
+  "LocationKey": "Florence|Alabama|35630"
+ },
+ {
+  "City": "Florence",
+  "State": "Kentucky",
+  "Region": "South",
+  "PostalCode": "41042",
+  "Sales": 4559.8,
+  "Profit": 1837.3541,
+  "Orders": 4,
+  "LocationKey": "Florence|Kentucky|41042"
+ },
+ {
+  "City": "Florence",
+  "State": "South Carolina",
+  "Region": "South",
+  "PostalCode": "29501",
+  "Sales": 1064.57,
+  "Profit": 82.9531,
+  "Orders": 4,
+  "LocationKey": "Florence|South Carolina|29501"
+ },
+ {
+  "City": "Fort Collins",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80525",
+  "Sales": 935.252,
+  "Profit": -252.6926,
+  "Orders": 5,
+  "LocationKey": "Fort Collins|Colorado|80525"
+ },
+ {
+  "City": "Fort Lauderdale",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33311",
+  "Sales": 4929.532499999999,
+  "Profit": -161.3551,
+  "Orders": 12,
+  "LocationKey": "Fort Lauderdale|Florida|33311"
+ },
+ {
+  "City": "Fort Worth",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "76106",
+  "Sales": 6602.7064,
+  "Profit": 298.73269999999997,
+  "Orders": 12,
+  "LocationKey": "Fort Worth|Texas|76106"
+ },
+ {
+  "City": "Frankfort",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60423",
+  "Sales": 97.632,
+  "Profit": -26.055999999999997,
+  "Orders": 2,
+  "LocationKey": "Frankfort|Illinois|60423"
+ },
+ {
+  "City": "Franklin",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "2038",
+  "Sales": 5534.559,
+  "Profit": 464.6287000000001,
+  "Orders": 9,
+  "LocationKey": "Franklin|Massachusetts|2038"
+ },
+ {
+  "City": "Franklin",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37064",
+  "Sales": 948.228,
+  "Profit": -92.536,
+  "Orders": 6,
+  "LocationKey": "Franklin|Tennessee|37064"
+ },
+ {
+  "City": "Franklin",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "53132",
+  "Sales": 4774.25,
+  "Profit": 1292.7752,
+  "Orders": 5,
+  "LocationKey": "Franklin|Wisconsin|53132"
+ },
+ {
+  "City": "Freeport",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "61032",
+  "Sales": 215.82,
+  "Profit": -127.44979999999998,
+  "Orders": 2,
+  "LocationKey": "Freeport|Illinois|61032"
+ },
+ {
+  "City": "Freeport",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "11520",
+  "Sales": 523.3299999999999,
+  "Profit": 107.3618,
+  "Orders": 4,
+  "LocationKey": "Freeport|New York|11520"
+ },
+ {
+  "City": "Fremont",
+  "State": "Nebraska",
+  "Region": "Central",
+  "PostalCode": "68025",
+  "Sales": 1119.0099999999998,
+  "Profit": 179.4696,
+  "Orders": 7,
+  "LocationKey": "Fremont|Nebraska|68025"
+ },
+ {
+  "City": "Fresno",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93727",
+  "Sales": 7888.5285,
+  "Profit": 948.2681,
+  "Orders": 11,
+  "LocationKey": "Fresno|California|93727"
+ },
+ {
+  "City": "Frisco",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75034",
+  "Sales": 57.504,
+  "Profit": -18.8016,
+  "Orders": 2,
+  "LocationKey": "Frisco|Texas|75034"
+ },
+ {
+  "City": "Gaithersburg",
+  "State": "Maryland",
+  "Region": "East",
+  "PostalCode": "20877",
+  "Sales": 405.91999999999996,
+  "Profit": 105.541,
+  "Orders": 1,
+  "LocationKey": "Gaithersburg|Maryland|20877"
+ },
+ {
+  "City": "Garden City",
+  "State": "Kansas",
+  "Region": "Central",
+  "PostalCode": "67846",
+  "Sales": 312.38,
+  "Profit": 90.6259,
+  "Orders": 3,
+  "LocationKey": "Garden City|Kansas|67846"
+ },
+ {
+  "City": "Garland",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75043",
+  "Sales": 67.704,
+  "Profit": -32.373,
+  "Orders": 3,
+  "LocationKey": "Garland|Texas|75043"
+ },
+ {
+  "City": "Gastonia",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "28052",
+  "Sales": 895.06,
+  "Profit": -14.743599999999995,
+  "Orders": 1,
+  "LocationKey": "Gastonia|North Carolina|28052"
+ },
+ {
+  "City": "Georgetown",
+  "State": "Kentucky",
+  "Region": "South",
+  "PostalCode": "40324",
+  "Sales": 1786.42,
+  "Profit": 402.76,
+  "Orders": 3,
+  "LocationKey": "Georgetown|Kentucky|40324"
+ },
+ {
+  "City": "Gilbert",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85234",
+  "Sales": 4172.382,
+  "Profit": 138.253,
+  "Orders": 5,
+  "LocationKey": "Gilbert|Arizona|85234"
+ },
+ {
+  "City": "Gladstone",
+  "State": "Missouri",
+  "Region": "Central",
+  "PostalCode": "64118",
+  "Sales": 164.34,
+  "Profit": 52.5888,
+  "Orders": 1,
+  "LocationKey": "Gladstone|Missouri|64118"
+ },
+ {
+  "City": "Glendale",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85301",
+  "Sales": 2917.865,
+  "Profit": 182.8598,
+  "Orders": 13,
+  "LocationKey": "Glendale|Arizona|85301"
+ },
+ {
+  "City": "Glenview",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60025",
+  "Sales": 158.376,
+  "Profit": 13.8579,
+  "Orders": 1,
+  "LocationKey": "Glenview|Illinois|60025"
+ },
+ {
+  "City": "Goldsboro",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27534",
+  "Sales": 34.944,
+  "Profit": 3.0576,
+  "Orders": 1,
+  "LocationKey": "Goldsboro|North Carolina|27534"
+ },
+ {
+  "City": "Grand Island",
+  "State": "Nebraska",
+  "Region": "Central",
+  "PostalCode": "68801",
+  "Sales": 15.96,
+  "Profit": 7.98,
+  "Orders": 1,
+  "LocationKey": "Grand Island|Nebraska|68801"
+ },
+ {
+  "City": "Grand Prairie",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75051",
+  "Sales": 1012.486,
+  "Profit": -85.2311,
+  "Orders": 7,
+  "LocationKey": "Grand Prairie|Texas|75051"
+ },
+ {
+  "City": "Grand Rapids",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "49505",
+  "Sales": 526.13,
+  "Profit": 233.92270000000002,
+  "Orders": 6,
+  "LocationKey": "Grand Rapids|Michigan|49505"
+ },
+ {
+  "City": "Grapevine",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "76051",
+  "Sales": 41.528,
+  "Profit": 8.7749,
+  "Orders": 1,
+  "LocationKey": "Grapevine|Texas|76051"
+ },
+ {
+  "City": "Great Falls",
+  "State": "Montana",
+  "Region": "West",
+  "PostalCode": "59405",
+  "Sales": 4605.58,
+  "Profit": 1582.7071,
+  "Orders": 3,
+  "LocationKey": "Great Falls|Montana|59405"
+ },
+ {
+  "City": "Greeley",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80634",
+  "Sales": 30.351999999999997,
+  "Profit": 10.3614,
+  "Orders": 1,
+  "LocationKey": "Greeley|Colorado|80634"
+ },
+ {
+  "City": "Green Bay",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "54302",
+  "Sales": 527.3199999999999,
+  "Profit": 228.4764,
+  "Orders": 4,
+  "LocationKey": "Green Bay|Wisconsin|54302"
+ },
+ {
+  "City": "Greensboro",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27405",
+  "Sales": 2406.78,
+  "Profit": -122.9534,
+  "Orders": 8,
+  "LocationKey": "Greensboro|North Carolina|27405"
+ },
+ {
+  "City": "Greenville",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27834",
+  "Sales": 2117.83,
+  "Profit": -548.9884,
+  "Orders": 5,
+  "LocationKey": "Greenville|North Carolina|27834"
+ },
+ {
+  "City": "Greenwood",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "46142",
+  "Sales": 1665.0500000000002,
+  "Profit": 471.73220000000003,
+  "Orders": 2,
+  "LocationKey": "Greenwood|Indiana|46142"
+ },
+ {
+  "City": "Gresham",
+  "State": "Oregon",
+  "Region": "West",
+  "PostalCode": "97030",
+  "Sales": 2133.424,
+  "Profit": 150.86440000000002,
+  "Orders": 4,
+  "LocationKey": "Gresham|Oregon|97030"
+ },
+ {
+  "City": "Grove City",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "43123",
+  "Sales": 123.588,
+  "Profit": 13.1952,
+  "Orders": 1,
+  "LocationKey": "Grove City|Ohio|43123"
+ },
+ {
+  "City": "Gulfport",
+  "State": "Mississippi",
+  "Region": "South",
+  "PostalCode": "39503",
+  "Sales": 166.5,
+  "Profit": 77.5761,
+  "Orders": 3,
+  "LocationKey": "Gulfport|Mississippi|39503"
+ },
+ {
+  "City": "Hackensack",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7601",
+  "Sales": 1456.16,
+  "Profit": 451.2547,
+  "Orders": 2,
+  "LocationKey": "Hackensack|New Jersey|7601"
+ },
+ {
+  "City": "Hagerstown",
+  "State": "Maryland",
+  "Region": "East",
+  "PostalCode": "21740",
+  "Sales": 43.8,
+  "Profit": 20.586,
+  "Orders": 1,
+  "LocationKey": "Hagerstown|Maryland|21740"
+ },
+ {
+  "City": "Haltom City",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "76117",
+  "Sales": 269.32800000000003,
+  "Profit": 51.955799999999996,
+  "Orders": 2,
+  "LocationKey": "Haltom City|Texas|76117"
+ },
+ {
+  "City": "Hamilton",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "45011",
+  "Sales": 328.224,
+  "Profit": -9.385000000000002,
+  "Orders": 3,
+  "LocationKey": "Hamilton|Ohio|45011"
+ },
+ {
+  "City": "Hampton",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "23666",
+  "Sales": 2722.26,
+  "Profit": 953.8323,
+  "Orders": 5,
+  "LocationKey": "Hampton|Virginia|23666"
+ },
+ {
+  "City": "Harlingen",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78550",
+  "Sales": 471.404,
+  "Profit": 18.1275,
+  "Orders": 2,
+  "LocationKey": "Harlingen|Texas|78550"
+ },
+ {
+  "City": "Harrisonburg",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "22801",
+  "Sales": 4388.71,
+  "Profit": 889.5239,
+  "Orders": 4,
+  "LocationKey": "Harrisonburg|Virginia|22801"
+ },
+ {
+  "City": "Hattiesburg",
+  "State": "Mississippi",
+  "Region": "South",
+  "PostalCode": "39401",
+  "Sales": 1722.84,
+  "Profit": 582.0694,
+  "Orders": 3,
+  "LocationKey": "Hattiesburg|Mississippi|39401"
+ },
+ {
+  "City": "Helena",
+  "State": "Montana",
+  "Region": "West",
+  "PostalCode": "59601",
+  "Sales": 443.84,
+  "Profit": 74.62219999999999,
+  "Orders": 2,
+  "LocationKey": "Helena|Montana|59601"
+ },
+ {
+  "City": "Hempstead",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "11550",
+  "Sales": 2589.586,
+  "Profit": 629.0645999999999,
+  "Orders": 4,
+  "LocationKey": "Hempstead|New York|11550"
+ },
+ {
+  "City": "Henderson",
+  "State": "Kentucky",
+  "Region": "South",
+  "PostalCode": "42420",
+  "Sales": 15661.01,
+  "Profit": 4518.8169,
+  "Orders": 17,
+  "LocationKey": "Henderson|Kentucky|42420"
+ },
+ {
+  "City": "Henderson",
+  "State": "Nevada",
+  "Region": "West",
+  "PostalCode": "89015",
+  "Sales": 1888.0580000000002,
+  "Profit": 393.044,
+  "Orders": 2,
+  "LocationKey": "Henderson|Nevada|89015"
+ },
+ {
+  "City": "Hendersonville",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37075",
+  "Sales": 319.538,
+  "Profit": -45.386700000000005,
+  "Orders": 2,
+  "LocationKey": "Hendersonville|Tennessee|37075"
+ },
+ {
+  "City": "Hesperia",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92345",
+  "Sales": 1213.1715,
+  "Profit": 98.5269,
+  "Orders": 3,
+  "LocationKey": "Hesperia|California|92345"
+ },
+ {
+  "City": "Hialeah",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33012",
+  "Sales": 2338.949,
+  "Profit": -179.22749999999996,
+  "Orders": 10,
+  "LocationKey": "Hialeah|Florida|33012"
+ },
+ {
+  "City": "Hickory",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "28601",
+  "Sales": 40.764,
+  "Profit": -1.0956000000000001,
+  "Orders": 2,
+  "LocationKey": "Hickory|North Carolina|28601"
+ },
+ {
+  "City": "Highland Park",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60035",
+  "Sales": 2035.096,
+  "Profit": -169.9406,
+  "Orders": 3,
+  "LocationKey": "Highland Park|Illinois|60035"
+ },
+ {
+  "City": "Hillsboro",
+  "State": "Oregon",
+  "Region": "West",
+  "PostalCode": "97123",
+  "Sales": 87.838,
+  "Profit": 1.5455000000000005,
+  "Orders": 2,
+  "LocationKey": "Hillsboro|Oregon|97123"
+ },
+ {
+  "City": "Holland",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "49423",
+  "Sales": 137.86,
+  "Profit": 66.6588,
+  "Orders": 2,
+  "LocationKey": "Holland|Michigan|49423"
+ },
+ {
+  "City": "Hollywood",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33021",
+  "Sales": 1070.474,
+  "Profit": 108.2012,
+  "Orders": 8,
+  "LocationKey": "Hollywood|Florida|33021"
+ },
+ {
+  "City": "Holyoke",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "1040",
+  "Sales": 301.96,
+  "Profit": 60.392,
+  "Orders": 1,
+  "LocationKey": "Holyoke|Massachusetts|1040"
+ },
+ {
+  "City": "Homestead",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33030",
+  "Sales": 132.552,
+  "Profit": 22.3291,
+  "Orders": 2,
+  "LocationKey": "Homestead|Florida|33030"
+ },
+ {
+  "City": "Hoover",
+  "State": "Alabama",
+  "Region": "South",
+  "PostalCode": "35244",
+  "Sales": 525.85,
+  "Profit": 18.7173,
+  "Orders": 2,
+  "LocationKey": "Hoover|Alabama|35244"
+ },
+ {
+  "City": "Hot Springs",
+  "State": "Arkansas",
+  "Region": "South",
+  "PostalCode": "71901",
+  "Sales": 245.82999999999998,
+  "Profit": 62.083800000000004,
+  "Orders": 2,
+  "LocationKey": "Hot Springs|Arkansas|71901"
+ },
+ {
+  "City": "Houston",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77036",
+  "Sales": 18522.7876,
+  "Profit": -2411.4332,
+  "Orders": 34,
+  "LocationKey": "Houston|Texas|77036"
+ },
+ {
+  "City": "Houston",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77041",
+  "Sales": 16556.9592,
+  "Profit": -2302.4955999999997,
+  "Orders": 52,
+  "LocationKey": "Houston|Texas|77041"
+ },
+ {
+  "City": "Houston",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77070",
+  "Sales": 18347.5944,
+  "Profit": -992.2873999999999,
+  "Orders": 49,
+  "LocationKey": "Houston|Texas|77070"
+ },
+ {
+  "City": "Houston",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77095",
+  "Sales": 11077.4192,
+  "Profit": -4447.3323,
+  "Orders": 53,
+  "LocationKey": "Houston|Texas|77095"
+ },
+ {
+  "City": "Huntington Beach",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92646",
+  "Sales": 2527.82,
+  "Profit": 880.0391999999999,
+  "Orders": 5,
+  "LocationKey": "Huntington Beach|California|92646"
+ },
+ {
+  "City": "Huntsville",
+  "State": "Alabama",
+  "Region": "South",
+  "PostalCode": "35810",
+  "Sales": 2484.3700000000003,
+  "Profit": 1005.2572,
+  "Orders": 7,
+  "LocationKey": "Huntsville|Alabama|35810"
+ },
+ {
+  "City": "Huntsville",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77340",
+  "Sales": 6710.6168,
+  "Profit": -843.4264000000001,
+  "Orders": 10,
+  "LocationKey": "Huntsville|Texas|77340"
+ },
+ {
+  "City": "Independence",
+  "State": "Missouri",
+  "Region": "Central",
+  "PostalCode": "64055",
+  "Sales": 2417.37,
+  "Profit": 975.663,
+  "Orders": 2,
+  "LocationKey": "Independence|Missouri|64055"
+ },
+ {
+  "City": "Indianapolis",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "46203",
+  "Sales": 9306.42,
+  "Profit": 2741.6538,
+  "Orders": 12,
+  "LocationKey": "Indianapolis|Indiana|46203"
+ },
+ {
+  "City": "Inglewood",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90301",
+  "Sales": 3479.328,
+  "Profit": 1026.6960000000001,
+  "Orders": 4,
+  "LocationKey": "Inglewood|California|90301"
+ },
+ {
+  "City": "Iowa City",
+  "State": "Iowa",
+  "Region": "Central",
+  "PostalCode": "52240",
+  "Sales": 9.99,
+  "Profit": 4.4955,
+  "Orders": 1,
+  "LocationKey": "Iowa City|Iowa|52240"
+ },
+ {
+  "City": "Irving",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75061",
+  "Sales": 605.5,
+  "Profit": -100.51250000000002,
+  "Orders": 5,
+  "LocationKey": "Irving|Texas|75061"
+ },
+ {
+  "City": "Jackson",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "49201",
+  "Sales": 15420.036,
+  "Profit": 5525.1992,
+  "Orders": 14,
+  "LocationKey": "Jackson|Michigan|49201"
+ },
+ {
+  "City": "Jackson",
+  "State": "Mississippi",
+  "Region": "South",
+  "PostalCode": "39212",
+  "Sales": 7426.61,
+  "Profit": 2100.4405,
+  "Orders": 18,
+  "LocationKey": "Jackson|Mississippi|39212"
+ },
+ {
+  "City": "Jackson",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "38301",
+  "Sales": 2117.212,
+  "Profit": -43.95689999999999,
+  "Orders": 5,
+  "LocationKey": "Jackson|Tennessee|38301"
+ },
+ {
+  "City": "Jacksonville",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32216",
+  "Sales": 39133.328,
+  "Profit": -2445.6608,
+  "Orders": 38,
+  "LocationKey": "Jacksonville|Florida|32216"
+ },
+ {
+  "City": "Jacksonville",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "28540",
+  "Sales": 5579.8550000000005,
+  "Profit": 121.82580000000003,
+  "Orders": 23,
+  "LocationKey": "Jacksonville|North Carolina|28540"
+ },
+ {
+  "City": "Jamestown",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "14701",
+  "Sales": 4708.79,
+  "Profit": 1285.7714999999998,
+  "Orders": 2,
+  "LocationKey": "Jamestown|New York|14701"
+ },
+ {
+  "City": "Jefferson City",
+  "State": "Missouri",
+  "Region": "Central",
+  "PostalCode": "65109",
+  "Sales": 86.62,
+  "Profit": 8.662,
+  "Orders": 1,
+  "LocationKey": "Jefferson City|Missouri|65109"
+ },
+ {
+  "City": "Johnson City",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37604",
+  "Sales": 765.848,
+  "Profit": 11.856199999999994,
+  "Orders": 3,
+  "LocationKey": "Johnson City|Tennessee|37604"
+ },
+ {
+  "City": "Jonesboro",
+  "State": "Arkansas",
+  "Region": "South",
+  "PostalCode": "72401",
+  "Sales": 2915.32,
+  "Profit": 801.1113,
+  "Orders": 5,
+  "LocationKey": "Jonesboro|Arkansas|72401"
+ },
+ {
+  "City": "Jupiter",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33458",
+  "Sales": 2.064,
+  "Profit": 0.1548,
+  "Orders": 1,
+  "LocationKey": "Jupiter|Florida|33458"
+ },
+ {
+  "City": "Keller",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "76248",
+  "Sales": 6.0,
+  "Profit": 2.1,
+  "Orders": 1,
+  "LocationKey": "Keller|Texas|76248"
+ },
+ {
+  "City": "Kenner",
+  "State": "Louisiana",
+  "Region": "South",
+  "PostalCode": "70065",
+  "Sales": 89.32000000000001,
+  "Profit": 19.7976,
+  "Orders": 1,
+  "LocationKey": "Kenner|Louisiana|70065"
+ },
+ {
+  "City": "Kenosha",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "53142",
+  "Sales": 3906.73,
+  "Profit": 1028.0728,
+  "Orders": 3,
+  "LocationKey": "Kenosha|Wisconsin|53142"
+ },
+ {
+  "City": "Kent",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44240",
+  "Sales": 346.302,
+  "Profit": -11.3007,
+  "Orders": 3,
+  "LocationKey": "Kent|Ohio|44240"
+ },
+ {
+  "City": "Kent",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98031",
+  "Sales": 1351.2540000000001,
+  "Profit": 603.0963,
+  "Orders": 3,
+  "LocationKey": "Kent|Washington|98031"
+ },
+ {
+  "City": "Kirkwood",
+  "State": "Missouri",
+  "Region": "Central",
+  "PostalCode": "63122",
+  "Sales": 241.34,
+  "Profit": 47.1344,
+  "Orders": 1,
+  "LocationKey": "Kirkwood|Missouri|63122"
+ },
+ {
+  "City": "Kissimmee",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "34741",
+  "Sales": 751.984,
+  "Profit": 84.5982,
+  "Orders": 1,
+  "LocationKey": "Kissimmee|Florida|34741"
+ },
+ {
+  "City": "Knoxville",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37918",
+  "Sales": 3928.166,
+  "Profit": -1165.0755000000001,
+  "Orders": 10,
+  "LocationKey": "Knoxville|Tennessee|37918"
+ },
+ {
+  "City": "La Crosse",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "54601",
+  "Sales": 830.41,
+  "Profit": 272.0761,
+  "Orders": 2,
+  "LocationKey": "La Crosse|Wisconsin|54601"
+ },
+ {
+  "City": "La Mesa",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "91941",
+  "Sales": 367.53000000000003,
+  "Profit": 114.387,
+  "Orders": 1,
+  "LocationKey": "La Mesa|California|91941"
+ },
+ {
+  "City": "La Porte",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "46350",
+  "Sales": 1021.34,
+  "Profit": 224.51299999999998,
+  "Orders": 3,
+  "LocationKey": "La Porte|Indiana|46350"
+ },
+ {
+  "City": "La Porte",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77571",
+  "Sales": 30.392,
+  "Profit": -32.5272,
+  "Orders": 1,
+  "LocationKey": "La Porte|Texas|77571"
+ },
+ {
+  "City": "La Quinta",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92253",
+  "Sales": 46.32,
+  "Profit": 18.0648,
+  "Orders": 1,
+  "LocationKey": "La Quinta|California|92253"
+ },
+ {
+  "City": "Lafayette",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "47905",
+  "Sales": 19630.45,
+  "Profit": 8976.097300000001,
+  "Orders": 7,
+  "LocationKey": "Lafayette|Indiana|47905"
+ },
+ {
+  "City": "Lafayette",
+  "State": "Louisiana",
+  "Region": "South",
+  "PostalCode": "70506",
+  "Sales": 5405.75,
+  "Profit": 1042.2903,
+  "Orders": 10,
+  "LocationKey": "Lafayette|Louisiana|70506"
+ },
+ {
+  "City": "Laguna Niguel",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92677",
+  "Sales": 290.983,
+  "Profit": 41.9815,
+  "Orders": 3,
+  "LocationKey": "Laguna Niguel|California|92677"
+ },
+ {
+  "City": "Lake Charles",
+  "State": "Louisiana",
+  "Region": "South",
+  "PostalCode": "70601",
+  "Sales": 547.41,
+  "Profit": 241.2558,
+  "Orders": 2,
+  "LocationKey": "Lake Charles|Louisiana|70601"
+ },
+ {
+  "City": "Lake Elsinore",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92530",
+  "Sales": 283.92,
+  "Profit": 17.745,
+  "Orders": 1,
+  "LocationKey": "Lake Elsinore|California|92530"
+ },
+ {
+  "City": "Lake Forest",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92630",
+  "Sales": 1625.536,
+  "Profit": 327.53139999999996,
+  "Orders": 2,
+  "LocationKey": "Lake Forest|California|92630"
+ },
+ {
+  "City": "Lakeland",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33801",
+  "Sales": 5606.8865000000005,
+  "Profit": -188.63649999999998,
+  "Orders": 6,
+  "LocationKey": "Lakeland|Florida|33801"
+ },
+ {
+  "City": "Lakeville",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55044",
+  "Sales": 4260.95,
+  "Profit": 1346.6021,
+  "Orders": 5,
+  "LocationKey": "Lakeville|Minnesota|55044"
+ },
+ {
+  "City": "Lakewood",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90712",
+  "Sales": 1583.683,
+  "Profit": 43.962399999999995,
+  "Orders": 5,
+  "LocationKey": "Lakewood|California|90712"
+ },
+ {
+  "City": "Lakewood",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "8701",
+  "Sales": 14852.04,
+  "Profit": 3526.6735000000003,
+  "Orders": 11,
+  "LocationKey": "Lakewood|New Jersey|8701"
+ },
+ {
+  "City": "Lakewood",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44107",
+  "Sales": 1756.324,
+  "Profit": -336.60810000000004,
+  "Orders": 13,
+  "LocationKey": "Lakewood|Ohio|44107"
+ },
+ {
+  "City": "Lancaster",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93534",
+  "Sales": 477.444,
+  "Profit": 79.43719999999999,
+  "Orders": 4,
+  "LocationKey": "Lancaster|California|93534"
+ },
+ {
+  "City": "Lancaster",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "43130",
+  "Sales": 8202.625,
+  "Profit": -7149.6179999999995,
+  "Orders": 15,
+  "LocationKey": "Lancaster|Ohio|43130"
+ },
+ {
+  "City": "Lancaster",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "17602",
+  "Sales": 1211.395,
+  "Profit": -168.88760000000002,
+  "Orders": 8,
+  "LocationKey": "Lancaster|Pennsylvania|17602"
+ },
+ {
+  "City": "Lansing",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48911",
+  "Sales": 1610.286,
+  "Profit": 412.8734,
+  "Orders": 3,
+  "LocationKey": "Lansing|Michigan|48911"
+ },
+ {
+  "City": "Laredo",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78041",
+  "Sales": 1024.34,
+  "Profit": -54.613899999999994,
+  "Orders": 4,
+  "LocationKey": "Laredo|Texas|78041"
+ },
+ {
+  "City": "Las Cruces",
+  "State": "New Mexico",
+  "Region": "West",
+  "PostalCode": "88001",
+  "Sales": 98.77,
+  "Profit": 43.9394,
+  "Orders": 3,
+  "LocationKey": "Las Cruces|New Mexico|88001"
+ },
+ {
+  "City": "Las Vegas",
+  "State": "Nevada",
+  "Region": "West",
+  "PostalCode": "89115",
+  "Sales": 1834.02,
+  "Profit": 332.4433,
+  "Orders": 8,
+  "LocationKey": "Las Vegas|Nevada|89115"
+ },
+ {
+  "City": "Laurel",
+  "State": "Maryland",
+  "Region": "East",
+  "PostalCode": "20707",
+  "Sales": 152.59,
+  "Profit": 46.1733,
+  "Orders": 1,
+  "LocationKey": "Laurel|Maryland|20707"
+ },
+ {
+  "City": "Lawrence",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "46226",
+  "Sales": 1545.13,
+  "Profit": 532.7429999999999,
+  "Orders": 6,
+  "LocationKey": "Lawrence|Indiana|46226"
+ },
+ {
+  "City": "Lawrence",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "1841",
+  "Sales": 6109.062,
+  "Profit": 1849.4035,
+  "Orders": 15,
+  "LocationKey": "Lawrence|Massachusetts|1841"
+ },
+ {
+  "City": "Lawton",
+  "State": "Oklahoma",
+  "Region": "Central",
+  "PostalCode": "73505",
+  "Sales": 1057.49,
+  "Profit": 235.50850000000003,
+  "Orders": 2,
+  "LocationKey": "Lawton|Oklahoma|73505"
+ },
+ {
+  "City": "Layton",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84041",
+  "Sales": 4.96,
+  "Profit": 2.3312,
+  "Orders": 1,
+  "LocationKey": "Layton|Utah|84041"
+ },
+ {
+  "City": "League City",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77573",
+  "Sales": 875.3679999999999,
+  "Profit": -31.349899999999998,
+  "Orders": 2,
+  "LocationKey": "League City|Texas|77573"
+ },
+ {
+  "City": "Lebanon",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37087",
+  "Sales": 488.896,
+  "Profit": 83.8057,
+  "Orders": 3,
+  "LocationKey": "Lebanon|Tennessee|37087"
+ },
+ {
+  "City": "Lehi",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84043",
+  "Sales": 1516.726,
+  "Profit": 451.6626,
+  "Orders": 2,
+  "LocationKey": "Lehi|Utah|84043"
+ },
+ {
+  "City": "Leominster",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "1453",
+  "Sales": 217.49,
+  "Profit": 79.5016,
+  "Orders": 2,
+  "LocationKey": "Leominster|Massachusetts|1453"
+ },
+ {
+  "City": "Lewiston",
+  "State": "Idaho",
+  "Region": "West",
+  "PostalCode": "83501",
+  "Sales": 9.584,
+  "Profit": 3.3544,
+  "Orders": 1,
+  "LocationKey": "Lewiston|Idaho|83501"
+ },
+ {
+  "City": "Lewiston",
+  "State": "Maine",
+  "Region": "East",
+  "PostalCode": "4240",
+  "Sales": 106.08000000000001,
+  "Profit": 32.2658,
+  "Orders": 1,
+  "LocationKey": "Lewiston|Maine|4240"
+ },
+ {
+  "City": "Lincoln Park",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48146",
+  "Sales": 387.602,
+  "Profit": 68.3691,
+  "Orders": 2,
+  "LocationKey": "Lincoln Park|Michigan|48146"
+ },
+ {
+  "City": "Linden",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7036",
+  "Sales": 115.36,
+  "Profit": 49.6048,
+  "Orders": 1,
+  "LocationKey": "Linden|New Jersey|7036"
+ },
+ {
+  "City": "Lindenhurst",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "11757",
+  "Sales": 55.48,
+  "Profit": 26.6304,
+  "Orders": 1,
+  "LocationKey": "Lindenhurst|New York|11757"
+ },
+ {
+  "City": "Little Rock",
+  "State": "Arkansas",
+  "Region": "South",
+  "PostalCode": "72209",
+  "Sales": 3560.35,
+  "Profit": 1154.6691,
+  "Orders": 6,
+  "LocationKey": "Little Rock|Arkansas|72209"
+ },
+ {
+  "City": "Littleton",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80122",
+  "Sales": 72.294,
+  "Profit": -98.8018,
+  "Orders": 1,
+  "LocationKey": "Littleton|Colorado|80122"
+ },
+ {
+  "City": "Lodi",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95240",
+  "Sales": 136.98,
+  "Profit": 44.4858,
+  "Orders": 2,
+  "LocationKey": "Lodi|California|95240"
+ },
+ {
+  "City": "Logan",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84321",
+  "Sales": 280.276,
+  "Profit": 46.9632,
+  "Orders": 1,
+  "LocationKey": "Logan|Utah|84321"
+ },
+ {
+  "City": "Long Beach",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90805",
+  "Sales": 4933.83,
+  "Profit": 746.3956,
+  "Orders": 11,
+  "LocationKey": "Long Beach|California|90805"
+ },
+ {
+  "City": "Long Beach",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "11561",
+  "Sales": 8521.2,
+  "Profit": 1362.535,
+  "Orders": 22,
+  "LocationKey": "Long Beach|New York|11561"
+ },
+ {
+  "City": "Longmont",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80501",
+  "Sales": 915.088,
+  "Profit": 34.8252,
+  "Orders": 2,
+  "LocationKey": "Longmont|Colorado|80501"
+ },
+ {
+  "City": "Longview",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98632",
+  "Sales": 119.21000000000001,
+  "Profit": 38.8983,
+  "Orders": 2,
+  "LocationKey": "Longview|Washington|98632"
+ },
+ {
+  "City": "Lorain",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44052",
+  "Sales": 2015.1109999999999,
+  "Profit": -632.9229,
+  "Orders": 5,
+  "LocationKey": "Lorain|Ohio|44052"
+ },
+ {
+  "City": "Los Angeles",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90004",
+  "Sales": 23684.259,
+  "Profit": 2999.4919,
+  "Orders": 59,
+  "LocationKey": "Los Angeles|California|90004"
+ },
+ {
+  "City": "Los Angeles",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90008",
+  "Sales": 25208.0435,
+  "Profit": 4835.6933,
+  "Orders": 59,
+  "LocationKey": "Los Angeles|California|90008"
+ },
+ {
+  "City": "Los Angeles",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90032",
+  "Sales": 22420.4085,
+  "Profit": 4149.2142,
+  "Orders": 58,
+  "LocationKey": "Los Angeles|California|90032"
+ },
+ {
+  "City": "Los Angeles",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90036",
+  "Sales": 29157.853,
+  "Profit": 4452.9468,
+  "Orders": 67,
+  "LocationKey": "Los Angeles|California|90036"
+ },
+ {
+  "City": "Los Angeles",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90045",
+  "Sales": 37419.765,
+  "Profit": 6210.2972,
+  "Orders": 67,
+  "LocationKey": "Los Angeles|California|90045"
+ },
+ {
+  "City": "Los Angeles",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90049",
+  "Sales": 37961.012,
+  "Profit": 7793.1145,
+  "Orders": 74,
+  "LocationKey": "Los Angeles|California|90049"
+ },
+ {
+  "City": "Louisville",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80027",
+  "Sales": 5070.416,
+  "Profit": -3406.2095000000004,
+  "Orders": 12,
+  "LocationKey": "Louisville|Colorado|80027"
+ },
+ {
+  "City": "Louisville",
+  "State": "Kentucky",
+  "Region": "South",
+  "PostalCode": "40214",
+  "Sales": 7275.39,
+  "Profit": 1975.8966,
+  "Orders": 17,
+  "LocationKey": "Louisville|Kentucky|40214"
+ },
+ {
+  "City": "Loveland",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80538",
+  "Sales": 20.964000000000002,
+  "Profit": 4.4778,
+  "Orders": 3,
+  "LocationKey": "Loveland|Colorado|80538"
+ },
+ {
+  "City": "Lowell",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "1852",
+  "Sales": 4837.93,
+  "Profit": 1312.5717,
+  "Orders": 7,
+  "LocationKey": "Lowell|Massachusetts|1852"
+ },
+ {
+  "City": "Lubbock",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "79424",
+  "Sales": 592.564,
+  "Profit": 147.1387,
+  "Orders": 4,
+  "LocationKey": "Lubbock|Texas|79424"
+ },
+ {
+  "City": "Macon",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "31204",
+  "Sales": 364.01,
+  "Profit": 144.8535,
+  "Orders": 4,
+  "LocationKey": "Macon|Georgia|31204"
+ },
+ {
+  "City": "Madison",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "53711",
+  "Sales": 5346.79,
+  "Profit": 1123.6552,
+  "Orders": 4,
+  "LocationKey": "Madison|Wisconsin|53711"
+ },
+ {
+  "City": "Malden",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "2148",
+  "Sales": 228.38,
+  "Profit": 31.1692,
+  "Orders": 2,
+  "LocationKey": "Malden|Massachusetts|2148"
+ },
+ {
+  "City": "Manchester",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6040",
+  "Sales": 2126.28,
+  "Profit": 600.5054,
+  "Orders": 4,
+  "LocationKey": "Manchester|Connecticut|6040"
+ },
+ {
+  "City": "Manhattan",
+  "State": "Kansas",
+  "Region": "Central",
+  "PostalCode": "66502",
+  "Sales": 273.96,
+  "Profit": 10.9584,
+  "Orders": 1,
+  "LocationKey": "Manhattan|Kansas|66502"
+ },
+ {
+  "City": "Mansfield",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "76063",
+  "Sales": 558.877,
+  "Profit": -66.7913,
+  "Orders": 2,
+  "LocationKey": "Mansfield|Texas|76063"
+ },
+ {
+  "City": "Manteca",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95336",
+  "Sales": 452.182,
+  "Profit": 172.2358,
+  "Orders": 2,
+  "LocationKey": "Manteca|California|95336"
+ },
+ {
+  "City": "Maple Grove",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55369",
+  "Sales": 882.87,
+  "Profit": 385.01009999999997,
+  "Orders": 2,
+  "LocationKey": "Maple Grove|Minnesota|55369"
+ },
+ {
+  "City": "Margate",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33063",
+  "Sales": 15.552,
+  "Profit": 2.3328,
+  "Orders": 1,
+  "LocationKey": "Margate|Florida|33063"
+ },
+ {
+  "City": "Marietta",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "30062",
+  "Sales": 2938.62,
+  "Profit": 512.1456,
+  "Orders": 3,
+  "LocationKey": "Marietta|Georgia|30062"
+ },
+ {
+  "City": "Marion",
+  "State": "Iowa",
+  "Region": "Central",
+  "PostalCode": "52302",
+  "Sales": 358.36,
+  "Profit": 164.2909,
+  "Orders": 3,
+  "LocationKey": "Marion|Iowa|52302"
+ },
+ {
+  "City": "Marion",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "43302",
+  "Sales": 3010.986,
+  "Profit": -544.6532,
+  "Orders": 8,
+  "LocationKey": "Marion|Ohio|43302"
+ },
+ {
+  "City": "Marlborough",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "1752",
+  "Sales": 206.64,
+  "Profit": 67.60679999999999,
+  "Orders": 1,
+  "LocationKey": "Marlborough|Massachusetts|1752"
+ },
+ {
+  "City": "Marysville",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98270",
+  "Sales": 102.18,
+  "Profit": 3.3150000000000004,
+  "Orders": 2,
+  "LocationKey": "Marysville|Washington|98270"
+ },
+ {
+  "City": "Mason",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "45040",
+  "Sales": 94.264,
+  "Profit": -4.235199999999999,
+  "Orders": 1,
+  "LocationKey": "Mason|Ohio|45040"
+ },
+ {
+  "City": "Mcallen",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78501",
+  "Sales": 866.716,
+  "Profit": -163.87169999999998,
+  "Orders": 4,
+  "LocationKey": "Mcallen|Texas|78501"
+ },
+ {
+  "City": "Medford",
+  "State": "Oregon",
+  "Region": "West",
+  "PostalCode": "97504",
+  "Sales": 90.218,
+  "Profit": 19.700899999999997,
+  "Orders": 3,
+  "LocationKey": "Medford|Oregon|97504"
+ },
+ {
+  "City": "Medina",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44256",
+  "Sales": 2477.722,
+  "Profit": -1343.0446,
+  "Orders": 3,
+  "LocationKey": "Medina|Ohio|44256"
+ },
+ {
+  "City": "Melbourne",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32935",
+  "Sales": 95.616,
+  "Profit": 9.5616,
+  "Orders": 1,
+  "LocationKey": "Melbourne|Florida|32935"
+ },
+ {
+  "City": "Memphis",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "38109",
+  "Sales": 5942.341,
+  "Profit": -1479.04,
+  "Orders": 14,
+  "LocationKey": "Memphis|Tennessee|38109"
+ },
+ {
+  "City": "Mentor",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44060",
+  "Sales": 693.13,
+  "Profit": -123.27420000000002,
+  "Orders": 1,
+  "LocationKey": "Mentor|Ohio|44060"
+ },
+ {
+  "City": "Meriden",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6450",
+  "Sales": 1550.6799999999998,
+  "Profit": 470.2212,
+  "Orders": 5,
+  "LocationKey": "Meriden|Connecticut|6450"
+ },
+ {
+  "City": "Meridian",
+  "State": "Idaho",
+  "Region": "West",
+  "PostalCode": "83642",
+  "Sales": 329.052,
+  "Profit": 95.214,
+  "Orders": 2,
+  "LocationKey": "Meridian|Idaho|83642"
+ },
+ {
+  "City": "Mesa",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85204",
+  "Sales": 4037.7400000000002,
+  "Profit": -559.2314,
+  "Orders": 14,
+  "LocationKey": "Mesa|Arizona|85204"
+ },
+ {
+  "City": "Mesquite",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75150",
+  "Sales": 52.147999999999996,
+  "Profit": -87.61999999999999,
+  "Orders": 3,
+  "LocationKey": "Mesquite|Texas|75150"
+ },
+ {
+  "City": "Miami",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33142",
+  "Sales": 3619.4210000000003,
+  "Profit": -980.0357,
+  "Orders": 9,
+  "LocationKey": "Miami|Florida|33142"
+ },
+ {
+  "City": "Miami",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33178",
+  "Sales": 1918.3685,
+  "Profit": -458.38679999999994,
+  "Orders": 10,
+  "LocationKey": "Miami|Florida|33178"
+ },
+ {
+  "City": "Miami",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33180",
+  "Sales": 3135.285,
+  "Profit": 288.0521,
+  "Orders": 15,
+  "LocationKey": "Miami|Florida|33180"
+ },
+ {
+  "City": "Middletown",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6457",
+  "Sales": 1154.61,
+  "Profit": 157.6159,
+  "Orders": 7,
+  "LocationKey": "Middletown|Connecticut|6457"
+ },
+ {
+  "City": "Midland",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48640",
+  "Sales": 5291.512,
+  "Profit": 2293.6828,
+  "Orders": 5,
+  "LocationKey": "Midland|Michigan|48640"
+ },
+ {
+  "City": "Milford",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6460",
+  "Sales": 961.74,
+  "Profit": 319.054,
+  "Orders": 3,
+  "LocationKey": "Milford|Connecticut|6460"
+ },
+ {
+  "City": "Milwaukee",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "53209",
+  "Sales": 11410.22,
+  "Profit": 2793.0851000000002,
+  "Orders": 23,
+  "LocationKey": "Milwaukee|Wisconsin|53209"
+ },
+ {
+  "City": "Minneapolis",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55407",
+  "Sales": 16870.54,
+  "Profit": 6824.584599999999,
+  "Orders": 13,
+  "LocationKey": "Minneapolis|Minnesota|55407"
+ },
+ {
+  "City": "Miramar",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33023",
+  "Sales": 1531.192,
+  "Profit": 32.28099999999999,
+  "Orders": 3,
+  "LocationKey": "Miramar|Florida|33023"
+ },
+ {
+  "City": "Mishawaka",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "46544",
+  "Sales": 776.24,
+  "Profit": 96.59200000000001,
+  "Orders": 2,
+  "LocationKey": "Mishawaka|Indiana|46544"
+ },
+ {
+  "City": "Mission Viejo",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92691",
+  "Sales": 775.986,
+  "Profit": 151.06449999999998,
+  "Orders": 3,
+  "LocationKey": "Mission Viejo|California|92691"
+ },
+ {
+  "City": "Missoula",
+  "State": "Montana",
+  "Region": "West",
+  "PostalCode": "59801",
+  "Sales": 487.984,
+  "Profit": 152.495,
+  "Orders": 1,
+  "LocationKey": "Missoula|Montana|59801"
+ },
+ {
+  "City": "Missouri City",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77489",
+  "Sales": 6.37,
+  "Profit": -9.555,
+  "Orders": 1,
+  "LocationKey": "Missouri City|Texas|77489"
+ },
+ {
+  "City": "Mobile",
+  "State": "Alabama",
+  "Region": "South",
+  "PostalCode": "36608",
+  "Sales": 5462.99,
+  "Profit": 2175.8292,
+  "Orders": 4,
+  "LocationKey": "Mobile|Alabama|36608"
+ },
+ {
+  "City": "Modesto",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95351",
+  "Sales": 326.15000000000003,
+  "Profit": 19.943,
+  "Orders": 3,
+  "LocationKey": "Modesto|California|95351"
+ },
+ {
+  "City": "Monroe",
+  "State": "Louisiana",
+  "Region": "South",
+  "PostalCode": "71203",
+  "Sales": 1757.37,
+  "Profit": 555.7977999999999,
+  "Orders": 6,
+  "LocationKey": "Monroe|Louisiana|71203"
+ },
+ {
+  "City": "Monroe",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "28110",
+  "Sales": 1213.0639999999999,
+  "Profit": 140.8264,
+  "Orders": 6,
+  "LocationKey": "Monroe|North Carolina|28110"
+ },
+ {
+  "City": "Montebello",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90640",
+  "Sales": 27.88,
+  "Profit": 3.9032,
+  "Orders": 1,
+  "LocationKey": "Montebello|California|90640"
+ },
+ {
+  "City": "Montgomery",
+  "State": "Alabama",
+  "Region": "South",
+  "PostalCode": "36116",
+  "Sales": 3722.73,
+  "Profit": 834.6571,
+  "Orders": 6,
+  "LocationKey": "Montgomery|Alabama|36116"
+ },
+ {
+  "City": "Moorhead",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "56560",
+  "Sales": 543.86,
+  "Profit": 101.4106,
+  "Orders": 2,
+  "LocationKey": "Moorhead|Minnesota|56560"
+ },
+ {
+  "City": "Moreno Valley",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92553",
+  "Sales": 1262.4660000000001,
+  "Profit": 353.6301,
+  "Orders": 5,
+  "LocationKey": "Moreno Valley|California|92553"
+ },
+ {
+  "City": "Morgan Hill",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95037",
+  "Sales": 545.01,
+  "Profit": 7.846,
+  "Orders": 1,
+  "LocationKey": "Morgan Hill|California|95037"
+ },
+ {
+  "City": "Morristown",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7960",
+  "Sales": 5033.099999999999,
+  "Profit": 1838.2271,
+  "Orders": 5,
+  "LocationKey": "Morristown|New Jersey|7960"
+ },
+ {
+  "City": "Mount Pleasant",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48858",
+  "Sales": 17.14,
+  "Profit": 6.1704,
+  "Orders": 1,
+  "LocationKey": "Mount Pleasant|Michigan|48858"
+ },
+ {
+  "City": "Mount Pleasant",
+  "State": "South Carolina",
+  "Region": "South",
+  "PostalCode": "29464",
+  "Sales": 545.94,
+  "Profit": 87.3504,
+  "Orders": 1,
+  "LocationKey": "Mount Pleasant|South Carolina|29464"
+ },
+ {
+  "City": "Mount Vernon",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "10550",
+  "Sales": 2119.632,
+  "Profit": 662.5146,
+  "Orders": 5,
+  "LocationKey": "Mount Vernon|New York|10550"
+ },
+ {
+  "City": "Murfreesboro",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37130",
+  "Sales": 337.333,
+  "Profit": 15.6891,
+  "Orders": 4,
+  "LocationKey": "Murfreesboro|Tennessee|37130"
+ },
+ {
+  "City": "Murray",
+  "State": "Kentucky",
+  "Region": "South",
+  "PostalCode": "42071",
+  "Sales": 264.62,
+  "Profit": 94.4658,
+  "Orders": 2,
+  "LocationKey": "Murray|Kentucky|42071"
+ },
+ {
+  "City": "Murray",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84107",
+  "Sales": 146.318,
+  "Profit": 37.062799999999996,
+  "Orders": 2,
+  "LocationKey": "Murray|Utah|84107"
+ },
+ {
+  "City": "Murrieta",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92563",
+  "Sales": 484.65,
+  "Profit": 92.0835,
+  "Orders": 1,
+  "LocationKey": "Murrieta|California|92563"
+ },
+ {
+  "City": "Muskogee",
+  "State": "Oklahoma",
+  "Region": "Central",
+  "PostalCode": "74403",
+  "Sales": 1721.7,
+  "Profit": 442.5966,
+  "Orders": 2,
+  "LocationKey": "Muskogee|Oklahoma|74403"
+ },
+ {
+  "City": "Naperville",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60540",
+  "Sales": 1288.3029999999999,
+  "Profit": -146.5324,
+  "Orders": 5,
+  "LocationKey": "Naperville|Illinois|60540"
+ },
+ {
+  "City": "Nashua",
+  "State": "New Hampshire",
+  "Region": "East",
+  "PostalCode": "3060",
+  "Sales": 35.94,
+  "Profit": 13.512599999999999,
+  "Orders": 2,
+  "LocationKey": "Nashua|New Hampshire|3060"
+ },
+ {
+  "City": "Nashville",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37211",
+  "Sales": 6070.863,
+  "Profit": -837.4908,
+  "Orders": 16,
+  "LocationKey": "Nashville|Tennessee|37211"
+ },
+ {
+  "City": "New Albany",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "47150",
+  "Sales": 209.55,
+  "Profit": 73.3529,
+  "Orders": 1,
+  "LocationKey": "New Albany|Indiana|47150"
+ },
+ {
+  "City": "New Bedford",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "2740",
+  "Sales": 235.96999999999997,
+  "Profit": 50.4861,
+  "Orders": 4,
+  "LocationKey": "New Bedford|Massachusetts|2740"
+ },
+ {
+  "City": "New Brunswick",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "8901",
+  "Sales": 14.77,
+  "Profit": 7.156700000000001,
+  "Orders": 1,
+  "LocationKey": "New Brunswick|New Jersey|8901"
+ },
+ {
+  "City": "New Castle",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "47362",
+  "Sales": 84.61,
+  "Profit": 23.0839,
+  "Orders": 1,
+  "LocationKey": "New Castle|Indiana|47362"
+ },
+ {
+  "City": "New Rochelle",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "10801",
+  "Sales": 1255.228,
+  "Profit": 368.411,
+  "Orders": 5,
+  "LocationKey": "New Rochelle|New York|10801"
+ },
+ {
+  "City": "New York City",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "10009",
+  "Sales": 54761.496,
+  "Profit": 13697.0019,
+  "Orders": 110,
+  "LocationKey": "New York City|New York|10009"
+ },
+ {
+  "City": "New York City",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "10011",
+  "Sales": 45551.598,
+  "Profit": 10152.3901,
+  "Orders": 94,
+  "LocationKey": "New York City|New York|10011"
+ },
+ {
+  "City": "New York City",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "10024",
+  "Sales": 78697.182,
+  "Profit": 21653.7248,
+  "Orders": 121,
+  "LocationKey": "New York City|New York|10024"
+ },
+ {
+  "City": "New York City",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "10035",
+  "Sales": 77357.885,
+  "Profit": 16533.8669,
+  "Orders": 125,
+  "LocationKey": "New York City|New York|10035"
+ },
+ {
+  "City": "Newark",
+  "State": "Delaware",
+  "Region": "East",
+  "PostalCode": "19711",
+  "Sales": 20448.05,
+  "Profit": 8086.1715,
+  "Orders": 29,
+  "LocationKey": "Newark|Delaware|19711"
+ },
+ {
+  "City": "Newark",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "43055",
+  "Sales": 8128.0689999999995,
+  "Profit": -2292.4127,
+  "Orders": 16,
+  "LocationKey": "Newark|Ohio|43055"
+ },
+ {
+  "City": "Newport News",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "23602",
+  "Sales": 3321.9500000000003,
+  "Profit": 1197.0469,
+  "Orders": 5,
+  "LocationKey": "Newport News|Virginia|23602"
+ },
+ {
+  "City": "Niagara Falls",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "14304",
+  "Sales": 199.84199999999998,
+  "Profit": 59.238299999999995,
+  "Orders": 2,
+  "LocationKey": "Niagara Falls|New York|14304"
+ },
+ {
+  "City": "Noblesville",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "46060",
+  "Sales": 3091.1800000000003,
+  "Profit": 353.313,
+  "Orders": 2,
+  "LocationKey": "Noblesville|Indiana|46060"
+ },
+ {
+  "City": "Norfolk",
+  "State": "Nebraska",
+  "Region": "Central",
+  "PostalCode": "68701",
+  "Sales": 17.43,
+  "Profit": 8.0178,
+  "Orders": 1,
+  "LocationKey": "Norfolk|Nebraska|68701"
+ },
+ {
+  "City": "Normal",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "61761",
+  "Sales": 366.744,
+  "Profit": -110.0232,
+  "Orders": 1,
+  "LocationKey": "Normal|Illinois|61761"
+ },
+ {
+  "City": "Norman",
+  "State": "Oklahoma",
+  "Region": "Central",
+  "PostalCode": "73071",
+  "Sales": 1351.3300000000002,
+  "Profit": 269.5287,
+  "Orders": 2,
+  "LocationKey": "Norman|Oklahoma|73071"
+ },
+ {
+  "City": "North Charleston",
+  "State": "South Carolina",
+  "Region": "South",
+  "PostalCode": "29406",
+  "Sales": 284.25,
+  "Profit": 9.670200000000001,
+  "Orders": 2,
+  "LocationKey": "North Charleston|South Carolina|29406"
+ },
+ {
+  "City": "North Las Vegas",
+  "State": "Nevada",
+  "Region": "West",
+  "PostalCode": "89031",
+  "Sales": 9801.002,
+  "Profit": 2247.6899000000003,
+  "Orders": 7,
+  "LocationKey": "North Las Vegas|Nevada|89031"
+ },
+ {
+  "City": "North Miami",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33161",
+  "Sales": 22.128,
+  "Profit": 3.0798000000000005,
+  "Orders": 2,
+  "LocationKey": "North Miami|Florida|33161"
+ },
+ {
+  "City": "Norwich",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6360",
+  "Sales": 414.03999999999996,
+  "Profit": 164.08960000000002,
+  "Orders": 4,
+  "LocationKey": "Norwich|Connecticut|6360"
+ },
+ {
+  "City": "Oak Park",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60302",
+  "Sales": 10.192,
+  "Profit": 1.0192,
+  "Orders": 1,
+  "LocationKey": "Oak Park|Illinois|60302"
+ },
+ {
+  "City": "Oak Park",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48237",
+  "Sales": 580.8599999999999,
+  "Profit": 151.0236,
+  "Orders": 1,
+  "LocationKey": "Oak Park|Michigan|48237"
+ },
+ {
+  "City": "Oakland",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94601",
+  "Sales": 5964.418,
+  "Profit": 834.1029000000001,
+  "Orders": 13,
+  "LocationKey": "Oakland|California|94601"
+ },
+ {
+  "City": "Oceanside",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92054",
+  "Sales": 499.61199999999997,
+  "Profit": 117.51299999999999,
+  "Orders": 5,
+  "LocationKey": "Oceanside|California|92054"
+ },
+ {
+  "City": "Oceanside",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "11572",
+  "Sales": 3851.126,
+  "Profit": 655.1669,
+  "Orders": 8,
+  "LocationKey": "Oceanside|New York|11572"
+ },
+ {
+  "City": "Odessa",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "79762",
+  "Sales": 976.1239999999999,
+  "Profit": -69.71180000000001,
+  "Orders": 4,
+  "LocationKey": "Odessa|Texas|79762"
+ },
+ {
+  "City": "Oklahoma City",
+  "State": "Oklahoma",
+  "Region": "Central",
+  "PostalCode": "73120",
+  "Sales": 6596.820000000001,
+  "Profit": 1580.7607,
+  "Orders": 11,
+  "LocationKey": "Oklahoma City|Oklahoma|73120"
+ },
+ {
+  "City": "Olathe",
+  "State": "Kansas",
+  "Region": "Central",
+  "PostalCode": "66062",
+  "Sales": 895.79,
+  "Profit": 207.4108,
+  "Orders": 2,
+  "LocationKey": "Olathe|Kansas|66062"
+ },
+ {
+  "City": "Olympia",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98502",
+  "Sales": 1020.448,
+  "Profit": 139.6269,
+  "Orders": 3,
+  "LocationKey": "Olympia|Washington|98502"
+ },
+ {
+  "City": "Omaha",
+  "State": "Nebraska",
+  "Region": "Central",
+  "PostalCode": "68104",
+  "Sales": 6312.53,
+  "Profit": 1841.6268,
+  "Orders": 14,
+  "LocationKey": "Omaha|Nebraska|68104"
+ },
+ {
+  "City": "Ontario",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "91761",
+  "Sales": 283.92,
+  "Profit": -46.137,
+  "Orders": 1,
+  "LocationKey": "Ontario|California|91761"
+ },
+ {
+  "City": "Orange",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7050",
+  "Sales": 211.11,
+  "Profit": 66.5698,
+  "Orders": 5,
+  "LocationKey": "Orange|New Jersey|7050"
+ },
+ {
+  "City": "Orem",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84057",
+  "Sales": 2994.0879999999997,
+  "Profit": 514.6335,
+  "Orders": 5,
+  "LocationKey": "Orem|Utah|84057"
+ },
+ {
+  "City": "Orland Park",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60462",
+  "Sales": 339.96,
+  "Profit": 67.992,
+  "Orders": 1,
+  "LocationKey": "Orland Park|Illinois|60462"
+ },
+ {
+  "City": "Orlando",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32839",
+  "Sales": 1740.08,
+  "Profit": 377.7253,
+  "Orders": 6,
+  "LocationKey": "Orlando|Florida|32839"
+ },
+ {
+  "City": "Ormond Beach",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32174",
+  "Sales": 2.808,
+  "Profit": -1.9656,
+  "Orders": 1,
+  "LocationKey": "Ormond Beach|Florida|32174"
+ },
+ {
+  "City": "Oswego",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60543",
+  "Sales": 321.978,
+  "Profit": -536.1275999999999,
+  "Orders": 1,
+  "LocationKey": "Oswego|Illinois|60543"
+ },
+ {
+  "City": "Overland Park",
+  "State": "Kansas",
+  "Region": "Central",
+  "PostalCode": "66212",
+  "Sales": 606.91,
+  "Profit": 203.5218,
+  "Orders": 3,
+  "LocationKey": "Overland Park|Kansas|66212"
+ },
+ {
+  "City": "Owensboro",
+  "State": "Kentucky",
+  "Region": "South",
+  "PostalCode": "42301",
+  "Sales": 71.18,
+  "Profit": 27.642799999999998,
+  "Orders": 2,
+  "LocationKey": "Owensboro|Kentucky|42301"
+ },
+ {
+  "City": "Oxnard",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93030",
+  "Sales": 1558.1000000000001,
+  "Profit": 346.4577,
+  "Orders": 4,
+  "LocationKey": "Oxnard|California|93030"
+ },
+ {
+  "City": "Palatine",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60067",
+  "Sales": 116.312,
+  "Profit": 23.2624,
+  "Orders": 1,
+  "LocationKey": "Palatine|Illinois|60067"
+ },
+ {
+  "City": "Palm Coast",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32137",
+  "Sales": 274.428,
+  "Profit": 17.6552,
+  "Orders": 3,
+  "LocationKey": "Palm Coast|Florida|32137"
+ },
+ {
+  "City": "Park Ridge",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60068",
+  "Sales": 685.0,
+  "Profit": -238.45,
+  "Orders": 3,
+  "LocationKey": "Park Ridge|Illinois|60068"
+ },
+ {
+  "City": "Parker",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80134",
+  "Sales": 1067.942,
+  "Profit": -164.1893,
+  "Orders": 2,
+  "LocationKey": "Parker|Colorado|80134"
+ },
+ {
+  "City": "Parma",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "44134",
+  "Sales": 3879.756,
+  "Profit": 31.061799999999995,
+  "Orders": 4,
+  "LocationKey": "Parma|Ohio|44134"
+ },
+ {
+  "City": "Pasadena",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "91104",
+  "Sales": 4112.688,
+  "Profit": 429.9769,
+  "Orders": 11,
+  "LocationKey": "Pasadena|California|91104"
+ },
+ {
+  "City": "Pasadena",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77506",
+  "Sales": 2477.458,
+  "Profit": -340.10499999999996,
+  "Orders": 9,
+  "LocationKey": "Pasadena|Texas|77506"
+ },
+ {
+  "City": "Pasco",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "99301",
+  "Sales": 2201.112,
+  "Profit": 357.5244,
+  "Orders": 2,
+  "LocationKey": "Pasco|Washington|99301"
+ },
+ {
+  "City": "Passaic",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7055",
+  "Sales": 1562.086,
+  "Profit": 356.8186,
+  "Orders": 1,
+  "LocationKey": "Passaic|New Jersey|7055"
+ },
+ {
+  "City": "Paterson",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7501",
+  "Sales": 2243.21,
+  "Profit": 740.49,
+  "Orders": 6,
+  "LocationKey": "Paterson|New Jersey|7501"
+ },
+ {
+  "City": "Pearland",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77581",
+  "Sales": 494.996,
+  "Profit": 39.4131,
+  "Orders": 2,
+  "LocationKey": "Pearland|Texas|77581"
+ },
+ {
+  "City": "Pembroke Pines",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33024",
+  "Sales": 1714.3754999999999,
+  "Profit": -72.4491,
+  "Orders": 4,
+  "LocationKey": "Pembroke Pines|Florida|33024"
+ },
+ {
+  "City": "Pensacola",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32503",
+  "Sales": 2.214,
+  "Profit": -1.476,
+  "Orders": 1,
+  "LocationKey": "Pensacola|Florida|32503"
+ },
+ {
+  "City": "Peoria",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85345",
+  "Sales": 1341.352,
+  "Profit": -55.10760000000002,
+  "Orders": 5,
+  "LocationKey": "Peoria|Arizona|85345"
+ },
+ {
+  "City": "Peoria",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "61604",
+  "Sales": 501.47999999999996,
+  "Profit": -72.7587,
+  "Orders": 4,
+  "LocationKey": "Peoria|Illinois|61604"
+ },
+ {
+  "City": "Perth Amboy",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "8861",
+  "Sales": 1717.08,
+  "Profit": 633.644,
+  "Orders": 4,
+  "LocationKey": "Perth Amboy|New Jersey|8861"
+ },
+ {
+  "City": "Pharr",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78577",
+  "Sales": 1540.708,
+  "Profit": -237.5528,
+  "Orders": 2,
+  "LocationKey": "Pharr|Texas|78577"
+ },
+ {
+  "City": "Philadelphia",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "19120",
+  "Sales": 26292.518,
+  "Profit": -1092.7759,
+  "Orders": 62,
+  "LocationKey": "Philadelphia|Pennsylvania|19120"
+ },
+ {
+  "City": "Philadelphia",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "19134",
+  "Sales": 39390.293,
+  "Profit": -3745.8552,
+  "Orders": 70,
+  "LocationKey": "Philadelphia|Pennsylvania|19134"
+ },
+ {
+  "City": "Philadelphia",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "19140",
+  "Sales": 22752.914,
+  "Profit": -5168.3905,
+  "Orders": 72,
+  "LocationKey": "Philadelphia|Pennsylvania|19140"
+ },
+ {
+  "City": "Philadelphia",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "19143",
+  "Sales": 20641.288,
+  "Profit": -3830.7457999999997,
+  "Orders": 61,
+  "LocationKey": "Philadelphia|Pennsylvania|19143"
+ },
+ {
+  "City": "Phoenix",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85023",
+  "Sales": 11000.257,
+  "Profit": -2790.8831999999998,
+  "Orders": 29,
+  "LocationKey": "Phoenix|Arizona|85023"
+ },
+ {
+  "City": "Pico Rivera",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90660",
+  "Sales": 145.9,
+  "Profit": 62.737,
+  "Orders": 1,
+  "LocationKey": "Pico Rivera|California|90660"
+ },
+ {
+  "City": "Pine Bluff",
+  "State": "Arkansas",
+  "Region": "South",
+  "PostalCode": "71603",
+  "Sales": 212.91,
+  "Profit": 70.2048,
+  "Orders": 1,
+  "LocationKey": "Pine Bluff|Arkansas|71603"
+ },
+ {
+  "City": "Plainfield",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7060",
+  "Sales": 4526.85,
+  "Profit": 1235.6657,
+  "Orders": 7,
+  "LocationKey": "Plainfield|New Jersey|7060"
+ },
+ {
+  "City": "Plano",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75023",
+  "Sales": 3530.3746,
+  "Profit": -383.0554,
+  "Orders": 8,
+  "LocationKey": "Plano|Texas|75023"
+ },
+ {
+  "City": "Plantation",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33317",
+  "Sales": 1436.836,
+  "Profit": 12.039100000000005,
+  "Orders": 3,
+  "LocationKey": "Plantation|Florida|33317"
+ },
+ {
+  "City": "Pleasant Grove",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84062",
+  "Sales": 2138.178,
+  "Profit": 580.6549,
+  "Orders": 2,
+  "LocationKey": "Pleasant Grove|Utah|84062"
+ },
+ {
+  "City": "Pocatello",
+  "State": "Idaho",
+  "Region": "West",
+  "PostalCode": "83201",
+  "Sales": 1344.942,
+  "Profit": 181.35590000000002,
+  "Orders": 3,
+  "LocationKey": "Pocatello|Idaho|83201"
+ },
+ {
+  "City": "Pomona",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "91767",
+  "Sales": 1482.502,
+  "Profit": 150.299,
+  "Orders": 5,
+  "LocationKey": "Pomona|California|91767"
+ },
+ {
+  "City": "Pompano Beach",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33068",
+  "Sales": 90.44,
+  "Profit": 15.006499999999999,
+  "Orders": 2,
+  "LocationKey": "Pompano Beach|Florida|33068"
+ },
+ {
+  "City": "Port Arthur",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77642",
+  "Sales": 737.0528,
+  "Profit": 105.77600000000001,
+  "Orders": 3,
+  "LocationKey": "Port Arthur|Texas|77642"
+ },
+ {
+  "City": "Port Orange",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32127",
+  "Sales": 7.824,
+  "Profit": 2.934,
+  "Orders": 1,
+  "LocationKey": "Port Orange|Florida|32127"
+ },
+ {
+  "City": "Port Saint Lucie",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "34952",
+  "Sales": 248.95,
+  "Profit": 4.449,
+  "Orders": 3,
+  "LocationKey": "Port Saint Lucie|Florida|34952"
+ },
+ {
+  "City": "Portage",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "46368",
+  "Sales": 16.28,
+  "Profit": 6.512,
+  "Orders": 1,
+  "LocationKey": "Portage|Indiana|46368"
+ },
+ {
+  "City": "Portland",
+  "State": "Oregon",
+  "Region": "West",
+  "PostalCode": "97206",
+  "Sales": 4051.869,
+  "Profit": 9.757299999999997,
+  "Orders": 15,
+  "LocationKey": "Portland|Oregon|97206"
+ },
+ {
+  "City": "Providence",
+  "State": "Rhode Island",
+  "Region": "East",
+  "PostalCode": "2908",
+  "Sales": 15980.65,
+  "Profit": 5505.6569,
+  "Orders": 13,
+  "LocationKey": "Providence|Rhode Island|2908"
+ },
+ {
+  "City": "Provo",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84604",
+  "Sales": 2761.234,
+  "Profit": 388.5674,
+  "Orders": 4,
+  "LocationKey": "Provo|Utah|84604"
+ },
+ {
+  "City": "Pueblo",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "81001",
+  "Sales": 1686.9379999999999,
+  "Profit": -900.9719,
+  "Orders": 4,
+  "LocationKey": "Pueblo|Colorado|81001"
+ },
+ {
+  "City": "Quincy",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "62301",
+  "Sales": 330.284,
+  "Profit": 49.1019,
+  "Orders": 6,
+  "LocationKey": "Quincy|Illinois|62301"
+ },
+ {
+  "City": "Quincy",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "2169",
+  "Sales": 946.175,
+  "Profit": 297.9889,
+  "Orders": 5,
+  "LocationKey": "Quincy|Massachusetts|2169"
+ },
+ {
+  "City": "Raleigh",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27604",
+  "Sales": 4507.54,
+  "Profit": 472.594,
+  "Orders": 13,
+  "LocationKey": "Raleigh|North Carolina|27604"
+ },
+ {
+  "City": "Rancho Cucamonga",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "91730",
+  "Sales": 231.852,
+  "Profit": 73.7442,
+  "Orders": 4,
+  "LocationKey": "Rancho Cucamonga|California|91730"
+ },
+ {
+  "City": "Rapid City",
+  "State": "South Dakota",
+  "Region": "Central",
+  "PostalCode": "57701",
+  "Sales": 152.64000000000001,
+  "Profit": 44.7684,
+  "Orders": 1,
+  "LocationKey": "Rapid City|South Dakota|57701"
+ },
+ {
+  "City": "Reading",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "19601",
+  "Sales": 873.7120000000001,
+  "Profit": -268.76419999999996,
+  "Orders": 4,
+  "LocationKey": "Reading|Pennsylvania|19601"
+ },
+ {
+  "City": "Redding",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "96003",
+  "Sales": 333.576,
+  "Profit": 25.0182,
+  "Orders": 1,
+  "LocationKey": "Redding|California|96003"
+ },
+ {
+  "City": "Redlands",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92374",
+  "Sales": 2891.021,
+  "Profit": 454.1556,
+  "Orders": 4,
+  "LocationKey": "Redlands|California|92374"
+ },
+ {
+  "City": "Redmond",
+  "State": "Oregon",
+  "Region": "West",
+  "PostalCode": "97756",
+  "Sales": 1043.027,
+  "Profit": -174.45000000000002,
+  "Orders": 4,
+  "LocationKey": "Redmond|Oregon|97756"
+ },
+ {
+  "City": "Redmond",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98052",
+  "Sales": 55.230000000000004,
+  "Profit": 20.7322,
+  "Orders": 2,
+  "LocationKey": "Redmond|Washington|98052"
+ },
+ {
+  "City": "Redondo Beach",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90278",
+  "Sales": 1959.803,
+  "Profit": 176.4289,
+  "Orders": 3,
+  "LocationKey": "Redondo Beach|California|90278"
+ },
+ {
+  "City": "Redwood City",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94061",
+  "Sales": 41.904,
+  "Profit": 14.1426,
+  "Orders": 1,
+  "LocationKey": "Redwood City|California|94061"
+ },
+ {
+  "City": "Reno",
+  "State": "Nevada",
+  "Region": "West",
+  "PostalCode": "89502",
+  "Sales": 644.062,
+  "Profit": 115.0527,
+  "Orders": 3,
+  "LocationKey": "Reno|Nevada|89502"
+ },
+ {
+  "City": "Renton",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98059",
+  "Sales": 1242.6319999999998,
+  "Profit": 185.4324,
+  "Orders": 1,
+  "LocationKey": "Renton|Washington|98059"
+ },
+ {
+  "City": "Revere",
+  "State": "Massachusetts",
+  "Region": "East",
+  "PostalCode": "2151",
+  "Sales": 833.26,
+  "Profit": 258.8366,
+  "Orders": 3,
+  "LocationKey": "Revere|Massachusetts|2151"
+ },
+ {
+  "City": "Richardson",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75080",
+  "Sales": 1288.4640000000002,
+  "Profit": -24.4893,
+  "Orders": 1,
+  "LocationKey": "Richardson|Texas|75080"
+ },
+ {
+  "City": "Richmond",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "47374",
+  "Sales": 6235.15,
+  "Profit": 1881.8619999999999,
+  "Orders": 14,
+  "LocationKey": "Richmond|Indiana|47374"
+ },
+ {
+  "City": "Richmond",
+  "State": "Kentucky",
+  "Region": "South",
+  "PostalCode": "40475",
+  "Sales": 6761.52,
+  "Profit": 2275.6436,
+  "Orders": 14,
+  "LocationKey": "Richmond|Kentucky|40475"
+ },
+ {
+  "City": "Richmond",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "23223",
+  "Sales": 5141.26,
+  "Profit": 1409.743,
+  "Orders": 13,
+  "LocationKey": "Richmond|Virginia|23223"
+ },
+ {
+  "City": "Rio Rancho",
+  "State": "New Mexico",
+  "Region": "West",
+  "PostalCode": "87124",
+  "Sales": 1114.192,
+  "Profit": 119.5878,
+  "Orders": 1,
+  "LocationKey": "Rio Rancho|New Mexico|87124"
+ },
+ {
+  "City": "Riverside",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92503",
+  "Sales": 1944.2459999999999,
+  "Profit": 374.7296,
+  "Orders": 9,
+  "LocationKey": "Riverside|California|92503"
+ },
+ {
+  "City": "Rochester",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55901",
+  "Sales": 1957.4,
+  "Profit": 520.204,
+  "Orders": 8,
+  "LocationKey": "Rochester|Minnesota|55901"
+ },
+ {
+  "City": "Rochester",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "14609",
+  "Sales": 6017.13,
+  "Profit": 1223.2151000000001,
+  "Orders": 20,
+  "LocationKey": "Rochester|New York|14609"
+ },
+ {
+  "City": "Rochester Hills",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48307",
+  "Sales": 132.52,
+  "Profit": 54.3332,
+  "Orders": 1,
+  "LocationKey": "Rochester Hills|Michigan|48307"
+ },
+ {
+  "City": "Rock Hill",
+  "State": "South Carolina",
+  "Region": "South",
+  "PostalCode": "29730",
+  "Sales": 11.85,
+  "Profit": 3.792,
+  "Orders": 1,
+  "LocationKey": "Rock Hill|South Carolina|29730"
+ },
+ {
+  "City": "Rockford",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "61107",
+  "Sales": 3166.228,
+  "Profit": -1149.5077999999999,
+  "Orders": 8,
+  "LocationKey": "Rockford|Illinois|61107"
+ },
+ {
+  "City": "Rockville",
+  "State": "Maryland",
+  "Region": "East",
+  "PostalCode": "20852",
+  "Sales": 469.77,
+  "Profit": 133.2147,
+  "Orders": 3,
+  "LocationKey": "Rockville|Maryland|20852"
+ },
+ {
+  "City": "Rogers",
+  "State": "Arkansas",
+  "Region": "South",
+  "PostalCode": "72756",
+  "Sales": 40.41,
+  "Profit": 18.5886,
+  "Orders": 1,
+  "LocationKey": "Rogers|Arkansas|72756"
+ },
+ {
+  "City": "Rome",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "13440",
+  "Sales": 534.852,
+  "Profit": 154.2138,
+  "Orders": 3,
+  "LocationKey": "Rome|New York|13440"
+ },
+ {
+  "City": "Romeoville",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60441",
+  "Sales": 8.952,
+  "Profit": -14.7708,
+  "Orders": 1,
+  "LocationKey": "Romeoville|Illinois|60441"
+ },
+ {
+  "City": "Roseville",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95661",
+  "Sales": 734.776,
+  "Profit": 316.94500000000005,
+  "Orders": 7,
+  "LocationKey": "Roseville|California|95661"
+ },
+ {
+  "City": "Roseville",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48066",
+  "Sales": 638.33,
+  "Profit": 268.9149,
+  "Orders": 4,
+  "LocationKey": "Roseville|Michigan|48066"
+ },
+ {
+  "City": "Roseville",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55113",
+  "Sales": 2215.52,
+  "Profit": 667.5272,
+  "Orders": 2,
+  "LocationKey": "Roseville|Minnesota|55113"
+ },
+ {
+  "City": "Roswell",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "30076",
+  "Sales": 6652.32,
+  "Profit": 2427.4353,
+  "Orders": 9,
+  "LocationKey": "Roswell|Georgia|30076"
+ },
+ {
+  "City": "Round Rock",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78664",
+  "Sales": 4854.0527999999995,
+  "Profit": -1183.4313,
+  "Orders": 3,
+  "LocationKey": "Round Rock|Texas|78664"
+ },
+ {
+  "City": "Royal Oak",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48073",
+  "Sales": 35.34,
+  "Profit": 16.9632,
+  "Orders": 2,
+  "LocationKey": "Royal Oak|Michigan|48073"
+ },
+ {
+  "City": "Sacramento",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95823",
+  "Sales": 7311.278,
+  "Profit": 2069.6859,
+  "Orders": 8,
+  "LocationKey": "Sacramento|California|95823"
+ },
+ {
+  "City": "Saginaw",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48601",
+  "Sales": 395.86,
+  "Profit": 77.18010000000001,
+  "Orders": 2,
+  "LocationKey": "Saginaw|Michigan|48601"
+ },
+ {
+  "City": "Saint Charles",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60174",
+  "Sales": 1388.71,
+  "Profit": 216.63979999999998,
+  "Orders": 3,
+  "LocationKey": "Saint Charles|Illinois|60174"
+ },
+ {
+  "City": "Saint Charles",
+  "State": "Missouri",
+  "Region": "Central",
+  "PostalCode": "63301",
+  "Sales": 270.94,
+  "Profit": 94.8436,
+  "Orders": 3,
+  "LocationKey": "Saint Charles|Missouri|63301"
+ },
+ {
+  "City": "Saint Cloud",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "56301",
+  "Sales": 1331.82,
+  "Profit": 469.614,
+  "Orders": 1,
+  "LocationKey": "Saint Cloud|Minnesota|56301"
+ },
+ {
+  "City": "Saint Louis",
+  "State": "Missouri",
+  "Region": "Central",
+  "PostalCode": "63116",
+  "Sales": 285.96000000000004,
+  "Profit": 98.5541,
+  "Orders": 4,
+  "LocationKey": "Saint Louis|Missouri|63116"
+ },
+ {
+  "City": "Saint Paul",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55106",
+  "Sales": 192.82999999999998,
+  "Profit": 24.8842,
+  "Orders": 2,
+  "LocationKey": "Saint Paul|Minnesota|55106"
+ },
+ {
+  "City": "Saint Peters",
+  "State": "Missouri",
+  "Region": "Central",
+  "PostalCode": "63376",
+  "Sales": 697.16,
+  "Profit": 146.4036,
+  "Orders": 1,
+  "LocationKey": "Saint Peters|Missouri|63376"
+ },
+ {
+  "City": "Saint Petersburg",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33710",
+  "Sales": 1690.7920000000001,
+  "Profit": 151.9823,
+  "Orders": 6,
+  "LocationKey": "Saint Petersburg|Florida|33710"
+ },
+ {
+  "City": "Salem",
+  "State": "Oregon",
+  "Region": "West",
+  "PostalCode": "97301",
+  "Sales": 1404.695,
+  "Profit": -262.3311,
+  "Orders": 9,
+  "LocationKey": "Salem|Oregon|97301"
+ },
+ {
+  "City": "Salem",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "24153",
+  "Sales": 2039.55,
+  "Profit": 533.0251000000001,
+  "Orders": 6,
+  "LocationKey": "Salem|Virginia|24153"
+ },
+ {
+  "City": "Salinas",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93905",
+  "Sales": 728.8910000000001,
+  "Profit": 270.5181,
+  "Orders": 4,
+  "LocationKey": "Salinas|California|93905"
+ },
+ {
+  "City": "Salt Lake City",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84106",
+  "Sales": 802.776,
+  "Profit": 329.2601,
+  "Orders": 5,
+  "LocationKey": "Salt Lake City|Utah|84106"
+ },
+ {
+  "City": "San Angelo",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "76903",
+  "Sales": 650.636,
+  "Profit": -58.5532,
+  "Orders": 2,
+  "LocationKey": "San Angelo|Texas|76903"
+ },
+ {
+  "City": "San Antonio",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78207",
+  "Sales": 21843.528,
+  "Profit": -7299.050200000001,
+  "Orders": 27,
+  "LocationKey": "San Antonio|Texas|78207"
+ },
+ {
+  "City": "San Bernardino",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92404",
+  "Sales": 979.3000000000001,
+  "Profit": 69.982,
+  "Orders": 4,
+  "LocationKey": "San Bernardino|California|92404"
+ },
+ {
+  "City": "San Clemente",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92672",
+  "Sales": 90.05799999999999,
+  "Profit": 42.5419,
+  "Orders": 1,
+  "LocationKey": "San Clemente|California|92672"
+ },
+ {
+  "City": "San Diego",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92024",
+  "Sales": 7054.148,
+  "Profit": 1390.2932,
+  "Orders": 21,
+  "LocationKey": "San Diego|California|92024"
+ },
+ {
+  "City": "San Diego",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92037",
+  "Sales": 25676.273,
+  "Profit": 3197.4121999999998,
+  "Orders": 34,
+  "LocationKey": "San Diego|California|92037"
+ },
+ {
+  "City": "San Diego",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92105",
+  "Sales": 14790.608,
+  "Profit": 1789.4905999999999,
+  "Orders": 33,
+  "LocationKey": "San Diego|California|92105"
+ },
+ {
+  "City": "San Francisco",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94109",
+  "Sales": 25010.31,
+  "Profit": 4397.4533,
+  "Orders": 80,
+  "LocationKey": "San Francisco|California|94109"
+ },
+ {
+  "City": "San Francisco",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94110",
+  "Sales": 34991.315,
+  "Profit": 5397.3363,
+  "Orders": 88,
+  "LocationKey": "San Francisco|California|94110"
+ },
+ {
+  "City": "San Francisco",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94122",
+  "Sales": 52667.467,
+  "Profit": 7712.5958,
+  "Orders": 97,
+  "LocationKey": "San Francisco|California|94122"
+ },
+ {
+  "City": "San Gabriel",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "91776",
+  "Sales": 2061.01,
+  "Profit": 290.8953,
+  "Orders": 1,
+  "LocationKey": "San Gabriel|California|91776"
+ },
+ {
+  "City": "San Jose",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95123",
+  "Sales": 6071.229,
+  "Profit": 1216.0579,
+  "Orders": 20,
+  "LocationKey": "San Jose|California|95123"
+ },
+ {
+  "City": "San Luis Obispo",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93405",
+  "Sales": 3.62,
+  "Profit": 1.1946,
+  "Orders": 1,
+  "LocationKey": "San Luis Obispo|California|93405"
+ },
+ {
+  "City": "San Marcos",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "78666",
+  "Sales": 108.44399999999999,
+  "Profit": -19.3413,
+  "Orders": 1,
+  "LocationKey": "San Marcos|Texas|78666"
+ },
+ {
+  "City": "San Mateo",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94403",
+  "Sales": 75.18,
+  "Profit": 35.3346,
+  "Orders": 1,
+  "LocationKey": "San Mateo|California|94403"
+ },
+ {
+  "City": "Sandy Springs",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "30328",
+  "Sales": 1997.03,
+  "Profit": 520.5891,
+  "Orders": 4,
+  "LocationKey": "Sandy Springs|Georgia|30328"
+ },
+ {
+  "City": "Sanford",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32771",
+  "Sales": 225.54600000000002,
+  "Profit": -11.827200000000001,
+  "Orders": 1,
+  "LocationKey": "Sanford|Florida|32771"
+ },
+ {
+  "City": "Santa Ana",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92704",
+  "Sales": 3366.31,
+  "Profit": 836.7465000000001,
+  "Orders": 8,
+  "LocationKey": "Santa Ana|California|92704"
+ },
+ {
+  "City": "Santa Barbara",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93101",
+  "Sales": 4289.2339999999995,
+  "Profit": 457.2858,
+  "Orders": 5,
+  "LocationKey": "Santa Barbara|California|93101"
+ },
+ {
+  "City": "Santa Clara",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95051",
+  "Sales": 222.192,
+  "Profit": 76.0016,
+  "Orders": 3,
+  "LocationKey": "Santa Clara|California|95051"
+ },
+ {
+  "City": "Santa Fe",
+  "State": "New Mexico",
+  "Region": "West",
+  "PostalCode": "87505",
+  "Sales": 100.92,
+  "Profit": 20.688000000000002,
+  "Orders": 2,
+  "LocationKey": "Santa Fe|New Mexico|87505"
+ },
+ {
+  "City": "Santa Maria",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93454",
+  "Sales": 115.44,
+  "Profit": 30.0144,
+  "Orders": 1,
+  "LocationKey": "Santa Maria|California|93454"
+ },
+ {
+  "City": "Scottsdale",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85254",
+  "Sales": 1466.307,
+  "Profit": -89.4879,
+  "Orders": 7,
+  "LocationKey": "Scottsdale|Arizona|85254"
+ },
+ {
+  "City": "Seattle",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98103",
+  "Sales": 36541.826,
+  "Profit": 7117.617,
+  "Orders": 74,
+  "LocationKey": "Seattle|Washington|98103"
+ },
+ {
+  "City": "Seattle",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98105",
+  "Sales": 41838.008,
+  "Profit": 8734.6042,
+  "Orders": 77,
+  "LocationKey": "Seattle|Washington|98105"
+ },
+ {
+  "City": "Seattle",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98115",
+  "Sales": 41160.908,
+  "Profit": 13303.8755,
+  "Orders": 61,
+  "LocationKey": "Seattle|Washington|98115"
+ },
+ {
+  "City": "Sheboygan",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "53081",
+  "Sales": 79.74000000000001,
+  "Profit": 34.3419,
+  "Orders": 1,
+  "LocationKey": "Sheboygan|Wisconsin|53081"
+ },
+ {
+  "City": "Shelton",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6484",
+  "Sales": 73.33,
+  "Profit": 21.4053,
+  "Orders": 1,
+  "LocationKey": "Shelton|Connecticut|6484"
+ },
+ {
+  "City": "Sierra Vista",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85635",
+  "Sales": 76.072,
+  "Profit": 16.8281,
+  "Orders": 2,
+  "LocationKey": "Sierra Vista|Arizona|85635"
+ },
+ {
+  "City": "Sioux Falls",
+  "State": "South Dakota",
+  "Region": "Central",
+  "PostalCode": "57103",
+  "Sales": 1137.42,
+  "Profit": 343.4299,
+  "Orders": 3,
+  "LocationKey": "Sioux Falls|South Dakota|57103"
+ },
+ {
+  "City": "Skokie",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60076",
+  "Sales": 568.832,
+  "Profit": -346.87,
+  "Orders": 5,
+  "LocationKey": "Skokie|Illinois|60076"
+ },
+ {
+  "City": "Smyrna",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "30080",
+  "Sales": 2390.31,
+  "Profit": 807.3319,
+  "Orders": 5,
+  "LocationKey": "Smyrna|Georgia|30080"
+ },
+ {
+  "City": "Smyrna",
+  "State": "Tennessee",
+  "Region": "South",
+  "PostalCode": "37167",
+  "Sales": 848.579,
+  "Profit": 19.371700000000004,
+  "Orders": 4,
+  "LocationKey": "Smyrna|Tennessee|37167"
+ },
+ {
+  "City": "South Bend",
+  "State": "Indiana",
+  "Region": "Central",
+  "PostalCode": "46614",
+  "Sales": 1238.33,
+  "Profit": 279.5512,
+  "Orders": 1,
+  "LocationKey": "South Bend|Indiana|46614"
+ },
+ {
+  "City": "Southaven",
+  "State": "Mississippi",
+  "Region": "South",
+  "PostalCode": "38671",
+  "Sales": 1455.39,
+  "Profit": 412.8902,
+  "Orders": 2,
+  "LocationKey": "Southaven|Mississippi|38671"
+ },
+ {
+  "City": "Sparks",
+  "State": "Nevada",
+  "Region": "West",
+  "PostalCode": "89431",
+  "Sales": 2561.96,
+  "Profit": 228.536,
+  "Orders": 3,
+  "LocationKey": "Sparks|Nevada|89431"
+ },
+ {
+  "City": "Spokane",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "99207",
+  "Sales": 2027.9180000000001,
+  "Profit": 172.2261,
+  "Orders": 5,
+  "LocationKey": "Spokane|Washington|99207"
+ },
+ {
+  "City": "Springdale",
+  "State": "Arkansas",
+  "Region": "South",
+  "PostalCode": "72762",
+  "Sales": 4.3,
+  "Profit": 1.419,
+  "Orders": 1,
+  "LocationKey": "Springdale|Arkansas|72762"
+ },
+ {
+  "City": "Springfield",
+  "State": "Missouri",
+  "Region": "Central",
+  "PostalCode": "65807",
+  "Sales": 15051.380000000001,
+  "Profit": 3905.5890999999997,
+  "Orders": 14,
+  "LocationKey": "Springfield|Missouri|65807"
+ },
+ {
+  "City": "Springfield",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "45503",
+  "Sales": 5613.167,
+  "Profit": -1420.1619999999998,
+  "Orders": 19,
+  "LocationKey": "Springfield|Ohio|45503"
+ },
+ {
+  "City": "Springfield",
+  "State": "Oregon",
+  "Region": "West",
+  "PostalCode": "97477",
+  "Sales": 5761.265,
+  "Profit": -853.3086000000001,
+  "Orders": 15,
+  "LocationKey": "Springfield|Oregon|97477"
+ },
+ {
+  "City": "Springfield",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "22153",
+  "Sales": 16628.53,
+  "Profit": 4568.5789,
+  "Orders": 25,
+  "LocationKey": "Springfield|Virginia|22153"
+ },
+ {
+  "City": "Sterling Heights",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48310",
+  "Sales": 110.03999999999999,
+  "Profit": 33.0676,
+  "Orders": 3,
+  "LocationKey": "Sterling Heights|Michigan|48310"
+ },
+ {
+  "City": "Stockton",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95207",
+  "Sales": 1227.6,
+  "Profit": 339.52639999999997,
+  "Orders": 5,
+  "LocationKey": "Stockton|California|95207"
+ },
+ {
+  "City": "Suffolk",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "23434",
+  "Sales": 1597.9,
+  "Profit": 389.8122,
+  "Orders": 4,
+  "LocationKey": "Suffolk|Virginia|23434"
+ },
+ {
+  "City": "Summerville",
+  "State": "South Carolina",
+  "Region": "South",
+  "PostalCode": "29483",
+  "Sales": 406.93999999999994,
+  "Profit": 196.91320000000002,
+  "Orders": 1,
+  "LocationKey": "Summerville|South Carolina|29483"
+ },
+ {
+  "City": "Sunnyvale",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94086",
+  "Sales": 636.21,
+  "Profit": 107.5073,
+  "Orders": 2,
+  "LocationKey": "Sunnyvale|California|94086"
+ },
+ {
+  "City": "Superior",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "54880",
+  "Sales": 1299.73,
+  "Profit": 514.0822000000001,
+  "Orders": 2,
+  "LocationKey": "Superior|Wisconsin|54880"
+ },
+ {
+  "City": "Tallahassee",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "32303",
+  "Sales": 7250.669,
+  "Profit": 392.71160000000003,
+  "Orders": 9,
+  "LocationKey": "Tallahassee|Florida|32303"
+ },
+ {
+  "City": "Tamarac",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33319",
+  "Sales": 1413.51,
+  "Profit": -351.89610000000005,
+  "Orders": 2,
+  "LocationKey": "Tamarac|Florida|33319"
+ },
+ {
+  "City": "Tampa",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33614",
+  "Sales": 5196.0805,
+  "Profit": -325.2366,
+  "Orders": 14,
+  "LocationKey": "Tampa|Florida|33614"
+ },
+ {
+  "City": "Taylor",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48180",
+  "Sales": 353.7,
+  "Profit": 44.8682,
+  "Orders": 3,
+  "LocationKey": "Taylor|Michigan|48180"
+ },
+ {
+  "City": "Temecula",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92592",
+  "Sales": 808.6659999999999,
+  "Profit": 101.8869,
+  "Orders": 1,
+  "LocationKey": "Temecula|California|92592"
+ },
+ {
+  "City": "Tempe",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85281",
+  "Sales": 1070.3020000000001,
+  "Profit": 95.4496,
+  "Orders": 6,
+  "LocationKey": "Tempe|Arizona|85281"
+ },
+ {
+  "City": "Texarkana",
+  "State": "Arkansas",
+  "Region": "South",
+  "PostalCode": "71854",
+  "Sales": 654.24,
+  "Profit": 163.3746,
+  "Orders": 2,
+  "LocationKey": "Texarkana|Arkansas|71854"
+ },
+ {
+  "City": "Texas City",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "77590",
+  "Sales": 790.972,
+  "Profit": 20.221799999999995,
+  "Orders": 2,
+  "LocationKey": "Texas City|Texas|77590"
+ },
+ {
+  "City": "The Colony",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75056",
+  "Sales": 142.16000000000003,
+  "Profit": 31.6586,
+  "Orders": 2,
+  "LocationKey": "The Colony|Texas|75056"
+ },
+ {
+  "City": "Thomasville",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27360",
+  "Sales": 151.292,
+  "Profit": 33.3939,
+  "Orders": 2,
+  "LocationKey": "Thomasville|North Carolina|27360"
+ },
+ {
+  "City": "Thornton",
+  "State": "Colorado",
+  "Region": "West",
+  "PostalCode": "80229",
+  "Sales": 765.248,
+  "Profit": 140.8398,
+  "Orders": 3,
+  "LocationKey": "Thornton|Colorado|80229"
+ },
+ {
+  "City": "Thousand Oaks",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "91360",
+  "Sales": 238.804,
+  "Profit": 99.914,
+  "Orders": 4,
+  "LocationKey": "Thousand Oaks|California|91360"
+ },
+ {
+  "City": "Tigard",
+  "State": "Oregon",
+  "Region": "West",
+  "PostalCode": "97224",
+  "Sales": 1393.7820000000002,
+  "Profit": -216.2861,
+  "Orders": 3,
+  "LocationKey": "Tigard|Oregon|97224"
+ },
+ {
+  "City": "Tinley Park",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60477",
+  "Sales": 22.288,
+  "Profit": -8.9152,
+  "Orders": 1,
+  "LocationKey": "Tinley Park|Illinois|60477"
+ },
+ {
+  "City": "Toledo",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "43615",
+  "Sales": 4466.053,
+  "Profit": -339.99679999999995,
+  "Orders": 15,
+  "LocationKey": "Toledo|Ohio|43615"
+ },
+ {
+  "City": "Torrance",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90503",
+  "Sales": 3132.268,
+  "Profit": 545.1510000000001,
+  "Orders": 2,
+  "LocationKey": "Torrance|California|90503"
+ },
+ {
+  "City": "Trenton",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48183",
+  "Sales": 1765.1950000000002,
+  "Profit": 652.0998,
+  "Orders": 4,
+  "LocationKey": "Trenton|Michigan|48183"
+ },
+ {
+  "City": "Troy",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "12180",
+  "Sales": 1326.556,
+  "Profit": 330.4355,
+  "Orders": 6,
+  "LocationKey": "Troy|New York|12180"
+ },
+ {
+  "City": "Troy",
+  "State": "Ohio",
+  "Region": "East",
+  "PostalCode": "45373",
+  "Sales": 3180.535,
+  "Profit": -874.5873,
+  "Orders": 8,
+  "LocationKey": "Troy|Ohio|45373"
+ },
+ {
+  "City": "Tucson",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85705",
+  "Sales": 6313.016,
+  "Profit": -64.96680000000002,
+  "Orders": 13,
+  "LocationKey": "Tucson|Arizona|85705"
+ },
+ {
+  "City": "Tulsa",
+  "State": "Oklahoma",
+  "Region": "Central",
+  "PostalCode": "74133",
+  "Sales": 5556.97,
+  "Profit": 1506.935,
+  "Orders": 13,
+  "LocationKey": "Tulsa|Oklahoma|74133"
+ },
+ {
+  "City": "Tuscaloosa",
+  "State": "Alabama",
+  "Region": "South",
+  "PostalCode": "35401",
+  "Sales": 175.70000000000002,
+  "Profit": 51.010400000000004,
+  "Orders": 2,
+  "LocationKey": "Tuscaloosa|Alabama|35401"
+ },
+ {
+  "City": "Twin Falls",
+  "State": "Idaho",
+  "Region": "West",
+  "PostalCode": "83301",
+  "Sales": 1148.806,
+  "Profit": 266.1649,
+  "Orders": 1,
+  "LocationKey": "Twin Falls|Idaho|83301"
+ },
+ {
+  "City": "Tyler",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "75701",
+  "Sales": 347.206,
+  "Profit": -443.7086,
+  "Orders": 2,
+  "LocationKey": "Tyler|Texas|75701"
+ },
+ {
+  "City": "Urbandale",
+  "State": "Iowa",
+  "Region": "Central",
+  "PostalCode": "50322",
+  "Sales": 149.12,
+  "Profit": 57.718,
+  "Orders": 2,
+  "LocationKey": "Urbandale|Iowa|50322"
+ },
+ {
+  "City": "Utica",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "13501",
+  "Sales": 655.04,
+  "Profit": 188.55960000000002,
+  "Orders": 4,
+  "LocationKey": "Utica|New York|13501"
+ },
+ {
+  "City": "Vacaville",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95687",
+  "Sales": 423.28,
+  "Profit": 110.0528,
+  "Orders": 1,
+  "LocationKey": "Vacaville|California|95687"
+ },
+ {
+  "City": "Vallejo",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "94591",
+  "Sales": 1221.41,
+  "Profit": 336.03549999999996,
+  "Orders": 3,
+  "LocationKey": "Vallejo|California|94591"
+ },
+ {
+  "City": "Vancouver",
+  "State": "Washington",
+  "Region": "West",
+  "PostalCode": "98661",
+  "Sales": 686.836,
+  "Profit": 75.4546,
+  "Orders": 3,
+  "LocationKey": "Vancouver|Washington|98661"
+ },
+ {
+  "City": "Vineland",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "8360",
+  "Sales": 647.966,
+  "Profit": 62.2518,
+  "Orders": 4,
+  "LocationKey": "Vineland|New Jersey|8360"
+ },
+ {
+  "City": "Virginia Beach",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "23464",
+  "Sales": 5752.13,
+  "Profit": 2024.8837,
+  "Orders": 11,
+  "LocationKey": "Virginia Beach|Virginia|23464"
+ },
+ {
+  "City": "Visalia",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "93277",
+  "Sales": 318.78000000000003,
+  "Profit": 88.0478,
+  "Orders": 2,
+  "LocationKey": "Visalia|California|93277"
+ },
+ {
+  "City": "Waco",
+  "State": "Texas",
+  "Region": "Central",
+  "PostalCode": "76706",
+  "Sales": 606.1072,
+  "Profit": -520.1034,
+  "Orders": 4,
+  "LocationKey": "Waco|Texas|76706"
+ },
+ {
+  "City": "Warner Robins",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "31088",
+  "Sales": 434.8,
+  "Profit": 53.6884,
+  "Orders": 2,
+  "LocationKey": "Warner Robins|Georgia|31088"
+ },
+ {
+  "City": "Warwick",
+  "State": "Rhode Island",
+  "Region": "East",
+  "PostalCode": "2886",
+  "Sales": 2426.84,
+  "Profit": 1063.7956,
+  "Orders": 4,
+  "LocationKey": "Warwick|Rhode Island|2886"
+ },
+ {
+  "City": "Washington",
+  "State": "District of Columbia",
+  "Region": "East",
+  "PostalCode": "20016",
+  "Sales": 2865.02,
+  "Profit": 1059.5892999999999,
+  "Orders": 4,
+  "LocationKey": "Washington|District of Columbia|20016"
+ },
+ {
+  "City": "Waterbury",
+  "State": "Connecticut",
+  "Region": "East",
+  "PostalCode": "6708",
+  "Sales": 1326.06,
+  "Profit": 338.9355,
+  "Orders": 5,
+  "LocationKey": "Waterbury|Connecticut|6708"
+ },
+ {
+  "City": "Waterloo",
+  "State": "Iowa",
+  "Region": "Central",
+  "PostalCode": "50701",
+  "Sales": 30.32,
+  "Profit": 11.8248,
+  "Orders": 1,
+  "LocationKey": "Waterloo|Iowa|50701"
+ },
+ {
+  "City": "Watertown",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "13601",
+  "Sales": 4044.998,
+  "Profit": 907.0072,
+  "Orders": 7,
+  "LocationKey": "Watertown|New York|13601"
+ },
+ {
+  "City": "Waukesha",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "53186",
+  "Sales": 54.5,
+  "Profit": 14.17,
+  "Orders": 1,
+  "LocationKey": "Waukesha|Wisconsin|53186"
+ },
+ {
+  "City": "Wausau",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "54401",
+  "Sales": 317.48,
+  "Profit": 90.4306,
+  "Orders": 1,
+  "LocationKey": "Wausau|Wisconsin|54401"
+ },
+ {
+  "City": "Waynesboro",
+  "State": "Virginia",
+  "Region": "South",
+  "PostalCode": "22980",
+  "Sales": 3058.77,
+  "Profit": 603.3858,
+  "Orders": 3,
+  "LocationKey": "Waynesboro|Virginia|22980"
+ },
+ {
+  "City": "West Allis",
+  "State": "Wisconsin",
+  "Region": "Central",
+  "PostalCode": "53214",
+  "Sales": 250.48000000000002,
+  "Profit": 28.370800000000003,
+  "Orders": 1,
+  "LocationKey": "West Allis|Wisconsin|53214"
+ },
+ {
+  "City": "West Jordan",
+  "State": "Utah",
+  "Region": "West",
+  "PostalCode": "84084",
+  "Sales": 311.85,
+  "Profit": 102.6723,
+  "Orders": 2,
+  "LocationKey": "West Jordan|Utah|84084"
+ },
+ {
+  "City": "West Palm Beach",
+  "State": "Florida",
+  "Region": "South",
+  "PostalCode": "33407",
+  "Sales": 141.328,
+  "Profit": 31.6092,
+  "Orders": 3,
+  "LocationKey": "West Palm Beach|Florida|33407"
+ },
+ {
+  "City": "Westfield",
+  "State": "New Jersey",
+  "Region": "East",
+  "PostalCode": "7090",
+  "Sales": 519.72,
+  "Profit": 153.17579999999998,
+  "Orders": 4,
+  "LocationKey": "Westfield|New Jersey|7090"
+ },
+ {
+  "City": "Westland",
+  "State": "Michigan",
+  "Region": "Central",
+  "PostalCode": "48185",
+  "Sales": 2057.976,
+  "Profit": 389.5995,
+  "Orders": 3,
+  "LocationKey": "Westland|Michigan|48185"
+ },
+ {
+  "City": "Westminster",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92683",
+  "Sales": 3826.6459999999997,
+  "Profit": 763.6886000000001,
+  "Orders": 4,
+  "LocationKey": "Westminster|California|92683"
+ },
+ {
+  "City": "Wheeling",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60090",
+  "Sales": 737.142,
+  "Profit": -293.31780000000003,
+  "Orders": 2,
+  "LocationKey": "Wheeling|Illinois|60090"
+ },
+ {
+  "City": "Wheeling",
+  "State": "West Virginia",
+  "Region": "East",
+  "PostalCode": "26003",
+  "Sales": 1209.824,
+  "Profit": 185.9216,
+  "Orders": 2,
+  "LocationKey": "Wheeling|West Virginia|26003"
+ },
+ {
+  "City": "Whittier",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "90604",
+  "Sales": 444.768,
+  "Profit": 44.4768,
+  "Orders": 1,
+  "LocationKey": "Whittier|California|90604"
+ },
+ {
+  "City": "Wichita",
+  "State": "Kansas",
+  "Region": "Central",
+  "PostalCode": "67212",
+  "Sales": 825.27,
+  "Profit": 323.9266,
+  "Orders": 5,
+  "LocationKey": "Wichita|Kansas|67212"
+ },
+ {
+  "City": "Wilmington",
+  "State": "Delaware",
+  "Region": "East",
+  "PostalCode": "19805",
+  "Sales": 6553.899,
+  "Profit": 1775.0723,
+  "Orders": 9,
+  "LocationKey": "Wilmington|Delaware|19805"
+ },
+ {
+  "City": "Wilmington",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "28403",
+  "Sales": 743.1619999999999,
+  "Profit": 172.62959999999998,
+  "Orders": 9,
+  "LocationKey": "Wilmington|North Carolina|28403"
+ },
+ {
+  "City": "Wilson",
+  "State": "North Carolina",
+  "Region": "South",
+  "PostalCode": "27893",
+  "Sales": 368.73199999999997,
+  "Profit": -14.336000000000002,
+  "Orders": 3,
+  "LocationKey": "Wilson|North Carolina|27893"
+ },
+ {
+  "City": "Woodbury",
+  "State": "Minnesota",
+  "Region": "Central",
+  "PostalCode": "55125",
+  "Sales": 607.65,
+  "Profit": 196.09619999999998,
+  "Orders": 2,
+  "LocationKey": "Woodbury|Minnesota|55125"
+ },
+ {
+  "City": "Woodland",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "95695",
+  "Sales": 264.66200000000003,
+  "Profit": 33.3848,
+  "Orders": 2,
+  "LocationKey": "Woodland|California|95695"
+ },
+ {
+  "City": "Woodstock",
+  "State": "Georgia",
+  "Region": "South",
+  "PostalCode": "30188",
+  "Sales": 286.65000000000003,
+  "Profit": 104.8788,
+  "Orders": 1,
+  "LocationKey": "Woodstock|Georgia|30188"
+ },
+ {
+  "City": "Woodstock",
+  "State": "Illinois",
+  "Region": "Central",
+  "PostalCode": "60098",
+  "Sales": 857.2500000000001,
+  "Profit": -24.8859,
+  "Orders": 3,
+  "LocationKey": "Woodstock|Illinois|60098"
+ },
+ {
+  "City": "Woonsocket",
+  "State": "Rhode Island",
+  "Region": "East",
+  "PostalCode": "2895",
+  "Sales": 195.55,
+  "Profit": 78.6791,
+  "Orders": 3,
+  "LocationKey": "Woonsocket|Rhode Island|2895"
+ },
+ {
+  "City": "Yonkers",
+  "State": "New York",
+  "Region": "East",
+  "PostalCode": "10701",
+  "Sales": 7657.666,
+  "Profit": 2767.7557,
+  "Orders": 6,
+  "LocationKey": "Yonkers|New York|10701"
+ },
+ {
+  "City": "York",
+  "State": "Pennsylvania",
+  "Region": "East",
+  "PostalCode": "17403",
+  "Sales": 817.978,
+  "Profit": -102.16919999999999,
+  "Orders": 2,
+  "LocationKey": "York|Pennsylvania|17403"
+ },
+ {
+  "City": "Yucaipa",
+  "State": "California",
+  "Region": "West",
+  "PostalCode": "92399",
+  "Sales": 50.8,
+  "Profit": 13.208,
+  "Orders": 1,
+  "LocationKey": "Yucaipa|California|92399"
+ },
+ {
+  "City": "Yuma",
+  "State": "Arizona",
+  "Region": "West",
+  "PostalCode": "85364",
+  "Sales": 840.865,
+  "Profit": -465.9909,
+  "Orders": 4,
+  "LocationKey": "Yuma|Arizona|85364"
+ }
+]

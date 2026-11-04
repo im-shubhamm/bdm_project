@@ -1,12 +1,11 @@
 {
-  "name": "pl-transfer-server",
+  "name": "superstore-bdm-server",
   "version": "1.0.0",
-  "description": "Express + MongoDB API for Premier League Transfer Value Intelligence",
   "type": "module",
   "scripts": {
     "dev": "node --watch src/index.js",
-    "seed": "node scripts/seed.js",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "seed": "node scripts/seed.js"
   },
   "dependencies": {
     "cors": "^2.8.5",

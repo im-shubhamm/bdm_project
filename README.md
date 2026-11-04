@@ -1,62 +1,53 @@
-# Premier League Transfer Valuation & Player Performance Intelligence
+# Superstore Sales & Profitability Intelligence (BDM)
 
-BDM project. It answers one question for a Premier League club: **which transfer fees earned their price?** Every window buy from 2016/17 to 2025/26 is scored on goals, assists, minutes and defensive actions per £ million. Scores roll up to clubs, roles, nationalities, fee brackets and seasons.
-
-Built in the same pattern as a typical BDM sports-analytics submission: clean processed tables, Value Index methodology, interactive MERN dashboard, and written deliverables.
-
-| Part | Status | Folder |
-| --- | --- | --- |
-| **Processed data + dictionary** | ✅ | [`data/`](data/) |
-| **MERN web app** (Express + Mongo + React/Vite) | ✅ | [`web/`](web/) |
-| **Docs** (PRD, handoff, deployment) | ✅ | [`docs/`](docs/), root markdown |
-| **Power BI placeholder** | Notes only (web is the live demo) | [`powerbi/`](powerbi/) |
+Business Data Management project. We take a **real retail dataset from the internet**, load it into **MongoDB**, model it for **Power BI**, and present where Superstore makes (and loses) money — especially in **Furniture / housewares** vs Technology.
 
 ## Team
-
-| Name | Roll no. |
+| Name | Roll |
 | --- | --- |
 | Shubham | 2023IMG048 |
 | Arkadip Siddha | 2023IMG009 |
 | Advitya Ranjan | 2023IMG004 |
 | Chayan Das | 2023IMG017 |
 
-## Repo layout
+## Dataset (internet)
+- **Sample Superstore** public CSV (Tableau/Power BI classic sample)
+- URL: https://raw.githubusercontent.com/ThigasSantos/BaseSuperStore/main/sales.csv
+- Local copy: `data/raw/Sample_Superstore.csv`
+- ~9,994 lines · 2016–2019 · Furniture, Office Supplies, Technology
 
-```
-.
-├── README.md
-├── HANDOFF.md
-├── DEPLOYMENT.md
-├── data/
-│   ├── raw/                transfer CSV extract + club map
-│   ├── processed/          star-schema tables (CSV + JSON) for the web app
-│   └── README.md           data dictionary
-├── scripts/generate_pl_data.py
-├── docs/                   PRD and brief
-└── web/                    MERN app: client/ (React + Vite), server/ (Express + Mongoose)
-```
+## What’s in the repo
+| Piece | Path |
+| --- | --- |
+| Raw + processed data | `data/` |
+| ETL script | `scripts/etl/build_superstore.py` |
+| MongoDB API | `web/server/` |
+| Web dashboard (demo) | `web/client/` |
+| Power BI CSVs + DAX + page guide | `powerbi/` |
+| Report & demo script | `docs/` |
 
 ## Quick start
-
 ```bash
-# regenerate processed tables (optional)
-python3 scripts/generate_pl_data.py
+# optional: refresh processed tables
+python3 scripts/etl/build_superstore.py
 
-# API (auto in-memory Mongo + seed if MONGODB_URI unset)
-cd web/server && npm install && npm run dev
+# API (auto in-memory MongoDB + seed)
+cd web/server && npm install && npm run dev    # :43151
 
-# UI (new terminal) — http://127.0.0.1:43140
-cd web/client && npm install && npm run dev
+# UI
+cd web/client && npm install && npm run dev    # :43150
 ```
 
-Open **[PL Transfer Value](http://127.0.0.1:43140)**. The Vite dev server proxies `/api` to the Express API on port **43141**.
+Open **http://127.0.0.1:43150**
 
-## Headline framing (demo dataset)
+### Power BI
+On a Windows laptop with Power BI Desktop, import CSVs from `powerbi/data/` and follow `powerbi/README.md`.
 
-- Bargain window buys return several× fair value per £m; £80m+ arrivals often land below 1.0× in year one.
-- Spending more does not guarantee a higher win %; spending efficiently (Value Index) correlates better with results.
-- 2023 window: **Cole Palmer** (£42.5m) posts a strong Value Index; **Moises Caicedo** and **Enzo Fernandez** rank among the largest £m overpays on arrival-season output.
+## Headline findings
+- Sales ≈ **$2.30M**, profit ≈ **$286k**, margin ≈ **12.5%**
+- **Tables** and **Bookcases** destroy Furniture profit
+- **High discounts** drive loss-making lines
+- **Copiers / Phones / Accessories** carry profitability
 
-## Data note
-
-`PriceCr` in the schema means **transfer fee in £ millions** (legacy column name kept so the Value Index pipelines match the reference BDM pattern). Football stats are stored in the shared columns documented in [`data/README.md`](data/README.md).
+## Note on GitHub remote
+Push target can be updated when you share your repository URL (`git remote set-url origin <your-repo>`).

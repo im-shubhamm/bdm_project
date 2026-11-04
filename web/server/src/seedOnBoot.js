@@ -1,49 +1,39 @@
-/**
- * seedOnBoot.js — Load data/processed JSON when the DB has no seasons yet.
- * Keeps local demo one-command: npm run dev (no separate seed step required).
- */
 import { readFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-
-import Player from './models/Player.js';
-import Team from './models/Team.js';
-import Season from './models/Season.js';
-import TeamSeason from './models/TeamSeason.js';
-import PlayerSeason from './models/PlayerSeason.js';
-import AuctionBuy from './models/AuctionBuy.js';
-import TeamMatch from './models/TeamMatch.js';
-import UnsoldPlayer from './models/UnsoldPlayer.js';
+import mongoose from 'mongoose';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = join(__dirname, '..', '..', '..', 'data', 'processed');
+const DATA = join(__dirname, '..', '..', '..', 'data', 'processed');
 
-const COLLECTIONS = [
-  { model: Player, file: 'players.json' },
-  { model: Team, file: 'teams.json' },
-  { model: Season, file: 'seasons.json' },
-  { model: TeamSeason, file: 'team_seasons.json' },
-  { model: PlayerSeason, file: 'player_seasons.json' },
-  { model: AuctionBuy, file: 'auction_buys.json' },
-  { model: TeamMatch, file: 'team_matches.json' },
-  { model: UnsoldPlayer, file: 'unsold_players.json' },
+const FILES = [
+  'summary', 'fact_sales', 'dim_customers', 'dim_products', 'dim_locations',
+  'dim_calendar', 'agg_by_year', 'agg_by_category', 'agg_by_subcategory',
+  'agg_by_region', 'agg_by_segment', 'agg_by_discount', 'agg_monthly',
 ];
 
 export async function seedIfEmpty() {
-  const count = await Season.countDocuments();
-  if (count > 0) {
-    console.log(`   📦 DB already seeded (${count} seasons)`);
-    return;
+  const db = mongoose.connection.db;
+  const existing = await db.listCollections({ name: 'summary' }).toArray();
+  if (existing.length) {
+    const n = await db.collection('summary').countDocuments();
+    if (n > 0) {
+      console.log('DB already seeded');
+      return;
+    }
   }
-  console.log('   🌱 Seeding from data/processed …');
-  for (const { model, file } of COLLECTIONS) {
-    const path = join(DATA_DIR, file);
+  console.log('Seeding Superstore collections…');
+  for (const name of FILES) {
+    const path = join(DATA, `${name}.json`);
     if (!existsSync(path)) throw new Error(`Missing ${path}`);
-    const data = JSON.parse(readFileSync(path, 'utf-8'));
-    await model.collection.drop().catch(() => {});
-    await model.insertMany(data, { ordered: false });
-    console.log(`      ✅ ${model.collection.name}: ${data.length}`);
+    const rows = JSON.parse(readFileSync(path, 'utf8'));
+    await db.collection(name).deleteMany({});
+    if (rows.length) await db.collection(name).insertMany(rows, { ordered: false });
+    console.log(`  ${name}: ${rows.length}`);
   }
-  await Promise.all(COLLECTIONS.map(({ model }) => model.createIndexes()));
-  console.log('   🌱 Seed complete');
+  await db.collection('fact_sales').createIndex({ Category: 1 });
+  await db.collection('fact_sales').createIndex({ Region: 1 });
+  await db.collection('fact_sales').createIndex({ OrderYear: 1 });
+  await db.collection('fact_sales').createIndex({ CustomerID: 1 });
+  console.log('Seed complete');
 }

@@ -1,0 +1,633 @@
+City,State,Region,PostalCode,Sales,Profit,Orders,LocationKey
+Aberdeen,South Dakota,Central,57401,25.5,6.63,1,Aberdeen|South Dakota|57401
+Abilene,Texas,Central,79605,1.392,-3.7584,1,Abilene|Texas|79605
+Akron,Ohio,East,44312,2729.986,-186.6356,10,Akron|Ohio|44312
+Albuquerque,New Mexico,West,87105,2220.16,634.0880999999999,7,Albuquerque|New Mexico|87105
+Alexandria,Virginia,South,22304,5519.57,318.61830000000003,6,Alexandria|Virginia|22304
+Allen,Texas,Central,75002,290.206,-39.8775,2,Allen|Texas|75002
+Allentown,Pennsylvania,East,18103,853.252,-226.4504,2,Allentown|Pennsylvania|18103
+Altoona,Pennsylvania,East,16602,20.451,-1.1835,1,Altoona|Pennsylvania|16602
+Amarillo,Texas,Central,79109,3773.0628,-387.9683,7,Amarillo|Texas|79109
+Anaheim,California,West,92804,7986.87,1234.0036,9,Anaheim|California|92804
+Andover,Massachusetts,East,1810,435.84999999999997,124.1886,1,Andover|Massachusetts|1810
+Ann Arbor,Michigan,Central,48104,889.273,228.9158,2,Ann Arbor|Michigan|48104
+Antioch,California,West,94509,19.44,9.3312,1,Antioch|California|94509
+Apopka,Florida,South,32712,904.554,54.3634,3,Apopka|Florida|32712
+Apple Valley,California,West,92307,1915.0810000000001,283.6184,3,Apple Valley|California|92307
+Apple Valley,Minnesota,Central,55124,137.94,8.9706,2,Apple Valley|Minnesota|55124
+Appleton,Wisconsin,Central,54915,1671.31,554.7663,2,Appleton|Wisconsin|54915
+Arlington,Texas,Central,76017,5847.772,-254.38859999999997,10,Arlington|Texas|76017
+Arlington,Virginia,South,22204,14366.76,4424.0855,21,Arlington|Virginia|22204
+Arlington Heights,Illinois,Central,60004,14.112,1.2348,1,Arlington Heights|Illinois|60004
+Arvada,Colorado,West,80004,503.4,59.8556,1,Arvada|Colorado|80004
+Asheville,North Carolina,South,28806,1475.376,77.5074,6,Asheville|North Carolina|28806
+Athens,Georgia,South,30605,1720.81,479.3221,5,Athens|Georgia|30605
+Atlanta,Georgia,South,30318,17197.84,6993.6629,17,Atlanta|Georgia|30318
+Atlantic City,New Jersey,East,8401,23.36,11.68,1,Atlantic City|New Jersey|8401
+Auburn,Alabama,South,36830,1766.83,452.6071,3,Auburn|Alabama|36830
+Auburn,New York,East,13021,1384.158,280.8048,6,Auburn|New York|13021
+Auburn,Washington,West,98002,4.18,1.5048,1,Auburn|Washington|98002
+Aurora,Colorado,West,80013,4083.5099999999998,-797.019,15,Aurora|Colorado|80013
+Aurora,Illinois,Central,60505,7572.968,-1894.7196000000001,20,Aurora|Illinois|60505
+Austin,Texas,Central,78745,6057.982,-20.393799999999967,18,Austin|Texas|78745
+Avondale,Arizona,West,85323,946.808,76.169,3,Avondale|Arizona|85323
+Bakersfield,California,West,93309,1377.29,187.9247,8,Bakersfield|California|93309
+Baltimore,Maryland,East,21215,6156.842000000001,1676.198,21,Baltimore|Maryland|21215
+Bangor,Maine,East,4401,1164.45,422.2204,2,Bangor|Maine|4401
+Bartlett,Tennessee,South,38134,88.96,10.008,1,Bartlett|Tennessee|38134
+Bayonne,New Jersey,East,7002,183.4,79.403,1,Bayonne|New Jersey|7002
+Baytown,Texas,Central,77520,10.368,3.6288,1,Baytown|Texas|77520
+Beaumont,Texas,Central,77705,472.11600000000004,59.11639999999999,3,Beaumont|Texas|77705
+Bedford,Texas,Central,76021,226.25600000000003,10.6202,2,Bedford|Texas|76021
+Belleville,New Jersey,East,7109,1891.6000000000001,283.6492,4,Belleville|New Jersey|7109
+Bellevue,Washington,West,98006,103.622,37.0548,5,Bellevue|Washington|98006
+Bellingham,Washington,West,98226,3790.24,610.5908,2,Bellingham|Washington|98226
+Bethlehem,Pennsylvania,East,18018,1689.6339999999998,-1003.0958,2,Bethlehem|Pennsylvania|18018
+Beverly,Massachusetts,East,1915,2583.19,654.9194,1,Beverly|Massachusetts|1915
+Billings,Montana,West,59102,8.288,2.6936,1,Billings|Montana|59102
+Bloomington,Illinois,Central,61701,963.94,-432.1283,6,Bloomington|Illinois|61701
+Bloomington,Indiana,Central,47401,603.8,182.7733,4,Bloomington|Indiana|47401
+Boca Raton,Florida,South,33433,63.007999999999996,-22.645599999999998,2,Boca Raton|Florida|33433
+Boise,Idaho,West,83704,1094.47,221.9373,3,Boise|Idaho|83704
+Bolingbrook,Illinois,Central,60440,218.308,-4.660999999999998,3,Bolingbrook|Illinois|60440
+Bossier City,Louisiana,South,71111,1417.18,336.9608,2,Bossier City|Louisiana|71111
+Bowling Green,Kentucky,South,42104,211.81,67.1168,2,Bowling Green|Kentucky|42104
+Bowling Green,Ohio,East,43402,1865.565,149.94490000000002,4,Bowling Green|Ohio|43402
+Boynton Beach,Florida,South,33437,469.585,50.661500000000004,4,Boynton Beach|Florida|33437
+Bozeman,Montana,West,59715,43.66,20.8106,1,Bozeman|Montana|59715
+Brentwood,California,West,94513,5090.114,1216.8104,6,Brentwood|California|94513
+Bridgeton,New Jersey,East,8302,52.410000000000004,3.4415999999999998,1,Bridgeton|New Jersey|8302
+Bristol,Connecticut,East,6010,814.58,208.1567,3,Bristol|Connecticut|6010
+Bristol,Tennessee,South,37620,436.60200000000003,-126.5204,4,Bristol|Tennessee|37620
+Broken Arrow,Oklahoma,Central,74012,2439.53,575.5226,3,Broken Arrow|Oklahoma|74012
+Broomfield,Colorado,West,80020,793.504,62.445,2,Broomfield|Colorado|80020
+Brownsville,Texas,Central,78521,1292.2268000000001,202.072,4,Brownsville|Texas|78521
+Bryan,Texas,Central,77803,616.656,-213.7116,2,Bryan|Texas|77803
+Buffalo,New York,East,14215,9063.496,992.8791000000001,7,Buffalo|New York|14215
+Buffalo Grove,Illinois,Central,60089,831.399,-89.6478,2,Buffalo Grove|Illinois|60089
+Bullhead City,Arizona,West,86442,22.288,6.7232,1,Bullhead City|Arizona|86442
+Burbank,California,West,91505,3247.1580000000004,764.5337999999999,1,Burbank|California|91505
+Burlington,Iowa,Central,52601,57.43,26.671400000000002,2,Burlington|Iowa|52601
+Burlington,North Carolina,South,27217,12681.282,-5894.5269,7,Burlington|North Carolina|27217
+Burlington,Vermont,East,0,8929.369999999999,2244.9782999999998,6,Burlington|Vermont|0
+Caldwell,Idaho,West,83605,455.63199999999995,58.6966,1,Caldwell|Idaho|83605
+Camarillo,California,West,93010,1467.5175,158.79559999999998,2,Camarillo|California|93010
+Cambridge,Massachusetts,East,2138,502.09000000000003,173.7276,3,Cambridge|Massachusetts|2138
+Canton,Michigan,Central,48187,818.13,149.2776,2,Canton|Michigan|48187
+Carlsbad,New Mexico,West,88220,419.34,157.7661,5,Carlsbad|New Mexico|88220
+Carol Stream,Illinois,Central,60188,1305.81,-39.8683,1,Carol Stream|Illinois|60188
+Carrollton,Texas,Central,75007,2200.6459999999997,-470.21389999999997,8,Carrollton|Texas|75007
+Cary,North Carolina,South,27511,505.20799999999997,54.0386,3,Cary|North Carolina|27511
+Cedar Hill,Texas,Central,75104,122.376,42.8316,2,Cedar Hill|Texas|75104
+Cedar Rapids,Iowa,Central,52402,278.4,80.736,1,Cedar Rapids|Iowa|52402
+Champaign,Illinois,Central,61821,151.96,-182.352,1,Champaign|Illinois|61821
+Chandler,Arizona,West,85224,1076.747,81.46049999999998,6,Chandler|Arizona|85224
+Chapel Hill,North Carolina,South,27514,14.016,4.7304,1,Chapel Hill|North Carolina|27514
+Charlotte,North Carolina,South,28205,13693.339,-429.7824,24,Charlotte|North Carolina|28205
+Charlottesville,Virginia,South,22901,102.60999999999999,22.6278,2,Charlottesville|Virginia|22901
+Chattanooga,Tennessee,South,37421,988.803,27.191799999999994,6,Chattanooga|Tennessee|37421
+Chesapeake,Virginia,South,23320,5996.72,1262.787,10,Chesapeake|Virginia|23320
+Chester,Pennsylvania,East,19013,1968.4789999999998,48.357800000000005,4,Chester|Pennsylvania|19013
+Cheyenne,Wyoming,West,82001,1603.136,100.196,1,Cheyenne|Wyoming|82001
+Chicago,Illinois,Central,60610,13627.124,-1106.3366999999998,56,Chicago|Illinois|60610
+Chicago,Illinois,Central,60623,18899.911,130.56609999999992,62,Chicago|Illinois|60623
+Chicago,Illinois,Central,60653,16012.506,-5678.7982,53,Chicago|Illinois|60653
+Chico,California,West,95928,2050.178,205.12539999999998,3,Chico|California|95928
+Chula Vista,California,West,91911,1041.62,248.43460000000002,3,Chula Vista|California|91911
+Cincinnati,Ohio,East,45231,1611.976,175.3371,12,Cincinnati|Ohio|45231
+Citrus Heights,California,West,95610,129.39,54.3438,1,Citrus Heights|California|95610
+Clarksville,Tennessee,South,37042,2217.73,-1055.3532000000002,3,Clarksville|Tennessee|37042
+Cleveland,Ohio,East,44105,6346.185,-848.0079000000001,21,Cleveland|Ohio|44105
+Clifton,New Jersey,East,7011,336.82,98.58840000000001,1,Clifton|New Jersey|7011
+Clinton,Maryland,East,20735,5514.251,1274.2421,10,Clinton|Maryland|20735
+Clovis,New Mexico,West,88101,111.42,11.635200000000001,1,Clovis|New Mexico|88101
+Coachella,California,West,92236,163.55,47.1736,1,Coachella|California|92236
+College Station,Texas,Central,77840,291.042,-117.6224,2,College Station|Texas|77840
+Colorado Springs,Colorado,West,80906,3694.009,-956.6841000000001,9,Colorado Springs|Colorado|80906
+Columbia,Maryland,East,21044,10962.35,3775.2237,9,Columbia|Maryland|21044
+Columbia,Missouri,Central,65203,2990.04,1106.7719,3,Columbia|Missouri|65203
+Columbia,South Carolina,South,29203,6168.16,1388.3777,11,Columbia|South Carolina|29203
+Columbia,Tennessee,South,38401,5162.774,-664.2565999999999,10,Columbia|Tennessee|38401
+Columbus,Georgia,South,31907,14845.05,4104.1219,40,Columbus|Georgia|31907
+Columbus,Indiana,Central,47201,7960.4,2522.4846000000002,16,Columbus|Indiana|47201
+Columbus,Ohio,East,43229,15900.793,-729.5052,55,Columbus|Ohio|43229
+Commerce City,Colorado,West,80022,146.352,-32.9292,1,Commerce City|Colorado|80022
+Concord,California,West,94521,2602.928,282.4208,6,Concord|California|94521
+Concord,New Hampshire,East,3301,2827.63,787.6271,10,Concord|New Hampshire|3301
+Concord,North Carolina,South,28027,5111.844,-1788.6868,5,Concord|North Carolina|28027
+Conroe,Texas,Central,77301,111.672,6.9795,1,Conroe|Texas|77301
+Conway,Arkansas,South,72032,301.96,45.294,1,Conway|Arkansas|72032
+Coon Rapids,Minnesota,Central,55433,503.13,136.4532,1,Coon Rapids|Minnesota|55433
+Coppell,Texas,Central,75019,135.936,41.4892,2,Coppell|Texas|75019
+Coral Gables,Florida,South,33134,64.248,22.357799999999997,1,Coral Gables|Florida|33134
+Coral Springs,Florida,South,33065,824.992,18.556800000000003,4,Coral Springs|Florida|33065
+Corpus Christi,Texas,Central,78415,220.54399999999998,-43.7304,3,Corpus Christi|Texas|78415
+Costa Mesa,California,West,92627,1497.67,297.20889999999997,5,Costa Mesa|California|92627
+Cottage Grove,Minnesota,Central,55016,144.35999999999999,54.796800000000005,1,Cottage Grove|Minnesota|55016
+Covington,Washington,West,98042,413.68,115.10940000000001,2,Covington|Washington|98042
+Cranston,Rhode Island,East,2920,4024.916,637.4977,5,Cranston|Rhode Island|2920
+Cuyahoga Falls,Ohio,East,44221,29.093999999999998,-12.575199999999999,3,Cuyahoga Falls|Ohio|44221
+Dallas,Texas,Central,75081,6341.1428,-93.3945,24,Dallas|Texas|75081
+Dallas,Texas,Central,75217,9720.652,-1864.8163000000002,28,Dallas|Texas|75217
+Dallas,Texas,Central,75220,4070.1374,-888.3149,28,Dallas|Texas|75220
+Danbury,Connecticut,East,6810,27.46,9.8856,1,Danbury|Connecticut|6810
+Danville,California,West,94526,1158.882,282.4405,1,Danville|California|94526
+Danville,Illinois,Central,61832,43.372,-69.3952,1,Danville|Illinois|61832
+Davis,California,West,95616,32.4,15.552,1,Davis|California|95616
+Daytona Beach,Florida,South,32114,272.3315,-52.334,2,Daytona Beach|Florida|32114
+Dearborn,Michigan,Central,48126,1603.3100000000002,467.3864,2,Dearborn|Michigan|48126
+Dearborn Heights,Michigan,Central,48127,1051.5700000000002,140.8905,2,Dearborn Heights|Michigan|48127
+Decatur,Alabama,South,35601,3374.82,1000.0881,7,Decatur|Alabama|35601
+Decatur,Illinois,Central,62521,3169.473,-311.0325,9,Decatur|Illinois|62521
+Deer Park,Texas,Central,77536,6.924,-10.386,1,Deer Park|Texas|77536
+Delray Beach,Florida,South,33445,242.536,29.0542,2,Delray Beach|Florida|33445
+Deltona,Florida,South,32725,893.24,122.1344,4,Deltona|Florida|32725
+Denver,Colorado,West,80219,12198.793,-244.92000000000002,17,Denver|Colorado|80219
+Des Moines,Iowa,Central,50315,2008.8400000000001,360.4009,5,Des Moines|Iowa|50315
+Des Moines,Washington,West,98198,3454.438,1250.3434,5,Des Moines|Washington|98198
+Des Plaines,Illinois,Central,60016,1493.212,-236.7674,2,Des Plaines|Illinois|60016
+Detroit,Michigan,Central,48205,23018.732,7994.5262999999995,14,Detroit|Michigan|48205
+Detroit,Michigan,Central,48227,11262.78,2790.2336999999998,21,Detroit|Michigan|48227
+Detroit,Michigan,Central,48234,8165.432,2397.0308,18,Detroit|Michigan|48234
+Dover,Delaware,East,19901,449.12,116.131,6,Dover|Delaware|19901
+Dover,New Hampshire,East,3820,4428.954,905.3631,5,Dover|New Hampshire|3820
+Draper,Utah,West,84020,263.65,92.72550000000001,2,Draper|Utah|84020
+Dublin,California,West,94568,22.0,1.375,1,Dublin|California|94568
+Dublin,Ohio,East,43017,2379.16,-351.3045,5,Dublin|Ohio|43017
+Dubuque,Iowa,Central,52001,1687.3,477.6744,2,Dubuque|Iowa|52001
+Durham,North Carolina,South,27707,879.96,116.8699,5,Durham|North Carolina|27707
+Eagan,Minnesota,Central,55122,214.28,87.0338,3,Eagan|Minnesota|55122
+East Orange,New Jersey,East,7017,377.27,174.6191,2,East Orange|New Jersey|7017
+East Point,Georgia,South,30344,268.4,102.0138,1,East Point|Georgia|30344
+Eau Claire,Wisconsin,Central,54703,1645.65,427.49780000000004,4,Eau Claire|Wisconsin|54703
+Edinburg,Texas,Central,78539,88.27600000000001,27.8086,2,Edinburg|Texas|78539
+Edmond,Oklahoma,Central,73034,959.55,243.10389999999998,1,Edmond|Oklahoma|73034
+Edmonds,Washington,West,98026,2523.692,634.2478,5,Edmonds|Washington|98026
+El Cajon,California,West,92020,865.616,52.6872,2,El Cajon|California|92020
+El Paso,Texas,Central,79907,3546.064,-179.9007,10,El Paso|Texas|79907
+Elkhart,Indiana,Central,46514,171.43,16.6721,1,Elkhart|Indiana|46514
+Elmhurst,Illinois,Central,60126,891.6279999999999,-212.13209999999998,2,Elmhurst|Illinois|60126
+Elyria,Ohio,East,44035,1.824,-1.3984,1,Elyria|Ohio|44035
+Encinitas,California,West,92024,591.981,71.0588,2,Encinitas|California|92024
+Englewood,Colorado,West,80112,124.056,13.7547,1,Englewood|Colorado|80112
+Escondido,California,West,92025,94.548,27.753,3,Escondido|California|92025
+Eugene,Oregon,West,97405,1465.032,134.03719999999998,1,Eugene|Oregon|97405
+Evanston,Illinois,Central,60201,1753.799,411.88379999999995,3,Evanston|Illinois|60201
+Everett,Massachusetts,East,2149,5661.878,1360.0809,8,Everett|Massachusetts|2149
+Everett,Washington,West,98208,3.856,1.3978,1,Everett|Washington|98208
+Fairfield,California,West,94533,1470.584,117.97739999999999,2,Fairfield|California|94533
+Fairfield,Connecticut,East,6824,4935.577,1221.6226,12,Fairfield|Connecticut|6824
+Fairfield,Ohio,East,45014,3077.697,-129.2881,10,Fairfield|Ohio|45014
+Fargo,North Dakota,Central,58103,919.91,230.1497,2,Fargo|North Dakota|58103
+Farmington,New Mexico,West,87401,718.72,169.4115,3,Farmington|New Mexico|87401
+Fayetteville,Arkansas,South,72701,3742.8100000000004,1691.9419,8,Fayetteville|Arkansas|72701
+Fayetteville,North Carolina,South,28314,3183.116,126.7273,12,Fayetteville|North Carolina|28314
+Florence,Alabama,South,35630,1997.35,248.65890000000002,3,Florence|Alabama|35630
+Florence,Kentucky,South,41042,4559.8,1837.3541,4,Florence|Kentucky|41042
+Florence,South Carolina,South,29501,1064.57,82.9531,4,Florence|South Carolina|29501
+Fort Collins,Colorado,West,80525,935.252,-252.6926,5,Fort Collins|Colorado|80525
+Fort Lauderdale,Florida,South,33311,4929.532499999999,-161.3551,12,Fort Lauderdale|Florida|33311
+Fort Worth,Texas,Central,76106,6602.7064,298.73269999999997,12,Fort Worth|Texas|76106
+Frankfort,Illinois,Central,60423,97.632,-26.055999999999997,2,Frankfort|Illinois|60423
+Franklin,Massachusetts,East,2038,5534.559,464.6287000000001,9,Franklin|Massachusetts|2038
+Franklin,Tennessee,South,37064,948.228,-92.536,6,Franklin|Tennessee|37064
+Franklin,Wisconsin,Central,53132,4774.25,1292.7752,5,Franklin|Wisconsin|53132
+Freeport,Illinois,Central,61032,215.82,-127.44979999999998,2,Freeport|Illinois|61032
+Freeport,New York,East,11520,523.3299999999999,107.3618,4,Freeport|New York|11520
+Fremont,Nebraska,Central,68025,1119.0099999999998,179.4696,7,Fremont|Nebraska|68025
+Fresno,California,West,93727,7888.5285,948.2681,11,Fresno|California|93727
+Frisco,Texas,Central,75034,57.504,-18.8016,2,Frisco|Texas|75034
+Gaithersburg,Maryland,East,20877,405.91999999999996,105.541,1,Gaithersburg|Maryland|20877
+Garden City,Kansas,Central,67846,312.38,90.6259,3,Garden City|Kansas|67846
+Garland,Texas,Central,75043,67.704,-32.373,3,Garland|Texas|75043
+Gastonia,North Carolina,South,28052,895.06,-14.743599999999995,1,Gastonia|North Carolina|28052
+Georgetown,Kentucky,South,40324,1786.42,402.76,3,Georgetown|Kentucky|40324
+Gilbert,Arizona,West,85234,4172.382,138.253,5,Gilbert|Arizona|85234
+Gladstone,Missouri,Central,64118,164.34,52.5888,1,Gladstone|Missouri|64118
+Glendale,Arizona,West,85301,2917.865,182.8598,13,Glendale|Arizona|85301
+Glenview,Illinois,Central,60025,158.376,13.8579,1,Glenview|Illinois|60025
+Goldsboro,North Carolina,South,27534,34.944,3.0576,1,Goldsboro|North Carolina|27534
+Grand Island,Nebraska,Central,68801,15.96,7.98,1,Grand Island|Nebraska|68801
+Grand Prairie,Texas,Central,75051,1012.486,-85.2311,7,Grand Prairie|Texas|75051
+Grand Rapids,Michigan,Central,49505,526.13,233.92270000000002,6,Grand Rapids|Michigan|49505
+Grapevine,Texas,Central,76051,41.528,8.7749,1,Grapevine|Texas|76051
+Great Falls,Montana,West,59405,4605.58,1582.7071,3,Great Falls|Montana|59405
+Greeley,Colorado,West,80634,30.351999999999997,10.3614,1,Greeley|Colorado|80634
+Green Bay,Wisconsin,Central,54302,527.3199999999999,228.4764,4,Green Bay|Wisconsin|54302
+Greensboro,North Carolina,South,27405,2406.78,-122.9534,8,Greensboro|North Carolina|27405
+Greenville,North Carolina,South,27834,2117.83,-548.9884,5,Greenville|North Carolina|27834
+Greenwood,Indiana,Central,46142,1665.0500000000002,471.73220000000003,2,Greenwood|Indiana|46142
+Gresham,Oregon,West,97030,2133.424,150.86440000000002,4,Gresham|Oregon|97030
+Grove City,Ohio,East,43123,123.588,13.1952,1,Grove City|Ohio|43123
+Gulfport,Mississippi,South,39503,166.5,77.5761,3,Gulfport|Mississippi|39503
+Hackensack,New Jersey,East,7601,1456.16,451.2547,2,Hackensack|New Jersey|7601
+Hagerstown,Maryland,East,21740,43.8,20.586,1,Hagerstown|Maryland|21740
+Haltom City,Texas,Central,76117,269.32800000000003,51.955799999999996,2,Haltom City|Texas|76117
+Hamilton,Ohio,East,45011,328.224,-9.385000000000002,3,Hamilton|Ohio|45011
+Hampton,Virginia,South,23666,2722.26,953.8323,5,Hampton|Virginia|23666
+Harlingen,Texas,Central,78550,471.404,18.1275,2,Harlingen|Texas|78550
+Harrisonburg,Virginia,South,22801,4388.71,889.5239,4,Harrisonburg|Virginia|22801
+Hattiesburg,Mississippi,South,39401,1722.84,582.0694,3,Hattiesburg|Mississippi|39401
+Helena,Montana,West,59601,443.84,74.62219999999999,2,Helena|Montana|59601
+Hempstead,New York,East,11550,2589.586,629.0645999999999,4,Hempstead|New York|11550
+Henderson,Kentucky,South,42420,15661.01,4518.8169,17,Henderson|Kentucky|42420
+Henderson,Nevada,West,89015,1888.0580000000002,393.044,2,Henderson|Nevada|89015
+Hendersonville,Tennessee,South,37075,319.538,-45.386700000000005,2,Hendersonville|Tennessee|37075
+Hesperia,California,West,92345,1213.1715,98.5269,3,Hesperia|California|92345
+Hialeah,Florida,South,33012,2338.949,-179.22749999999996,10,Hialeah|Florida|33012
+Hickory,North Carolina,South,28601,40.764,-1.0956000000000001,2,Hickory|North Carolina|28601
+Highland Park,Illinois,Central,60035,2035.096,-169.9406,3,Highland Park|Illinois|60035
+Hillsboro,Oregon,West,97123,87.838,1.5455000000000005,2,Hillsboro|Oregon|97123
+Holland,Michigan,Central,49423,137.86,66.6588,2,Holland|Michigan|49423
+Hollywood,Florida,South,33021,1070.474,108.2012,8,Hollywood|Florida|33021
+Holyoke,Massachusetts,East,1040,301.96,60.392,1,Holyoke|Massachusetts|1040
+Homestead,Florida,South,33030,132.552,22.3291,2,Homestead|Florida|33030
+Hoover,Alabama,South,35244,525.85,18.7173,2,Hoover|Alabama|35244
+Hot Springs,Arkansas,South,71901,245.82999999999998,62.083800000000004,2,Hot Springs|Arkansas|71901
+Houston,Texas,Central,77036,18522.7876,-2411.4332,34,Houston|Texas|77036
+Houston,Texas,Central,77041,16556.9592,-2302.4955999999997,52,Houston|Texas|77041
+Houston,Texas,Central,77070,18347.5944,-992.2873999999999,49,Houston|Texas|77070
+Houston,Texas,Central,77095,11077.4192,-4447.3323,53,Houston|Texas|77095
+Huntington Beach,California,West,92646,2527.82,880.0391999999999,5,Huntington Beach|California|92646
+Huntsville,Alabama,South,35810,2484.3700000000003,1005.2572,7,Huntsville|Alabama|35810
+Huntsville,Texas,Central,77340,6710.6168,-843.4264000000001,10,Huntsville|Texas|77340
+Independence,Missouri,Central,64055,2417.37,975.663,2,Independence|Missouri|64055
+Indianapolis,Indiana,Central,46203,9306.42,2741.6538,12,Indianapolis|Indiana|46203
+Inglewood,California,West,90301,3479.328,1026.6960000000001,4,Inglewood|California|90301
+Iowa City,Iowa,Central,52240,9.99,4.4955,1,Iowa City|Iowa|52240
+Irving,Texas,Central,75061,605.5,-100.51250000000002,5,Irving|Texas|75061
+Jackson,Michigan,Central,49201,15420.036,5525.1992,14,Jackson|Michigan|49201
+Jackson,Mississippi,South,39212,7426.61,2100.4405,18,Jackson|Mississippi|39212
+Jackson,Tennessee,South,38301,2117.212,-43.95689999999999,5,Jackson|Tennessee|38301
+Jacksonville,Florida,South,32216,39133.328,-2445.6608,38,Jacksonville|Florida|32216
+Jacksonville,North Carolina,South,28540,5579.8550000000005,121.82580000000003,23,Jacksonville|North Carolina|28540
+Jamestown,New York,East,14701,4708.79,1285.7714999999998,2,Jamestown|New York|14701
+Jefferson City,Missouri,Central,65109,86.62,8.662,1,Jefferson City|Missouri|65109
+Johnson City,Tennessee,South,37604,765.848,11.856199999999994,3,Johnson City|Tennessee|37604
+Jonesboro,Arkansas,South,72401,2915.32,801.1113,5,Jonesboro|Arkansas|72401
+Jupiter,Florida,South,33458,2.064,0.1548,1,Jupiter|Florida|33458
+Keller,Texas,Central,76248,6.0,2.1,1,Keller|Texas|76248
+Kenner,Louisiana,South,70065,89.32000000000001,19.7976,1,Kenner|Louisiana|70065
+Kenosha,Wisconsin,Central,53142,3906.73,1028.0728,3,Kenosha|Wisconsin|53142
+Kent,Ohio,East,44240,346.302,-11.3007,3,Kent|Ohio|44240
+Kent,Washington,West,98031,1351.2540000000001,603.0963,3,Kent|Washington|98031
+Kirkwood,Missouri,Central,63122,241.34,47.1344,1,Kirkwood|Missouri|63122
+Kissimmee,Florida,South,34741,751.984,84.5982,1,Kissimmee|Florida|34741
+Knoxville,Tennessee,South,37918,3928.166,-1165.0755000000001,10,Knoxville|Tennessee|37918
+La Crosse,Wisconsin,Central,54601,830.41,272.0761,2,La Crosse|Wisconsin|54601
+La Mesa,California,West,91941,367.53000000000003,114.387,1,La Mesa|California|91941
+La Porte,Indiana,Central,46350,1021.34,224.51299999999998,3,La Porte|Indiana|46350
+La Porte,Texas,Central,77571,30.392,-32.5272,1,La Porte|Texas|77571
+La Quinta,California,West,92253,46.32,18.0648,1,La Quinta|California|92253
+Lafayette,Indiana,Central,47905,19630.45,8976.097300000001,7,Lafayette|Indiana|47905
+Lafayette,Louisiana,South,70506,5405.75,1042.2903,10,Lafayette|Louisiana|70506
+Laguna Niguel,California,West,92677,290.983,41.9815,3,Laguna Niguel|California|92677
+Lake Charles,Louisiana,South,70601,547.41,241.2558,2,Lake Charles|Louisiana|70601
+Lake Elsinore,California,West,92530,283.92,17.745,1,Lake Elsinore|California|92530
+Lake Forest,California,West,92630,1625.536,327.53139999999996,2,Lake Forest|California|92630
+Lakeland,Florida,South,33801,5606.8865000000005,-188.63649999999998,6,Lakeland|Florida|33801
+Lakeville,Minnesota,Central,55044,4260.95,1346.6021,5,Lakeville|Minnesota|55044
+Lakewood,California,West,90712,1583.683,43.962399999999995,5,Lakewood|California|90712
+Lakewood,New Jersey,East,8701,14852.04,3526.6735000000003,11,Lakewood|New Jersey|8701
+Lakewood,Ohio,East,44107,1756.324,-336.60810000000004,13,Lakewood|Ohio|44107
+Lancaster,California,West,93534,477.444,79.43719999999999,4,Lancaster|California|93534
+Lancaster,Ohio,East,43130,8202.625,-7149.6179999999995,15,Lancaster|Ohio|43130
+Lancaster,Pennsylvania,East,17602,1211.395,-168.88760000000002,8,Lancaster|Pennsylvania|17602
+Lansing,Michigan,Central,48911,1610.286,412.8734,3,Lansing|Michigan|48911
+Laredo,Texas,Central,78041,1024.34,-54.613899999999994,4,Laredo|Texas|78041
+Las Cruces,New Mexico,West,88001,98.77,43.9394,3,Las Cruces|New Mexico|88001
+Las Vegas,Nevada,West,89115,1834.02,332.4433,8,Las Vegas|Nevada|89115
+Laurel,Maryland,East,20707,152.59,46.1733,1,Laurel|Maryland|20707
+Lawrence,Indiana,Central,46226,1545.13,532.7429999999999,6,Lawrence|Indiana|46226
+Lawrence,Massachusetts,East,1841,6109.062,1849.4035,15,Lawrence|Massachusetts|1841
+Lawton,Oklahoma,Central,73505,1057.49,235.50850000000003,2,Lawton|Oklahoma|73505
+Layton,Utah,West,84041,4.96,2.3312,1,Layton|Utah|84041
+League City,Texas,Central,77573,875.3679999999999,-31.349899999999998,2,League City|Texas|77573
+Lebanon,Tennessee,South,37087,488.896,83.8057,3,Lebanon|Tennessee|37087
+Lehi,Utah,West,84043,1516.726,451.6626,2,Lehi|Utah|84043
+Leominster,Massachusetts,East,1453,217.49,79.5016,2,Leominster|Massachusetts|1453
+Lewiston,Idaho,West,83501,9.584,3.3544,1,Lewiston|Idaho|83501
+Lewiston,Maine,East,4240,106.08000000000001,32.2658,1,Lewiston|Maine|4240
+Lincoln Park,Michigan,Central,48146,387.602,68.3691,2,Lincoln Park|Michigan|48146
+Linden,New Jersey,East,7036,115.36,49.6048,1,Linden|New Jersey|7036
+Lindenhurst,New York,East,11757,55.48,26.6304,1,Lindenhurst|New York|11757
+Little Rock,Arkansas,South,72209,3560.35,1154.6691,6,Little Rock|Arkansas|72209
+Littleton,Colorado,West,80122,72.294,-98.8018,1,Littleton|Colorado|80122
+Lodi,California,West,95240,136.98,44.4858,2,Lodi|California|95240
+Logan,Utah,West,84321,280.276,46.9632,1,Logan|Utah|84321
+Long Beach,California,West,90805,4933.83,746.3956,11,Long Beach|California|90805
+Long Beach,New York,East,11561,8521.2,1362.535,22,Long Beach|New York|11561
+Longmont,Colorado,West,80501,915.088,34.8252,2,Longmont|Colorado|80501
+Longview,Washington,West,98632,119.21000000000001,38.8983,2,Longview|Washington|98632
+Lorain,Ohio,East,44052,2015.1109999999999,-632.9229,5,Lorain|Ohio|44052
+Los Angeles,California,West,90004,23684.259,2999.4919,59,Los Angeles|California|90004
+Los Angeles,California,West,90008,25208.0435,4835.6933,59,Los Angeles|California|90008
+Los Angeles,California,West,90032,22420.4085,4149.2142,58,Los Angeles|California|90032
+Los Angeles,California,West,90036,29157.853,4452.9468,67,Los Angeles|California|90036
+Los Angeles,California,West,90045,37419.765,6210.2972,67,Los Angeles|California|90045
+Los Angeles,California,West,90049,37961.012,7793.1145,74,Los Angeles|California|90049
+Louisville,Colorado,West,80027,5070.416,-3406.2095000000004,12,Louisville|Colorado|80027
+Louisville,Kentucky,South,40214,7275.39,1975.8966,17,Louisville|Kentucky|40214
+Loveland,Colorado,West,80538,20.964000000000002,4.4778,3,Loveland|Colorado|80538
+Lowell,Massachusetts,East,1852,4837.93,1312.5717,7,Lowell|Massachusetts|1852
+Lubbock,Texas,Central,79424,592.564,147.1387,4,Lubbock|Texas|79424
+Macon,Georgia,South,31204,364.01,144.8535,4,Macon|Georgia|31204
+Madison,Wisconsin,Central,53711,5346.79,1123.6552,4,Madison|Wisconsin|53711
+Malden,Massachusetts,East,2148,228.38,31.1692,2,Malden|Massachusetts|2148
+Manchester,Connecticut,East,6040,2126.28,600.5054,4,Manchester|Connecticut|6040
+Manhattan,Kansas,Central,66502,273.96,10.9584,1,Manhattan|Kansas|66502
+Mansfield,Texas,Central,76063,558.877,-66.7913,2,Mansfield|Texas|76063
+Manteca,California,West,95336,452.182,172.2358,2,Manteca|California|95336
+Maple Grove,Minnesota,Central,55369,882.87,385.01009999999997,2,Maple Grove|Minnesota|55369
+Margate,Florida,South,33063,15.552,2.3328,1,Margate|Florida|33063
+Marietta,Georgia,South,30062,2938.62,512.1456,3,Marietta|Georgia|30062
+Marion,Iowa,Central,52302,358.36,164.2909,3,Marion|Iowa|52302
+Marion,Ohio,East,43302,3010.986,-544.6532,8,Marion|Ohio|43302
+Marlborough,Massachusetts,East,1752,206.64,67.60679999999999,1,Marlborough|Massachusetts|1752
+Marysville,Washington,West,98270,102.18,3.3150000000000004,2,Marysville|Washington|98270
+Mason,Ohio,East,45040,94.264,-4.235199999999999,1,Mason|Ohio|45040
+Mcallen,Texas,Central,78501,866.716,-163.87169999999998,4,Mcallen|Texas|78501
+Medford,Oregon,West,97504,90.218,19.700899999999997,3,Medford|Oregon|97504
+Medina,Ohio,East,44256,2477.722,-1343.0446,3,Medina|Ohio|44256
+Melbourne,Florida,South,32935,95.616,9.5616,1,Melbourne|Florida|32935
+Memphis,Tennessee,South,38109,5942.341,-1479.04,14,Memphis|Tennessee|38109
+Mentor,Ohio,East,44060,693.13,-123.27420000000002,1,Mentor|Ohio|44060
+Meriden,Connecticut,East,6450,1550.6799999999998,470.2212,5,Meriden|Connecticut|6450
+Meridian,Idaho,West,83642,329.052,95.214,2,Meridian|Idaho|83642
+Mesa,Arizona,West,85204,4037.7400000000002,-559.2314,14,Mesa|Arizona|85204
+Mesquite,Texas,Central,75150,52.147999999999996,-87.61999999999999,3,Mesquite|Texas|75150
+Miami,Florida,South,33142,3619.4210000000003,-980.0357,9,Miami|Florida|33142
+Miami,Florida,South,33178,1918.3685,-458.38679999999994,10,Miami|Florida|33178
+Miami,Florida,South,33180,3135.285,288.0521,15,Miami|Florida|33180
+Middletown,Connecticut,East,6457,1154.61,157.6159,7,Middletown|Connecticut|6457
+Midland,Michigan,Central,48640,5291.512,2293.6828,5,Midland|Michigan|48640
+Milford,Connecticut,East,6460,961.74,319.054,3,Milford|Connecticut|6460
+Milwaukee,Wisconsin,Central,53209,11410.22,2793.0851000000002,23,Milwaukee|Wisconsin|53209
+Minneapolis,Minnesota,Central,55407,16870.54,6824.584599999999,13,Minneapolis|Minnesota|55407
+Miramar,Florida,South,33023,1531.192,32.28099999999999,3,Miramar|Florida|33023
+Mishawaka,Indiana,Central,46544,776.24,96.59200000000001,2,Mishawaka|Indiana|46544
+Mission Viejo,California,West,92691,775.986,151.06449999999998,3,Mission Viejo|California|92691
+Missoula,Montana,West,59801,487.984,152.495,1,Missoula|Montana|59801
+Missouri City,Texas,Central,77489,6.37,-9.555,1,Missouri City|Texas|77489
+Mobile,Alabama,South,36608,5462.99,2175.8292,4,Mobile|Alabama|36608
+Modesto,California,West,95351,326.15000000000003,19.943,3,Modesto|California|95351
+Monroe,Louisiana,South,71203,1757.37,555.7977999999999,6,Monroe|Louisiana|71203
+Monroe,North Carolina,South,28110,1213.0639999999999,140.8264,6,Monroe|North Carolina|28110
+Montebello,California,West,90640,27.88,3.9032,1,Montebello|California|90640
+Montgomery,Alabama,South,36116,3722.73,834.6571,6,Montgomery|Alabama|36116
+Moorhead,Minnesota,Central,56560,543.86,101.4106,2,Moorhead|Minnesota|56560
+Moreno Valley,California,West,92553,1262.4660000000001,353.6301,5,Moreno Valley|California|92553
+Morgan Hill,California,West,95037,545.01,7.846,1,Morgan Hill|California|95037
+Morristown,New Jersey,East,7960,5033.099999999999,1838.2271,5,Morristown|New Jersey|7960
+Mount Pleasant,Michigan,Central,48858,17.14,6.1704,1,Mount Pleasant|Michigan|48858
+Mount Pleasant,South Carolina,South,29464,545.94,87.3504,1,Mount Pleasant|South Carolina|29464
+Mount Vernon,New York,East,10550,2119.632,662.5146,5,Mount Vernon|New York|10550
+Murfreesboro,Tennessee,South,37130,337.333,15.6891,4,Murfreesboro|Tennessee|37130
+Murray,Kentucky,South,42071,264.62,94.4658,2,Murray|Kentucky|42071
+Murray,Utah,West,84107,146.318,37.062799999999996,2,Murray|Utah|84107
+Murrieta,California,West,92563,484.65,92.0835,1,Murrieta|California|92563
+Muskogee,Oklahoma,Central,74403,1721.7,442.5966,2,Muskogee|Oklahoma|74403
+Naperville,Illinois,Central,60540,1288.3029999999999,-146.5324,5,Naperville|Illinois|60540
+Nashua,New Hampshire,East,3060,35.94,13.512599999999999,2,Nashua|New Hampshire|3060
+Nashville,Tennessee,South,37211,6070.863,-837.4908,16,Nashville|Tennessee|37211
+New Albany,Indiana,Central,47150,209.55,73.3529,1,New Albany|Indiana|47150
+New Bedford,Massachusetts,East,2740,235.96999999999997,50.4861,4,New Bedford|Massachusetts|2740
+New Brunswick,New Jersey,East,8901,14.77,7.156700000000001,1,New Brunswick|New Jersey|8901
+New Castle,Indiana,Central,47362,84.61,23.0839,1,New Castle|Indiana|47362
+New Rochelle,New York,East,10801,1255.228,368.411,5,New Rochelle|New York|10801
+New York City,New York,East,10009,54761.496,13697.0019,110,New York City|New York|10009
+New York City,New York,East,10011,45551.598,10152.3901,94,New York City|New York|10011
+New York City,New York,East,10024,78697.182,21653.7248,121,New York City|New York|10024
+New York City,New York,East,10035,77357.885,16533.8669,125,New York City|New York|10035
+Newark,Delaware,East,19711,20448.05,8086.1715,29,Newark|Delaware|19711
+Newark,Ohio,East,43055,8128.0689999999995,-2292.4127,16,Newark|Ohio|43055
+Newport News,Virginia,South,23602,3321.9500000000003,1197.0469,5,Newport News|Virginia|23602
+Niagara Falls,New York,East,14304,199.84199999999998,59.238299999999995,2,Niagara Falls|New York|14304
+Noblesville,Indiana,Central,46060,3091.1800000000003,353.313,2,Noblesville|Indiana|46060
+Norfolk,Nebraska,Central,68701,17.43,8.0178,1,Norfolk|Nebraska|68701
+Normal,Illinois,Central,61761,366.744,-110.0232,1,Normal|Illinois|61761
+Norman,Oklahoma,Central,73071,1351.3300000000002,269.5287,2,Norman|Oklahoma|73071
+North Charleston,South Carolina,South,29406,284.25,9.670200000000001,2,North Charleston|South Carolina|29406
+North Las Vegas,Nevada,West,89031,9801.002,2247.6899000000003,7,North Las Vegas|Nevada|89031
+North Miami,Florida,South,33161,22.128,3.0798000000000005,2,North Miami|Florida|33161
+Norwich,Connecticut,East,6360,414.03999999999996,164.08960000000002,4,Norwich|Connecticut|6360
+Oak Park,Illinois,Central,60302,10.192,1.0192,1,Oak Park|Illinois|60302
+Oak Park,Michigan,Central,48237,580.8599999999999,151.0236,1,Oak Park|Michigan|48237
+Oakland,California,West,94601,5964.418,834.1029000000001,13,Oakland|California|94601
+Oceanside,California,West,92054,499.61199999999997,117.51299999999999,5,Oceanside|California|92054
+Oceanside,New York,East,11572,3851.126,655.1669,8,Oceanside|New York|11572
+Odessa,Texas,Central,79762,976.1239999999999,-69.71180000000001,4,Odessa|Texas|79762
+Oklahoma City,Oklahoma,Central,73120,6596.820000000001,1580.7607,11,Oklahoma City|Oklahoma|73120
+Olathe,Kansas,Central,66062,895.79,207.4108,2,Olathe|Kansas|66062
+Olympia,Washington,West,98502,1020.448,139.6269,3,Olympia|Washington|98502
+Omaha,Nebraska,Central,68104,6312.53,1841.6268,14,Omaha|Nebraska|68104
+Ontario,California,West,91761,283.92,-46.137,1,Ontario|California|91761
+Orange,New Jersey,East,7050,211.11,66.5698,5,Orange|New Jersey|7050
+Orem,Utah,West,84057,2994.0879999999997,514.6335,5,Orem|Utah|84057
+Orland Park,Illinois,Central,60462,339.96,67.992,1,Orland Park|Illinois|60462
+Orlando,Florida,South,32839,1740.08,377.7253,6,Orlando|Florida|32839
+Ormond Beach,Florida,South,32174,2.808,-1.9656,1,Ormond Beach|Florida|32174
+Oswego,Illinois,Central,60543,321.978,-536.1275999999999,1,Oswego|Illinois|60543
+Overland Park,Kansas,Central,66212,606.91,203.5218,3,Overland Park|Kansas|66212
+Owensboro,Kentucky,South,42301,71.18,27.642799999999998,2,Owensboro|Kentucky|42301
+Oxnard,California,West,93030,1558.1000000000001,346.4577,4,Oxnard|California|93030
+Palatine,Illinois,Central,60067,116.312,23.2624,1,Palatine|Illinois|60067
+Palm Coast,Florida,South,32137,274.428,17.6552,3,Palm Coast|Florida|32137
+Park Ridge,Illinois,Central,60068,685.0,-238.45,3,Park Ridge|Illinois|60068
+Parker,Colorado,West,80134,1067.942,-164.1893,2,Parker|Colorado|80134
+Parma,Ohio,East,44134,3879.756,31.061799999999995,4,Parma|Ohio|44134
+Pasadena,California,West,91104,4112.688,429.9769,11,Pasadena|California|91104
+Pasadena,Texas,Central,77506,2477.458,-340.10499999999996,9,Pasadena|Texas|77506
+Pasco,Washington,West,99301,2201.112,357.5244,2,Pasco|Washington|99301
+Passaic,New Jersey,East,7055,1562.086,356.8186,1,Passaic|New Jersey|7055
+Paterson,New Jersey,East,7501,2243.21,740.49,6,Paterson|New Jersey|7501
+Pearland,Texas,Central,77581,494.996,39.4131,2,Pearland|Texas|77581
+Pembroke Pines,Florida,South,33024,1714.3754999999999,-72.4491,4,Pembroke Pines|Florida|33024
+Pensacola,Florida,South,32503,2.214,-1.476,1,Pensacola|Florida|32503
+Peoria,Arizona,West,85345,1341.352,-55.10760000000002,5,Peoria|Arizona|85345
+Peoria,Illinois,Central,61604,501.47999999999996,-72.7587,4,Peoria|Illinois|61604
+Perth Amboy,New Jersey,East,8861,1717.08,633.644,4,Perth Amboy|New Jersey|8861
+Pharr,Texas,Central,78577,1540.708,-237.5528,2,Pharr|Texas|78577
+Philadelphia,Pennsylvania,East,19120,26292.518,-1092.7759,62,Philadelphia|Pennsylvania|19120
+Philadelphia,Pennsylvania,East,19134,39390.293,-3745.8552,70,Philadelphia|Pennsylvania|19134
+Philadelphia,Pennsylvania,East,19140,22752.914,-5168.3905,72,Philadelphia|Pennsylvania|19140
+Philadelphia,Pennsylvania,East,19143,20641.288,-3830.7457999999997,61,Philadelphia|Pennsylvania|19143
+Phoenix,Arizona,West,85023,11000.257,-2790.8831999999998,29,Phoenix|Arizona|85023
+Pico Rivera,California,West,90660,145.9,62.737,1,Pico Rivera|California|90660
+Pine Bluff,Arkansas,South,71603,212.91,70.2048,1,Pine Bluff|Arkansas|71603
+Plainfield,New Jersey,East,7060,4526.85,1235.6657,7,Plainfield|New Jersey|7060
+Plano,Texas,Central,75023,3530.3746,-383.0554,8,Plano|Texas|75023
+Plantation,Florida,South,33317,1436.836,12.039100000000005,3,Plantation|Florida|33317
+Pleasant Grove,Utah,West,84062,2138.178,580.6549,2,Pleasant Grove|Utah|84062
+Pocatello,Idaho,West,83201,1344.942,181.35590000000002,3,Pocatello|Idaho|83201
+Pomona,California,West,91767,1482.502,150.299,5,Pomona|California|91767
+Pompano Beach,Florida,South,33068,90.44,15.006499999999999,2,Pompano Beach|Florida|33068
+Port Arthur,Texas,Central,77642,737.0528,105.77600000000001,3,Port Arthur|Texas|77642
+Port Orange,Florida,South,32127,7.824,2.934,1,Port Orange|Florida|32127
+Port Saint Lucie,Florida,South,34952,248.95,4.449,3,Port Saint Lucie|Florida|34952
+Portage,Indiana,Central,46368,16.28,6.512,1,Portage|Indiana|46368
+Portland,Oregon,West,97206,4051.869,9.757299999999997,15,Portland|Oregon|97206
+Providence,Rhode Island,East,2908,15980.65,5505.6569,13,Providence|Rhode Island|2908
+Provo,Utah,West,84604,2761.234,388.5674,4,Provo|Utah|84604
+Pueblo,Colorado,West,81001,1686.9379999999999,-900.9719,4,Pueblo|Colorado|81001
+Quincy,Illinois,Central,62301,330.284,49.1019,6,Quincy|Illinois|62301
+Quincy,Massachusetts,East,2169,946.175,297.9889,5,Quincy|Massachusetts|2169
+Raleigh,North Carolina,South,27604,4507.54,472.594,13,Raleigh|North Carolina|27604
+Rancho Cucamonga,California,West,91730,231.852,73.7442,4,Rancho Cucamonga|California|91730
+Rapid City,South Dakota,Central,57701,152.64000000000001,44.7684,1,Rapid City|South Dakota|57701
+Reading,Pennsylvania,East,19601,873.7120000000001,-268.76419999999996,4,Reading|Pennsylvania|19601
+Redding,California,West,96003,333.576,25.0182,1,Redding|California|96003
+Redlands,California,West,92374,2891.021,454.1556,4,Redlands|California|92374
+Redmond,Oregon,West,97756,1043.027,-174.45000000000002,4,Redmond|Oregon|97756
+Redmond,Washington,West,98052,55.230000000000004,20.7322,2,Redmond|Washington|98052
+Redondo Beach,California,West,90278,1959.803,176.4289,3,Redondo Beach|California|90278
+Redwood City,California,West,94061,41.904,14.1426,1,Redwood City|California|94061
+Reno,Nevada,West,89502,644.062,115.0527,3,Reno|Nevada|89502
+Renton,Washington,West,98059,1242.6319999999998,185.4324,1,Renton|Washington|98059
+Revere,Massachusetts,East,2151,833.26,258.8366,3,Revere|Massachusetts|2151
+Richardson,Texas,Central,75080,1288.4640000000002,-24.4893,1,Richardson|Texas|75080
+Richmond,Indiana,Central,47374,6235.15,1881.8619999999999,14,Richmond|Indiana|47374
+Richmond,Kentucky,South,40475,6761.52,2275.6436,14,Richmond|Kentucky|40475
+Richmond,Virginia,South,23223,5141.26,1409.743,13,Richmond|Virginia|23223
+Rio Rancho,New Mexico,West,87124,1114.192,119.5878,1,Rio Rancho|New Mexico|87124
+Riverside,California,West,92503,1944.2459999999999,374.7296,9,Riverside|California|92503
+Rochester,Minnesota,Central,55901,1957.4,520.204,8,Rochester|Minnesota|55901
+Rochester,New York,East,14609,6017.13,1223.2151000000001,20,Rochester|New York|14609
+Rochester Hills,Michigan,Central,48307,132.52,54.3332,1,Rochester Hills|Michigan|48307
+Rock Hill,South Carolina,South,29730,11.85,3.792,1,Rock Hill|South Carolina|29730
+Rockford,Illinois,Central,61107,3166.228,-1149.5077999999999,8,Rockford|Illinois|61107
+Rockville,Maryland,East,20852,469.77,133.2147,3,Rockville|Maryland|20852
+Rogers,Arkansas,South,72756,40.41,18.5886,1,Rogers|Arkansas|72756
+Rome,New York,East,13440,534.852,154.2138,3,Rome|New York|13440
+Romeoville,Illinois,Central,60441,8.952,-14.7708,1,Romeoville|Illinois|60441
+Roseville,California,West,95661,734.776,316.94500000000005,7,Roseville|California|95661
+Roseville,Michigan,Central,48066,638.33,268.9149,4,Roseville|Michigan|48066
+Roseville,Minnesota,Central,55113,2215.52,667.5272,2,Roseville|Minnesota|55113
+Roswell,Georgia,South,30076,6652.32,2427.4353,9,Roswell|Georgia|30076
+Round Rock,Texas,Central,78664,4854.0527999999995,-1183.4313,3,Round Rock|Texas|78664
+Royal Oak,Michigan,Central,48073,35.34,16.9632,2,Royal Oak|Michigan|48073
+Sacramento,California,West,95823,7311.278,2069.6859,8,Sacramento|California|95823
+Saginaw,Michigan,Central,48601,395.86,77.18010000000001,2,Saginaw|Michigan|48601
+Saint Charles,Illinois,Central,60174,1388.71,216.63979999999998,3,Saint Charles|Illinois|60174
+Saint Charles,Missouri,Central,63301,270.94,94.8436,3,Saint Charles|Missouri|63301
+Saint Cloud,Minnesota,Central,56301,1331.82,469.614,1,Saint Cloud|Minnesota|56301
+Saint Louis,Missouri,Central,63116,285.96000000000004,98.5541,4,Saint Louis|Missouri|63116
+Saint Paul,Minnesota,Central,55106,192.82999999999998,24.8842,2,Saint Paul|Minnesota|55106
+Saint Peters,Missouri,Central,63376,697.16,146.4036,1,Saint Peters|Missouri|63376
+Saint Petersburg,Florida,South,33710,1690.7920000000001,151.9823,6,Saint Petersburg|Florida|33710
+Salem,Oregon,West,97301,1404.695,-262.3311,9,Salem|Oregon|97301
+Salem,Virginia,South,24153,2039.55,533.0251000000001,6,Salem|Virginia|24153
+Salinas,California,West,93905,728.8910000000001,270.5181,4,Salinas|California|93905
+Salt Lake City,Utah,West,84106,802.776,329.2601,5,Salt Lake City|Utah|84106
+San Angelo,Texas,Central,76903,650.636,-58.5532,2,San Angelo|Texas|76903
+San Antonio,Texas,Central,78207,21843.528,-7299.050200000001,27,San Antonio|Texas|78207
+San Bernardino,California,West,92404,979.3000000000001,69.982,4,San Bernardino|California|92404
+San Clemente,California,West,92672,90.05799999999999,42.5419,1,San Clemente|California|92672
+San Diego,California,West,92024,7054.148,1390.2932,21,San Diego|California|92024
+San Diego,California,West,92037,25676.273,3197.4121999999998,34,San Diego|California|92037
+San Diego,California,West,92105,14790.608,1789.4905999999999,33,San Diego|California|92105
+San Francisco,California,West,94109,25010.31,4397.4533,80,San Francisco|California|94109
+San Francisco,California,West,94110,34991.315,5397.3363,88,San Francisco|California|94110
+San Francisco,California,West,94122,52667.467,7712.5958,97,San Francisco|California|94122
+San Gabriel,California,West,91776,2061.01,290.8953,1,San Gabriel|California|91776
+San Jose,California,West,95123,6071.229,1216.0579,20,San Jose|California|95123
+San Luis Obispo,California,West,93405,3.62,1.1946,1,San Luis Obispo|California|93405
+San Marcos,Texas,Central,78666,108.44399999999999,-19.3413,1,San Marcos|Texas|78666
+San Mateo,California,West,94403,75.18,35.3346,1,San Mateo|California|94403
+Sandy Springs,Georgia,South,30328,1997.03,520.5891,4,Sandy Springs|Georgia|30328
+Sanford,Florida,South,32771,225.54600000000002,-11.827200000000001,1,Sanford|Florida|32771
+Santa Ana,California,West,92704,3366.31,836.7465000000001,8,Santa Ana|California|92704
+Santa Barbara,California,West,93101,4289.2339999999995,457.2858,5,Santa Barbara|California|93101
+Santa Clara,California,West,95051,222.192,76.0016,3,Santa Clara|California|95051
+Santa Fe,New Mexico,West,87505,100.92,20.688000000000002,2,Santa Fe|New Mexico|87505
+Santa Maria,California,West,93454,115.44,30.0144,1,Santa Maria|California|93454
+Scottsdale,Arizona,West,85254,1466.307,-89.4879,7,Scottsdale|Arizona|85254
+Seattle,Washington,West,98103,36541.826,7117.617,74,Seattle|Washington|98103
+Seattle,Washington,West,98105,41838.008,8734.6042,77,Seattle|Washington|98105
+Seattle,Washington,West,98115,41160.908,13303.8755,61,Seattle|Washington|98115
+Sheboygan,Wisconsin,Central,53081,79.74000000000001,34.3419,1,Sheboygan|Wisconsin|53081
+Shelton,Connecticut,East,6484,73.33,21.4053,1,Shelton|Connecticut|6484
+Sierra Vista,Arizona,West,85635,76.072,16.8281,2,Sierra Vista|Arizona|85635
+Sioux Falls,South Dakota,Central,57103,1137.42,343.4299,3,Sioux Falls|South Dakota|57103
+Skokie,Illinois,Central,60076,568.832,-346.87,5,Skokie|Illinois|60076
+Smyrna,Georgia,South,30080,2390.31,807.3319,5,Smyrna|Georgia|30080
+Smyrna,Tennessee,South,37167,848.579,19.371700000000004,4,Smyrna|Tennessee|37167
+South Bend,Indiana,Central,46614,1238.33,279.5512,1,South Bend|Indiana|46614
+Southaven,Mississippi,South,38671,1455.39,412.8902,2,Southaven|Mississippi|38671
+Sparks,Nevada,West,89431,2561.96,228.536,3,Sparks|Nevada|89431
+Spokane,Washington,West,99207,2027.9180000000001,172.2261,5,Spokane|Washington|99207
+Springdale,Arkansas,South,72762,4.3,1.419,1,Springdale|Arkansas|72762
+Springfield,Missouri,Central,65807,15051.380000000001,3905.5890999999997,14,Springfield|Missouri|65807
+Springfield,Ohio,East,45503,5613.167,-1420.1619999999998,19,Springfield|Ohio|45503
+Springfield,Oregon,West,97477,5761.265,-853.3086000000001,15,Springfield|Oregon|97477
+Springfield,Virginia,South,22153,16628.53,4568.5789,25,Springfield|Virginia|22153
+Sterling Heights,Michigan,Central,48310,110.03999999999999,33.0676,3,Sterling Heights|Michigan|48310
+Stockton,California,West,95207,1227.6,339.52639999999997,5,Stockton|California|95207
+Suffolk,Virginia,South,23434,1597.9,389.8122,4,Suffolk|Virginia|23434
+Summerville,South Carolina,South,29483,406.93999999999994,196.91320000000002,1,Summerville|South Carolina|29483
+Sunnyvale,California,West,94086,636.21,107.5073,2,Sunnyvale|California|94086
+Superior,Wisconsin,Central,54880,1299.73,514.0822000000001,2,Superior|Wisconsin|54880
+Tallahassee,Florida,South,32303,7250.669,392.71160000000003,9,Tallahassee|Florida|32303
+Tamarac,Florida,South,33319,1413.51,-351.89610000000005,2,Tamarac|Florida|33319
+Tampa,Florida,South,33614,5196.0805,-325.2366,14,Tampa|Florida|33614
+Taylor,Michigan,Central,48180,353.7,44.8682,3,Taylor|Michigan|48180
+Temecula,California,West,92592,808.6659999999999,101.8869,1,Temecula|California|92592
+Tempe,Arizona,West,85281,1070.3020000000001,95.4496,6,Tempe|Arizona|85281
+Texarkana,Arkansas,South,71854,654.24,163.3746,2,Texarkana|Arkansas|71854
+Texas City,Texas,Central,77590,790.972,20.221799999999995,2,Texas City|Texas|77590
+The Colony,Texas,Central,75056,142.16000000000003,31.6586,2,The Colony|Texas|75056
+Thomasville,North Carolina,South,27360,151.292,33.3939,2,Thomasville|North Carolina|27360
+Thornton,Colorado,West,80229,765.248,140.8398,3,Thornton|Colorado|80229
+Thousand Oaks,California,West,91360,238.804,99.914,4,Thousand Oaks|California|91360
+Tigard,Oregon,West,97224,1393.7820000000002,-216.2861,3,Tigard|Oregon|97224
+Tinley Park,Illinois,Central,60477,22.288,-8.9152,1,Tinley Park|Illinois|60477
+Toledo,Ohio,East,43615,4466.053,-339.99679999999995,15,Toledo|Ohio|43615
+Torrance,California,West,90503,3132.268,545.1510000000001,2,Torrance|California|90503
+Trenton,Michigan,Central,48183,1765.1950000000002,652.0998,4,Trenton|Michigan|48183
+Troy,New York,East,12180,1326.556,330.4355,6,Troy|New York|12180
+Troy,Ohio,East,45373,3180.535,-874.5873,8,Troy|Ohio|45373
+Tucson,Arizona,West,85705,6313.016,-64.96680000000002,13,Tucson|Arizona|85705
+Tulsa,Oklahoma,Central,74133,5556.97,1506.935,13,Tulsa|Oklahoma|74133
+Tuscaloosa,Alabama,South,35401,175.70000000000002,51.010400000000004,2,Tuscaloosa|Alabama|35401
+Twin Falls,Idaho,West,83301,1148.806,266.1649,1,Twin Falls|Idaho|83301
+Tyler,Texas,Central,75701,347.206,-443.7086,2,Tyler|Texas|75701
+Urbandale,Iowa,Central,50322,149.12,57.718,2,Urbandale|Iowa|50322
+Utica,New York,East,13501,655.04,188.55960000000002,4,Utica|New York|13501
+Vacaville,California,West,95687,423.28,110.0528,1,Vacaville|California|95687
+Vallejo,California,West,94591,1221.41,336.03549999999996,3,Vallejo|California|94591
+Vancouver,Washington,West,98661,686.836,75.4546,3,Vancouver|Washington|98661
+Vineland,New Jersey,East,8360,647.966,62.2518,4,Vineland|New Jersey|8360
+Virginia Beach,Virginia,South,23464,5752.13,2024.8837,11,Virginia Beach|Virginia|23464
+Visalia,California,West,93277,318.78000000000003,88.0478,2,Visalia|California|93277
+Waco,Texas,Central,76706,606.1072,-520.1034,4,Waco|Texas|76706
+Warner Robins,Georgia,South,31088,434.8,53.6884,2,Warner Robins|Georgia|31088
+Warwick,Rhode Island,East,2886,2426.84,1063.7956,4,Warwick|Rhode Island|2886
+Washington,District of Columbia,East,20016,2865.02,1059.5892999999999,4,Washington|District of Columbia|20016
+Waterbury,Connecticut,East,6708,1326.06,338.9355,5,Waterbury|Connecticut|6708
+Waterloo,Iowa,Central,50701,30.32,11.8248,1,Waterloo|Iowa|50701
+Watertown,New York,East,13601,4044.998,907.0072,7,Watertown|New York|13601
+Waukesha,Wisconsin,Central,53186,54.5,14.17,1,Waukesha|Wisconsin|53186
+Wausau,Wisconsin,Central,54401,317.48,90.4306,1,Wausau|Wisconsin|54401
+Waynesboro,Virginia,South,22980,3058.77,603.3858,3,Waynesboro|Virginia|22980
+West Allis,Wisconsin,Central,53214,250.48000000000002,28.370800000000003,1,West Allis|Wisconsin|53214
+West Jordan,Utah,West,84084,311.85,102.6723,2,West Jordan|Utah|84084
+West Palm Beach,Florida,South,33407,141.328,31.6092,3,West Palm Beach|Florida|33407
+Westfield,New Jersey,East,7090,519.72,153.17579999999998,4,Westfield|New Jersey|7090
+Westland,Michigan,Central,48185,2057.976,389.5995,3,Westland|Michigan|48185
+Westminster,California,West,92683,3826.6459999999997,763.6886000000001,4,Westminster|California|92683
+Wheeling,Illinois,Central,60090,737.142,-293.31780000000003,2,Wheeling|Illinois|60090
+Wheeling,West Virginia,East,26003,1209.824,185.9216,2,Wheeling|West Virginia|26003
+Whittier,California,West,90604,444.768,44.4768,1,Whittier|California|90604
+Wichita,Kansas,Central,67212,825.27,323.9266,5,Wichita|Kansas|67212
+Wilmington,Delaware,East,19805,6553.899,1775.0723,9,Wilmington|Delaware|19805
+Wilmington,North Carolina,South,28403,743.1619999999999,172.62959999999998,9,Wilmington|North Carolina|28403
+Wilson,North Carolina,South,27893,368.73199999999997,-14.336000000000002,3,Wilson|North Carolina|27893
+Woodbury,Minnesota,Central,55125,607.65,196.09619999999998,2,Woodbury|Minnesota|55125
+Woodland,California,West,95695,264.66200000000003,33.3848,2,Woodland|California|95695
+Woodstock,Georgia,South,30188,286.65000000000003,104.8788,1,Woodstock|Georgia|30188
+Woodstock,Illinois,Central,60098,857.2500000000001,-24.8859,3,Woodstock|Illinois|60098
+Woonsocket,Rhode Island,East,2895,195.55,78.6791,3,Woonsocket|Rhode Island|2895
+Yonkers,New York,East,10701,7657.666,2767.7557,6,Yonkers|New York|10701
+York,Pennsylvania,East,17403,817.978,-102.16919999999999,2,York|Pennsylvania|17403
+Yucaipa,California,West,92399,50.8,13.208,1,Yucaipa|California|92399
+Yuma,Arizona,West,85364,840.865,-465.9909,4,Yuma|Arizona|85364

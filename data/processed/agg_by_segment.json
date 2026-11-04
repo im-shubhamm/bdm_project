@@ -1,0 +1,23 @@
+[
+ {
+  "Segment": "Consumer",
+  "Sales": 1161401.345,
+  "Profit": 134119.2092,
+  "Customers": 409,
+  "ProfitMargin": 0.11548050101491833
+ },
+ {
+  "Segment": "Corporate",
+  "Sales": 706146.3668,
+  "Profit": 91979.134,
+  "Customers": 236,
+  "ProfitMargin": 0.13025505521867398
+ },
+ {
+  "Segment": "Home Office",
+  "Sales": 429653.1485,
+  "Profit": 60298.6785,
+  "Customers": 148,
+  "ProfitMargin": 0.14034268970334335
+ }
+]

@@ -6,8 +6,9 @@ dist/
 *.log
 .vercel
 web/client/dist/
-web/server/.env
 .mongo-binaries/
 coverage/
+__pycache__/
+*.pyc
 .idea/
 .vscode/

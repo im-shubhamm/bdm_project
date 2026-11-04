@@ -1,0 +1,38 @@
+[
+ {
+  "OrderYear": 2016,
+  "Sales": 484247.4981,
+  "Profit": 49543.9741,
+  "Orders": 969,
+  "Lines": 1993,
+  "Qty": 7581,
+  "ProfitMargin": 0.10231126499236734
+ },
+ {
+  "OrderYear": 2017,
+  "Sales": 470532.509,
+  "Profit": 61618.6037,
+  "Orders": 1038,
+  "Lines": 2102,
+  "Qty": 7979,
+  "ProfitMargin": 0.13095504034557578
+ },
+ {
+  "OrderYear": 2018,
+  "Sales": 609205.598,
+  "Profit": 81795.1743,
+  "Orders": 1315,
+  "Lines": 2587,
+  "Qty": 9837,
+  "ProfitMargin": 0.13426530315632457
+ },
+ {
+  "OrderYear": 2019,
+  "Sales": 733215.2552,
+  "Profit": 93439.2696,
+  "Orders": 1687,
+  "Lines": 3312,
+  "Qty": 12476,
+  "ProfitMargin": 0.12743770528139442
+ }
+]
