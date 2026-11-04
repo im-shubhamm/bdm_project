@@ -62,10 +62,20 @@ app.get('/api/monthly', (_req, res) => {
 app.get('/api/customers/top', (req, res) => {
   const limit = Number(req.query.limit || 15);
   const key = req.query.sort === 'profit' ? 'Profit' : 'Sales';
+  const slim = table('top_customers');
+  if (slim.length) {
+    res.json(sortBy(slim, key, -1).slice(0, limit));
+    return;
+  }
   res.json(sortBy(table('dim_customers'), key, -1).slice(0, limit));
 });
 
 app.get('/api/customers/rfm', (_req, res) => {
+  const slim = table('agg_by_rfm');
+  if (slim.length) {
+    res.json(sortBy(slim, 'sales', -1));
+    return;
+  }
   const map = new Map();
   for (const c of table('dim_customers')) {
     const seg = c.RFMSegment || 'Others';
@@ -80,6 +90,11 @@ app.get('/api/customers/rfm', (_req, res) => {
 
 app.get('/api/products/worst', (req, res) => {
   const limit = Number(req.query.limit || 10);
+  const slim = table('worst_products');
+  if (slim.length) {
+    res.json(slim.slice(0, limit));
+    return;
+  }
   const rows = table('dim_products').filter(p => (p.Profit || 0) < 0);
   res.json(sortBy(rows, 'Profit', 1).slice(0, limit));
 });

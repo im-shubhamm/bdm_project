@@ -18,12 +18,7 @@ export default function Customers() {
     <div className="page">
       <h1>Customer value (RFM)</h1>
       <p className="lead">Champions vs At Risk — who to keep, who to win back.</p>
-      {!top.length && (
-        <div className="finding">
-          Customer dimension rows are available in the repo under <code>data/processed/dim_customers.json</code> / Power BI CSVs.
-          This hosted build ships aggregates for the core charts; open those files locally for the full RFM table.
-        </div>
-      )}
+      {!top.length && <div className="finding">No customer rows loaded yet.</div>}
       <div className="grid grid-2">
         <div className="card">
           <h2>RFM segments</h2>

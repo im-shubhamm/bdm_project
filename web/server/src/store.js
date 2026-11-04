@@ -26,6 +26,7 @@ const FILES = [
   'summary', 'fact_sales', 'dim_customers', 'dim_products', 'dim_locations',
   'dim_calendar', 'agg_by_year', 'agg_by_category', 'agg_by_subcategory',
   'agg_by_region', 'agg_by_segment', 'agg_by_discount', 'agg_monthly',
+  'agg_by_rfm', 'top_customers', 'worst_products',
 ];
 
 export function loadJsonStore() {
