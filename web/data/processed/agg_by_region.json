@@ -1,0 +1,30 @@
+[
+ {
+  "Region": "Central",
+  "Sales": 501239.8908,
+  "Profit": 39706.3625,
+  "Orders": 1175,
+  "ProfitMargin": 0.07921628591177565
+ },
+ {
+  "Region": "East",
+  "Sales": 678781.24,
+  "Profit": 91522.78,
+  "Orders": 1401,
+  "ProfitMargin": 0.13483398568882074
+ },
+ {
+  "Region": "South",
+  "Sales": 391721.905,
+  "Profit": 46749.4303,
+  "Orders": 822,
+  "ProfitMargin": 0.11934341609004478
+ },
+ {
+  "Region": "West",
+  "Sales": 725457.8245,
+  "Profit": 108418.4489,
+  "Orders": 1611,
+  "ProfitMargin": 0.14944831420727203
+ }
+]

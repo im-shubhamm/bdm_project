@@ -1,8 +1,14 @@
 {
   "framework": null,
-  "installCommand": "npm --prefix client install && npm --prefix server install",
+  "installCommand": "npm install && npm --prefix client install && npm --prefix server install",
   "buildCommand": "npm --prefix client run build",
   "outputDirectory": "client/dist",
+  "functions": {
+    "api/index.js": {
+      "maxDuration": 30,
+      "includeFiles": "data/processed/**"
+    }
+  },
   "rewrites": [
     { "source": "/api/(.*)", "destination": "/api" },
     { "source": "/(.*)", "destination": "/index.html" }

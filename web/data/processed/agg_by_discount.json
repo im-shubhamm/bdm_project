@@ -1,0 +1,30 @@
+[
+ {
+  "DiscountBand": "High (>40%)",
+  "Sales": 128632.25200000001,
+  "Profit": -99558.5905,
+  "Lines": 933,
+  "ProfitMargin": -0.7739784459343836
+ },
+ {
+  "DiscountBand": "Low (\u226420%)",
+  "Sales": 846522.2405,
+  "Profit": 100785.4745,
+  "Lines": 3803,
+  "ProfitMargin": 0.11905827121620675
+ },
+ {
+  "DiscountBand": "Medium (21\u201340%)",
+  "Sales": 234137.8978,
+  "Profit": -35817.4655,
+  "Lines": 460,
+  "ProfitMargin": -0.15297594211166612
+ },
+ {
+  "DiscountBand": "No discount",
+  "Sales": 1087908.47,
+  "Profit": 320987.6032,
+  "Lines": 4798,
+  "ProfitMargin": 0.2950501922280282
+ }
+]

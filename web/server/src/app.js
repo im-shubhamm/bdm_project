@@ -1,120 +1,102 @@
 import express from 'express';
 import cors from 'cors';
-import mongoose from 'mongoose';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { connectDB, getMongoUri } from './db.js';
+import { loadJsonStore, table, sortBy, useMongo } from './store.js';
 
 const app = express();
 app.use(cors());
 app.use(express.json());
 
+// Warm JSON cache on cold start
+loadJsonStore();
+
 app.get('/api/health', async (_req, res) => {
-  try { await connectDB(); } catch (e) { console.error(e.message); }
-  const ok = mongoose.connection.readyState === 1;
-  let collections = [];
-  let totalDocs = 0;
-  if (ok && mongoose.connection.db) {
-    const cols = await mongoose.connection.db.listCollections().toArray();
-    for (const c of cols) {
-      const count = await mongoose.connection.db.collection(c.name).countDocuments();
-      collections.push({ name: c.name, count });
-      totalDocs += count;
-    }
-  }
+  const tables = loadJsonStore();
+  const collections = Object.entries(tables).map(([name, rows]) => ({
+    name,
+    count: Array.isArray(rows) ? rows.length : 0,
+  }));
+  const totalDocs = collections.reduce((s, c) => s + c.count, 0);
   res.json({
     status: 'ok',
-    db: ok ? 'connected' : 'disconnected',
-    database: mongoose.connection.name || 'superstore_bdm',
-    uri: getMongoUri().replace(/\/\/([^:]+):([^@]+)@/, '//$1:****@'),
+    db: useMongo() ? 'mongodb' : 'json-files',
+    database: useMongo() ? 'superstore_bdm' : 'web/data/processed',
     totalDocs,
     collections: collections.sort((a, b) => b.count - a.count),
   });
 });
 
-app.use('/api', async (_req, _res, next) => {
-  try { await connectDB(); next(); } catch (e) { next(e); }
+app.get('/api/summary', (_req, res) => {
+  res.json(table('summary')[0] || {});
 });
 
-const col = name => mongoose.connection.db.collection(name);
-
-app.get('/api/summary', async (_req, res, next) => {
-  try {
-    const [summary] = await col('summary').find().toArray();
-    res.json(summary || {});
-  } catch (e) { next(e); }
+app.get('/api/years', (_req, res) => {
+  res.json(sortBy(table('agg_by_year'), 'OrderYear', 1));
 });
 
-app.get('/api/years', async (_req, res, next) => {
-  try { res.json(await col('agg_by_year').find().sort({ OrderYear: 1 }).toArray()); }
-  catch (e) { next(e); }
+app.get('/api/categories', (_req, res) => {
+  res.json(sortBy(table('agg_by_category'), 'Sales', -1));
 });
 
-app.get('/api/categories', async (_req, res, next) => {
-  try { res.json(await col('agg_by_category').find().sort({ Sales: -1 }).toArray()); }
-  catch (e) { next(e); }
+app.get('/api/subcategories', (_req, res) => {
+  res.json(sortBy(table('agg_by_subcategory'), 'Profit', 1));
 });
 
-app.get('/api/subcategories', async (_req, res, next) => {
-  try { res.json(await col('agg_by_subcategory').find().sort({ Profit: 1 }).toArray()); }
-  catch (e) { next(e); }
+app.get('/api/regions', (_req, res) => {
+  res.json(sortBy(table('agg_by_region'), 'Sales', -1));
 });
 
-app.get('/api/regions', async (_req, res, next) => {
-  try { res.json(await col('agg_by_region').find().sort({ Sales: -1 }).toArray()); }
-  catch (e) { next(e); }
+app.get('/api/segments', (_req, res) => {
+  res.json(sortBy(table('agg_by_segment'), 'Sales', -1));
 });
 
-app.get('/api/segments', async (_req, res, next) => {
-  try { res.json(await col('agg_by_segment').find().sort({ Sales: -1 }).toArray()); }
-  catch (e) { next(e); }
+app.get('/api/discounts', (_req, res) => {
+  res.json(table('agg_by_discount'));
 });
 
-app.get('/api/discounts', async (_req, res, next) => {
-  try { res.json(await col('agg_by_discount').find().toArray()); }
-  catch (e) { next(e); }
+app.get('/api/monthly', (_req, res) => {
+  res.json(sortBy(table('agg_monthly'), 'OrderMonth', 1));
 });
 
-app.get('/api/monthly', async (_req, res, next) => {
-  try { res.json(await col('agg_monthly').find().sort({ OrderMonth: 1 }).toArray()); }
-  catch (e) { next(e); }
+app.get('/api/customers/top', (req, res) => {
+  const limit = Number(req.query.limit || 15);
+  const key = req.query.sort === 'profit' ? 'Profit' : 'Sales';
+  res.json(sortBy(table('dim_customers'), key, -1).slice(0, limit));
 });
 
-app.get('/api/customers/top', async (req, res, next) => {
-  try {
-    const limit = Number(req.query.limit || 15);
-    const sort = req.query.sort === 'profit' ? { Profit: -1 } : { Sales: -1 };
-    res.json(await col('dim_customers').find().sort(sort).limit(limit).toArray());
-  } catch (e) { next(e); }
+app.get('/api/customers/rfm', (_req, res) => {
+  const map = new Map();
+  for (const c of table('dim_customers')) {
+    const seg = c.RFMSegment || 'Others';
+    const cur = map.get(seg) || { segment: seg, customers: 0, sales: 0, profit: 0 };
+    cur.customers += 1;
+    cur.sales += c.Sales || 0;
+    cur.profit += c.Profit || 0;
+    map.set(seg, cur);
+  }
+  res.json([...map.values()].sort((a, b) => b.sales - a.sales));
 });
 
-app.get('/api/customers/rfm', async (_req, res, next) => {
-  try {
-    const rows = await col('dim_customers').aggregate([
-      { $group: { _id: '$RFMSegment', customers: { $sum: 1 }, sales: { $sum: '$Sales' }, profit: { $sum: '$Profit' } } },
-      { $project: { _id: 0, segment: '$_id', customers: 1, sales: 1, profit: 1 } },
-      { $sort: { sales: -1 } },
-    ]).toArray();
-    res.json(rows);
-  } catch (e) { next(e); }
+app.get('/api/products/worst', (req, res) => {
+  const limit = Number(req.query.limit || 10);
+  const rows = table('dim_products').filter(p => (p.Profit || 0) < 0);
+  res.json(sortBy(rows, 'Profit', 1).slice(0, limit));
 });
 
-app.get('/api/products/worst', async (req, res, next) => {
-  try {
-    const limit = Number(req.query.limit || 10);
-    res.json(await col('dim_products').find({ Profit: { $lt: 0 } }).sort({ Profit: 1 }).limit(limit).toArray());
-  } catch (e) { next(e); }
-});
-
-app.get('/api/sales', async (req, res, next) => {
-  try {
-    const filter = {};
-    if (req.query.year) filter.OrderYear = Number(req.query.year);
-    if (req.query.category) filter.Category = req.query.category;
-    if (req.query.region) filter.Region = req.query.region;
-    const limit = Math.min(Number(req.query.limit || 100), 500);
-    res.json(await col('fact_sales').find(filter).sort({ Sales: -1 }).limit(limit).toArray());
-  } catch (e) { next(e); }
+app.get('/api/sales', (req, res) => {
+  const filter = {};
+  if (req.query.year) filter.OrderYear = Number(req.query.year);
+  if (req.query.category) filter.Category = req.query.category;
+  if (req.query.region) filter.Region = req.query.region;
+  const limit = Math.min(Number(req.query.limit || 100), 500);
+  let rows = table('fact_sales');
+  rows = rows.filter(r =>
+    (filter.OrderYear == null || r.OrderYear === filter.OrderYear) &&
+    (filter.Category == null || r.Category === filter.Category) &&
+    (filter.Region == null || r.Region === filter.Region),
+  );
+  res.json(sortBy(rows, 'Sales', -1).slice(0, limit));
 });
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));

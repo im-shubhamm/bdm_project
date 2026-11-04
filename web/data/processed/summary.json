@@ -1,0 +1,21 @@
+[
+ {
+  "source": "Sample Superstore (public retail sample via GitHub mirror of Tableau Superstore)",
+  "sourceUrl": "https://raw.githubusercontent.com/ThigasSantos/BaseSuperStore/main/sales.csv",
+  "rows": 9994,
+  "orders": 5009,
+  "customers": 793,
+  "products": 1862,
+  "sales": 2297200.86,
+  "profit": 286397.02,
+  "margin": 0.1247,
+  "lossLines": 1871,
+  "years": [
+   2016,
+   2017,
+   2018,
+   2019
+  ],
+  "topInsight": "Furniture posts solid sales but weak profit; high discounts drive most loss-making lines."
+ }
+]

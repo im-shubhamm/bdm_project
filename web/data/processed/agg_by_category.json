@@ -1,0 +1,26 @@
+[
+ {
+  "Category": "Furniture",
+  "Sales": 741999.7953,
+  "Profit": 18451.2728,
+  "Qty": 8028,
+  "Lines": 2121,
+  "ProfitMargin": 0.024866951334588865
+ },
+ {
+  "Category": "Office Supplies",
+  "Sales": 719047.032,
+  "Profit": 122490.8008,
+  "Qty": 22906,
+  "Lines": 6026,
+  "ProfitMargin": 0.1703515839002865
+ },
+ {
+  "Category": "Technology",
+  "Sales": 836154.033,
+  "Profit": 145454.9481,
+  "Qty": 6939,
+  "Lines": 1847,
+  "ProfitMargin": 0.17395712076891937
+ }
+]
