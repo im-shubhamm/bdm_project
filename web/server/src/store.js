@@ -32,6 +32,11 @@ export function loadJsonStore() {
   if (cache.loaded) return cache.tables;
   for (const name of FILES) {
     const path = join(DATA, `${name}.json`);
+    if (!existsSync(path)) {
+      // Optional on serverless if aggregates/dims cover the dashboard.
+      cache.tables[name] = name === 'summary' ? [{}] : [];
+      continue;
+    }
     cache.tables[name] = JSON.parse(readFileSync(path, 'utf8'));
   }
   cache.loaded = true;
