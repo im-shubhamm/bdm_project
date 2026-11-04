@@ -77,12 +77,21 @@ export default function Methodology() {
           <table className="data-table">
             <tbody>{SOURCES.map(([k, v]) => <tr key={k}><td className="cell--strong">{k}</td><td style={{ color: 'var(--muted)' }}>{v}</td></tr>)}</tbody>
           </table>
+          <CardHead title="Project team" />
+          <table className="data-table">
+            <tbody>
+              <tr><td className="cell--strong">Shubham</td><td>2023IMG048</td></tr>
+              <tr><td className="cell--strong">Arkadip Siddha</td><td>2023IMG009</td></tr>
+              <tr><td className="cell--strong">Advitya Ranjan</td><td>2023IMG004</td></tr>
+              <tr><td className="cell--strong">Chayan Das</td><td>2023IMG017</td></tr>
+            </tbody>
+          </table>
           <CardHead title="Limitations" />
           <ul style={{ ...p, paddingLeft: 18 }}>
             <li>Players without a recorded transfer fee are excluded from value measures.</li>
-            <li>Loan fees and add-ons are simplified into a single fee where disclosed.</li>
-            <li>Base / disclosed fees are incomplete in earlier seasons.</li>
-            <li>A small share of spend is not matched to match-event data (players who rarely featured).</li>
+            <li>Fees attach to the arrival season only; later seasons are unpriced.</li>
+            <li>Homegrown status is proxied by English nationality.</li>
+            <li>Some fees are rounded demo figures suitable for coursework.</li>
           </ul>
         </div>
       </div>
