@@ -3,21 +3,27 @@ import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxi
 import { getJson, money } from '../lib/api.js';
 
 export default function Customers() {
-  const [top, setTop] = useState([]);
+  const [top, setTop] = useState(null);
   const [rfm, setRfm] = useState([]);
 
   useEffect(() => {
-    Promise.all([getJson('/customers/top?limit=12'), getJson('/customers/rfm')]).then(([t, r]) => {
-      setTop(t); setRfm(r);
-    });
+    Promise.all([getJson('/customers/top?limit=12'), getJson('/customers/rfm')])
+      .then(([t, r]) => { setTop(t); setRfm(r); })
+      .catch(() => { setTop([]); setRfm([]); });
   }, []);
 
-  if (!top.length) return <div className="loading">Loading customers…</div>;
+  if (top === null) return <div className="loading">Loading customers…</div>;
 
   return (
     <div className="page">
       <h1>Customer value (RFM)</h1>
       <p className="lead">Champions vs At Risk — who to keep, who to win back.</p>
+      {!top.length && (
+        <div className="finding">
+          Customer dimension rows are available in the repo under <code>data/processed/dim_customers.json</code> / Power BI CSVs.
+          This hosted build ships aggregates for the core charts; open those files locally for the full RFM table.
+        </div>
+      )}
       <div className="grid grid-2">
         <div className="card">
           <h2>RFM segments</h2>
